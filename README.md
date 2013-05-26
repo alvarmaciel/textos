@@ -1,4 +1,5 @@
-textos
+Textos
 ======
 
-Repositorio de ideas y escritos
+Repositorio de ideas y escritos.
+
