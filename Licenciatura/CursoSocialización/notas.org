@@ -1,0 +1,1080 @@
+              Educación:
+     Riesgos y promesas de las
+     nuevas tecnologías de la
+            información
+Nicholas C. Burbules
+Thomas A. Callister (h)
+                               GRANICA EDITORIAL
+                                            España, 2001
+                        Este material se utiliza con fines
+                              exclusivamente didácticos
+ÍNDICE
+    Capítulo 1
+    Las promesas de riesgo y los riesgos promisorios
+    de las nuevas tecnologías de la información en educación ................................................. 13
+            Tecnologías de la “información” ................................................................................ 16
+            “Tecnologías” de la información ................................................................................ 20
+            Una mirada “postecnocrática” a la tecnología ............................................................ 23
+            Lo bueno, lo malo y lo desconocido ........................................................................... 31
+            Conclusiones ............................................................................................................... 36
+            Notas ........................................................................................................................... 38
+    Capítulo 2
+    Interrogantes sobre el acceso y la
+    credibilidad: ¿acceso para quién? ¿acceso a qué? .............................................................. 41
+            Cuestiones relacionadas con el acceso ........................................................................ 43
+                    Acceso técnico ............................................................................................... 45
+                    Técnicas, actitudes y predisposiciones para el acceso ................................... 47
+                    Acceso práctico.............................................................................................. 49
+                    La forma y el contenido como cuestiones de acceso ..................................... 51
+            Cuestiones relacionadas con la credibilidad ............................................................... 62
+                    Evaluación de la credibilidad ......................................................................... 63
+                    Obtención de credibilidad .............................................................................. 67
+            Dilemas del acceso ..................................................................................................... 69
+            Notas ........................................................................................................................... 72
+    Capítulo 3
+    Hipertexto: el conocimiento en la encrucijada .................................................................... 75
+            ¿Qué es un hipertexto? ................................................................................................ 78
+            Hipertexto y pensamiento ........................................................................................... 86
+            Escritura y lectura de hipertexto ................................................................................. 89
+                    Autoría y diseño ............................................................................................. 93
+                    Lectura activa ................................................................................................. 96
+                    Rutas, huellas y aprendizaje ........................................................................... 98
+            Dilemas relativos a la educación .............................................................................. 106
+            Conclusiones ............................................................................................................. 108
+            Notas ......................................................................................................................... 114
+    Capítulo 4
+    Lectura critica en la Internet .............................................................................................. 119
+            El usuario crítico ....................................................................................................... 121
+                    Juicios de credibilidad .................................................................................. 122
+                    Más allá de la credibilidad ........................................................................... 128
+                    El juicio crítico como práctica social ........................................................... 131
+            Hiperlectura .............................................................................................................. 137
+                    Enlaces e hiperlectura .................................................................................. 138
+                    Diferentes tipos de enlaces ........................................................................... 141
+                    La hiperlectura como lectura crítica ............................................................. 149
+            Notas ......................................................................................................................... 155
+    Capítulo 5
+    Información inexacta, información injuriosa, información
+    intrincada e información inútil: ¿es la censura la mejor respuesta? .............................. 157
+            El contenido problemático: las cuatro I .................................................................... 159
+                    Información inexacta ................................................................................... 159
+                    Información injuriosa ................................................................................... 162
+                                                                    2
+                Información intrincada ................................................................................. 163
+                Información inútil ........................................................................................ 166
+                Qué hacer con las cuatro I ............................................................................ 168
+        Cinco respuestas ....................................................................................................... 169
+                Censura ........................................................................................................ 169
+                Filtros ........................................................................................................... 176
+                Parcelación ................................................................................................... 181
+                Rotulación .................................................................................................... 184
+                Lectores críticos ........................................................................................... 187
+        Conclusiones ............................................................................................................. 190
+        Notas ......................................................................................................................... 195
+Capítulo 6
+Vigilancia e intimidad: ¿puede la tecnología proteger lo que quita? .............................. 197
+        Los significados cambiantes de la palabra “privado” ............................................... 197
+        La intimidad y los jóvenes ........................................................................................ 200
+        Tecnologías de vigilancia ......................................................................................... 203
+        La publicidad y la Internet ........................................................................................ 207
+        Consentimiento e identidad ...................................................................................... 209
+        El pacto con el Diablo ............................................................................................... 213
+        Notas ......................................................................................................................... 220
+Capítulo 7
+Información en venta:
+la comercialización y el potencial educativo de la Internet .............................................. 223
+        Equipos y programas de computación, actualizaciones y tiempo de inactividad ..... 224
+        Propagandas, anunciantes, promociones y marcas ................................................... 231
+        Saben dónde vives .................................................................................................... 240
+        Conclusiones ............................................................................................................. 245
+        Notas ......................................................................................................................... 247
+Capítulo 8
+¿Qué clase de comunidad puede ser la Internet? .............................................................. 249
+        La gran comunidad ................................................................................................... 250
+        Las condiciones de la comunidad ............................................................................. 256
+                Condiciones mediadoras de la comunidad ................................................... 257
+                Condiciones políticas de la comunidad ........................................................ 260
+                El espacio y el lugar como condiciones de la comunidad............................ 262
+        Las condiciones de las comunidades on line ............................................................ 266
+                Condiciones mediadoras de las comunidades virtuales ............................... 266
+                Condiciones políticas de las comunidades on line ....................................... 275
+                El espacio y el lugar como condiciones para las comunidades on line ........ 280
+        ¿Constituye la Internet una comunidad educativa? .................................................. 285
+        Notas ......................................................................................................................... 291
+Agradecimientos .................................................................................................................. 295
+Índice temático ..................................................................................................................... 297
+                                                                3
+CAPÍTULO 3
+HIPERTEXTO: EL CONOCIMIENTO EN LA ENCRUCIJADA
+         Según señalamos en el capítulo inicial, cuando nos acostumbramos a las tecnologías, éstas tienden a
+volverse invisibles, se incorporan al orden natural de las cosas. La escritura y lectura lineales son ejemplos
+de esto. Algunas de las primeras formas de escritura empleaban rollos de hojas de pergamino pegadas una a
+continuación de otra. Un invento posterior, el libro o códice, se armaba con páginas de papel superpuestas y
+unidas entre sí con hilos, a fin de que se las leyera en orden (en una etapa posterior se numeraron para poner
+de manifiesto la secuencia).1 Se escribe con la intención de que la lectura se realice en un orden particular (en
+Occidente, de izquierda a derecha y de arriba hacia abajo). De hecho, podríamos imaginar un libro completo
+escrito en una sola línea sobre una tira de papel angosta y continua (semejante a la cinta de la máquina de
+escribir).
+         Otros aspectos de la forma de escribir expresan esta misma naturaleza secuencial. La estructura
+clásica de un ensayo – introducción, desarrollo y conclusión – implica el orden en el que se pretende que se
+lean las secciones intencionadas. Incluso los párrafos respetan a menudo la misma estructura. El esquema,
+que muchos alumnos aprenden a formular como primer paso de un escrito, no es más que una organización
+de ideas jerárquica y seriada, en la que se distinguen los temas principales y secundarios, organizados según
+su importancia y relacionados entre sí. El formato mismo del silogismo, propio de la lógica occidental
+(primera premisa, segunda premisa, conclusión) sugiere la necesidad de una secuencia; la conclusión no
+puede preceder a las premisas. Aun los modelos de la retórica – tanto en la escritura como en el habla –
+responden a esta clase de patrón, ya sea al enumerar expresamente los puntos de la sucesión (“Primero...
+Segundo... Tercero...”) o al utilizar otras expresiones con la misma finalidad (“Asimismo... Por lo tanto... En
+conclusión...”).
+         Ahora bien, el hecho de que las ideas se impriman según una determinada disposición no significa
+que necesariamente se conciban o lean de igual modo. La escritura, en especial en la era de los procesadores
+de texto, suele consistir en cortar y pegar, mover fragmentos de un lado a otro, bosquejar las secciones
+finales antes de terminar las primeras, etc. La ilusión de continuidad y concatenación surge a menudo de
+hacer varias versiones del texto y eliminar todo indicio de que fue compuesto en momentos discontinuos. De
+manera semejante, la práctica de la lectura no suele ser lineal ni ininterrumpida. Omitimos partes, volvemos
+atrás para releer otras, nos detenemos.
+         El hipertexto lleva estas cuestiones aún más lejos. A pesar de que no se trata de un formato del todo
+nuevo Y sin precedentes, este modo de hacer asociaciones laterales además de lineales, de conectar ideas y
+texto mediante enlaces y yuxtaposiciones, Y no necesariamente obedeciendo a una secuencia lógica, adquirió
+su mayor relevancia en el HTML (Hypertext Markup Language, es decir “Lenguaje demarcado de
+hipertexto”), una de las estructuras subyacentes que hace de la Web esta especie de telaraña – tal el
+significado del término en inglés – o de red.2
+         En este capítulo queremos presentar algunas de las posibilidades y peligros inherentes a los sistemas
+hipertextuales de aprendizaje.3 Las nuevas fuentes y métodos técnicos para organizar la información objetan
+las ideas tradicionales acerca de qué es un texto, qué significa leer medios o fuentes de información
+diversos, y cuál es la relación entre un autor y un lector. Aquí, el cambio cuantitativo – cambio en el
+volumen de información textual a la que se tiene acceso, la velocidad de acceso y la cantidad de enlaces
+posibles entre componentes textuales separados – puede impulsar un cambio cualitativo en los procesos de
+lectura y construcción del conocimiento. Los cambios mencionados ponen de manifiesto cuestiones
+fundamentales respecto de la teoría y práctica educativas; no nos parece exagerado compararlos en escala e
+importancia – como han hecho otros – con la mismísima invención de la imprenta, una innovación técnica
+1
+  Ver Jay David Bolter: Writing Space: The Computer, Hypertext, and the History of Writing, Hillsdale, NJ, Erlbaum,
+1991.
+2
+  La obra de Ilana Snyder, Hypertext: The Electronic Labyrinth (Victoria: Melbourne University Press, 1996) es una
+excelente reseña sobre el hipertexto y sus características.
+3
+  Como muchos amores, emplearemos el término “hipertextual” con carácter inclusivo, refiriéndonos asimismo a los
+entornos denominados “hipermediales”. La expresión “hipermedial” se refiere a un sistema hipertextual que enlaza
+otros medios diversos (imagen, sonido, etc.) además de textos propiamente dichos. Si bien la multiplicidad de medios
+como fuentes de información plantea una serie de cuestiones importantes, en especial con relación al aprendizaje y sus
+distintos estilos, todos estos medios pueden considerarse “textos” en un sentido amplio del término, y cuando se los
+organiza como hipertextos, dan lugar a muchos de los problemas propios de los hipertextos que sólo contienen palabras.
+                                                            4
+que, con el tiempo, tuvo efectos trascendentales en los hábitos sociales, económicos, políticos, religiosos y
+educativos.
+         Nos ocuparemos de las características en las que el hipertexto se asemeja y en las que difiere de otros
+modos de creación, organización, almacenamiento y recuperación de información. Analizaremos cómo
+influye el hipertexto en la información que organiza y las consecuencias de dicha influencia, tanto para los
+lectores como para los escritores de sistemas hipertextuales. Por último, exploraremos una serie de temas
+problemáticos, centrándonos en el riesgo de parcialidad y distorsión que acarrea el uso de hipertextos, así
+como en la exigencia paradójica según la cual los sistemas hipertextuales deben lograr el equilibrio entre la
+flexibilidad y la posibilidad de acceso. Los usos educativos del hipertexto, tanto por medio de los CD-ROMS
+como de la World Wide Web, se multiplicarán en los años próximos; sin embargo, el crecimiento del
+fenómeno del hipertexto no siempre ha estado acompañado de una reflexión crítica sobre los supuestos
+implícitos en relación con el conocimiento y el aprendizaje, sobre los posibles alcances de lograr ciertos
+beneficios educativos en detrimento de otros, o sobre los temas relativos al acceso y la equidad. Pretendemos
+comenzar dicha conversación crítica en este trabajo.
+         A modo de presentación de este entorno de aprendizaje nuevo y complejo en términos conceptuales,
+observaremos diversas analogías y paralelismos literarios, en busca del desarrollo de distintos puntos de
+contacto con la idea básica del hipertexto. Como los primeros borradores de este capítulo fueron escritos en
+forma interactiva, a través del correo electrónico, quisimos mantener en alguna medida el sabor de las dos
+“voces” mediante el uso del tipo de letra normal y de la itálica.4 Estas secciones pueden leerse en un orden
+diferente del presentado aquí, y si bien muchas de las ideas básicas surgirán de todos modos, quienes opten
+por una lectura en otra secuencia hallarán sin duda conexiones nuevas que no previmos o destacamos en
+nuestra disposición original. A veces retomaremos un mismo tema o materia desde ópticas distintas, lo que
+sugiere la existencia de un vínculo entre los conceptos que se asemeja a los que permite la Web. Con todo
+esto, intentamos incorporar en este capítulo algunos elementos del modelo hipertextual.5
+¿Qué es un hipertexto?
+         El hipertexto no es un formato sin precedentes. En un texto escrito, como éste, las notas al pie o citas
+de otras fuentes que aparecen intercaladas son de naturaleza hipertextual, pues desvían la atención del lector
+hacia otras fuentes o puntos de vista, entretejidos en una secuencia narrativa lineal, pero que permiten
+apartarse de ella. Las formas retóricas, entre las que se incluye el uso de frases como “Anteriormente... Más
+adelante... En otra publicación sosteníamos que...”, etc., establecen puntos de contacto con textos previos o
+posteriores que pueden invitar al lector a dar marcha atrás o adelantarse para leer algún otro escrito, que
+coincida o contraste con el primero. No obstante, en las formas retóricas corrientes, estos recursos se
+consideran desvíos o complementos del cuerpo “principal”, y la mayoría de los autores dan por sentado que
+el argumento central que presentan se encuentra contenido en ese núcleo, estructurado y lineal; si los lectores
+deciden no tomar las rutas laterales, no se pierden nada esencial.
+         Por el contrario, el hipertexto describe una especie de entorno de información en el que el material
+textual y las ideas se entrelazan de maneras múltiples. Algunos ejemplos familiares de sistemas
+hipertextuales que empleamos a diario tal vez ayuden a ilustrar mejor los modos como los hipertextos
+enlazan la información6 a la que organizan como los catálogos de tarjetas de las bibliotecas o los ficheros
+tradicionales. Pero se trata de algo más que eso, puesto que influye en la información que sistematiza. A
+4
+  El texto en letra redonda y el que aparece en itálica no se corresponden directamente con los aportes de cada uno de
+los autores de este libro.
+5
+  5. Muchos buenos libros que tratan este tenia de manera introductoria adoptan también elementos de un modelo
+hipertextual en el modo de presentar la información. Por ejemplo, ver Jay David Bolter: Writing Space: The Cumputer,
+Hypertext, and the History of Writing (op.cit,), que puede adquirirse en versiones impresa y magnética; Robert E. Horn:
+Mapping Hypertext, Lexington, MA, Lexington Institute, 1989; y David H. Jonassen: Hypertext/Hypermedia,
+Englewood Cliffs, NJ, Educational Technology, 1989. Otros materiales introductorios útiles son George P. Landow:
+Hypertext: The Convergence of Contemporary Critical Theory and Technology, Baltimore, Johns Hopkins University,
+1992; una edición especial de Educational Technology, Vol. 28, No 11 (1988), dirigida por Gary Marchionini; Jakob
+Nielsen: Hypertext and Hypermedia, Nueva York, Academic Press, 1990; Ben Shneiderman y Greg Kearsley:
+Hypertext Hand-on!, Nueva York, Addison-Wesley, 1989; y Cliff McKnight, Andrew Dillon y John Richardson:
+Hypertext in Context.
+6
+  Se hallarán debates sobre varias de estas analogías en J. Conklin: Hypertext: An introduction and survey”, IEEE
+Computer, Vol. 20, No 91 1987, págs. 17-41; Robert E. Horn, Mapping Hypertext, Lexington, MA, Lexington Institute,
+1989; y McKnight, Dillon y Richardson, op. cit.
+                                                            5
+medida que el procedimiento crece y evoluciona, la propia estructura de la información se modifica. Quien
+haya diseñado alguna vez una base de datos relacional compleja conoce la importancia de ordenar y
+representar determinado contenido en relación con ciertos puntos de contacto posibles y no con otros. El
+proceso que analizamos no sólo se ocupa de asociar datos inconexos, sino de cambiarlos mediante la
+identificación y creación de vínculos entre ellos. Quizá nos ayude a entenderlo mejor una comparación con el
+funcionamiento del lenguaje figurado y los tropos: se yuxtaponen ciertos términos o conceptos en una
+analogía o metáfora (por ejemplo, “La política es como los embutidos: nadie quiere saber demasiado acerca
+de su preparación”), modificándose el modo en que se ve y comprende cada uno de los elementos (probable
+mente cause en la gente una peor impresión de los embutidos). ¿Acaso existe alguien que ante una rosa no
+piense, en un romance? Luego de la película Forrest Gump, ¿habrá quien vea una caja de bombones como
+una simple caja de bombones? Al establecer tales conexiones figuradas, la forma y el contenido se vuelven
+interdependientes. Lo mismo ocurre con el hipertexto. Esto plantea cuestiones más profundas sobre el
+conocimiento: dado que depende de la organización significativa de la información, la existencia de nuevos
+métodos de organización implica cambios en las formas de conocimiento.7 Asimismo, en la medida en que
+los sistemas hipertextuales incorporan la posibilidad de imponer modelos organizadores para la información
+existente, así como la de fomentar la capacidad del usuario para imaginar y crear nuevos modelos, el
+hipertexto pone en tela de juicio las distinciones absolutas entre acceder al conocimiento y generarlo.
+          En hiperpertexto, como en los textos en general, hay una relación interactiva entre su estructura y las
+estrategias de lectura que propone. Su forma, o las intenciones del autor al organizarlo de un modo
+particular, no determinan las maneras en las que puede ser recibido. Los comentarios marginales, notas y
+subrayados que agrega el lector suelen representar sus propias ideas acerca de las relaciones internas y
+órdenes de importancia, que a su vez incluyen enlaces con otras ideas a partir de las asociaciones
+establecidas durante la lectura. En este proceso, el lector modifica el texto activamente, lo personaliza y lo
+convierte en un hipertexto propio. Por lo tanto, en algún sentido todo texto es un hipertexto rudimentario, en
+el que aparecen opciones implícitas – a veces incluidas por el autor, otras por el lector – sobre pertinencia,
+selectividad y formas significativas de enlace con otras fuentes. Los hipertextos en que estas posibilidades
+están explícitas no hacen sino poner de relieve una estructura basada en articulaciones que es inherente, en
+cierto grado, a todos los textos; la diferencia es que los hipertextos invitan activamente a leer el mismo
+material de maneras múltiples y facilitan dicha tarea. Así, el lector ya no se limita a consumir el texto, sino
+que contribuye a él de modo activo: la distinción entre autor y lector, según señalaran Michel Foucault y
+muchos otros, comienza a desvanecerse.8
+          Damos por sentado que la numeración de las páginas y capítulos de un libro establecen un orden
+determinado en el que deben leerse. ¿Pero por qué debe ser siempre así? El orden en que fueron escritos los
+155 breves capítulos de la novela Rayuela, de Julio Cortázar9, o en el que se los ha impreso en hojas cosidas
+entre sí, no determina necesariamente cómo debe leérselos.10 El Dictionary of the Khazars, de Milorad Pavic
+(no es un libro único; de hecho, existen versiones diferentes), aplica un criterio parecido.11 Las obras de
+Jorge Luis Borges, Ítalo Calvino, Umberto Eco y Milan Kundera tienen rasgos hipertextuales, o tratan
+explícitamente temáticas hipertextuales.12
+          Entonces, un hipertexto es, al mismo tiempo, un modo de composición o diseño, y un proceso de
+escritura. Puede incluir una narración o debate central que permita la lectura secuencial, aunque también
+ofrece oportunidades de desviarse del texto primario para analizar otros materiales. En realidad, hay quienes,
+al referirse al hipertexto, hablan de “notas electrónicas al pie”; tal descripción es algo superficial. En primer
+lugar, esa denominación ignora la transformación del vínculo entre el texto primario o principal y los
+7
+  J.C. Nyiri: “The concepto of knowledge in the context of electronic network”, The Monist, Vol. 80, No 3, 1997, págs.
+405-422.
+8
+   Michel Foucault, “What is an author?”, en Textual Strategies: Perspectives in Post-structuralist Criticism, ed. por
+Josue Harari, Ithaca, NY, Cornell University Press, 1979, págs. 141-160. Este cambio de perspectiva también puede
+tener alcances significativos respecto de la concepción de los derechos de autor y )a propiedad intelectual. Ver Nicholas
+C. Burbules y Bertram C. Bruce: “This is not a paper” (en revisión de la publicación de 1995).
+9
+   Julio Cortázar, Hopscotch, Nueva York, Avon Books, 1966. (En español, Rayuela, Editorial Sudamericana, Buenos
+Aires, 1961) Otro libro más reciente, con una apariencia sumamente “hipertextual”, es Avital Ronell: The Telephone
+Book, Lincoln, NE, University of Nebraska Press, 1989.
+10
+    Si hablamos de hipermedios, el “texto” de cada página no sólo incluye palabras, sino figuras, música, animaciones,
+etc.
+11
+    Milorad Pavic: Dictionary of the Khazars, Nueva York, Alfred Knopf, 1989.
+12
+     Ver también la novela hipertextual experimental de Michael Joyce, Afternoon, http://jefferson.village.
+virginia.edu/elab/hf10179.html
+                                                            6
+materiales subsidiarios o auxiliares – diferenciación inherente a la idea de nota al pie – en una coexistencia
+entre elementos textuales múltiples, a los que posiblemente se haya asignado el mismo nivel de importancia,
+sin que uno prevalezca sobre otro. En segundo lugar, la noción de “nota al pie” no contempla la capacidad
+propia del hipertexto para incorporar enlaces más ricos y cuyo carácter multidimensional supera
+ampliamente la naturaleza de las notas al pie (incluso en recursos multimedia). Asimismo, podemos imaginar
+la interconexión de todas estas fuentes complementarias a través de un sistema complejo de referencias
+cruzadas. ¿Cuál es el “texto” que estoy leyendo ? ¿Acaso debería concentrarme en el “texto primario “? ¿O
+éste no es más que la capa superior en una de sus versiones, la vía de acceso a un sistema completo de
+información textual interconectada, desde cuyo interior puede conducirme a descubrimientos muy distantes
+del texto primario ? ¿Es posible que ya no regrese a dicho texto, ni sienta la necesidad de hacerlo? Por
+ejemplo, si a partir de un comentario incluido en la introducción de un texto me dirijo a la cita, y de allí a
+una biografía del autor citado y, a continuación, a un relato histórico acerca de la época del autor, no sólo
+obtendré información que desconocía, sino que relacionaré estos “nodos” de una manera que tal vez difiera
+totalmente de la intención del ensayo original. Esta clase de entorno proporciona al lector mucha más
+libertad de determinación respecto de qué se relaciona con qué, o en qué secuencia deberían aparecer las
+ideas. El texto primario es una vía de acceso a una red mucho más amplia y compleja de material de
+referencia que podemos explorar. Ya no nos sirve Pensar estrictamente en términos de textos individuales.
+Por supuesto que es posible hablar de “leer un libro”, como El segundo sexo de Simone de Beauvoir. Se
+comienza por la página número uno y se sigue leyendo hasta el final. No obstante, en una nueva edición
+hipertextual, el libro mencionado podría presentarse junto con el original en francés (Le deuxième sexe), de
+modo tal que el lector pasara del texto en francés a la traducción al español tantas veces como deseara sin
+la menor dificultad. En fragmentos claves, podrían incluirse traducciones múltiples de frases esenciales o
+ambiguas. Otra, alternativa consistiría en publicar el libro junto con La mística femenina, de Betty Friedan,
+en una edición en la que pasajes de una de las obras hicieran referencia a pasajes de la otra, poniendo de
+relieve puntos de similitud y contraste entre ambas. Seria posible leer el hipertexto obtenido sin seguir el
+contenido de cada libro en forma secuencial, sino yendo y viniendo entre uno y otro, avanzando y
+retrocediendo dentro de cada una de las obras; de este modo, sólo se llegaría indirectamente a una noción
+de la línea narrativa o argumento de uno y otro por separado.13 ¿Qué libro leemos: el de Beauvoir el de
+Friedan, o uno nuevo?. Este tipo de lectura implica un enfoque muy diferente de un texto o autor
+determinado y plantea una gran cantidad de cuestiones nuevas acerca de qué significa “leer” con
+eficiencia. Un sistema hipertextual desarrolla una relación ambigua con todo texto primario que pueda
+integrarlo, al incorporarlo, comentario e incluso alterarlo en el proceso.
+         Gilles Deleuze y Félix Guattari proponen una analogía muy interesante para esta forma de construir
+el texto, en su examen de los rizomas.14 Una planta rizomática (la menta, ciertos pastos y malezas, etc.)
+depende de un sistema descentrado de raíces independientes, que se esparcen en todas las direcciones. Por su
+parte, una estructura vegetal como la del árbol depende de una raíz principal y de un conjunto de raíces
+organizadas según una especie de jerarquía; dichas raíces muestran un tamaño, un grado de proximidad al
+centro y una importancia progresivos respecto del sistema (“todo punto de un rizoma puede, y debe, estar
+conectado con algún otro. Esto difiere en gran medida de lo que ocurre con los árboles o raíces principales,
+que establecen un punto fijo y por ende un orden”15) Deleuze y Guattari vuelcan estas dos metáforas, la del
+rizoma o pasto en contraposición con la del sistema de raíces o árbol, en dos modelos básicos de texto. El
+hipertexto es en esencia rizomático:16
+                  Un rizoma establece incesantemente conexiones entre cadenas semióticas, organizaciones de poder y
+         circunstancias relativas a las artes, ciencias y conflictos sociales. (. ..) Un rizoma puede romperse, quebrarse en
+         un punto, pero resurgirá en alguna de sus antiguas líneas, o en una nueva. ( ... ) Estas líneas están siempre
+         enlazadas con otras. Por eso nunca se puede plantear un dualismo o dicotomía, ni siquiera bajo la
+         forma rudimentaria del bien y el mal. ( ... ) El rizoma no admite ningún modelo estructural ni
+13
+   Ver Jacques Derrida: Glas, Lincoln, University of Nebraska Press, 1986, en el cual se publican juntos dos ensayos
+sobre temas que a primera vista no guardan relación alguna.
+14
+   Giles Deleuze y Félix Guattari: “Rhizome”, en On the Line, Nueva York, Semiotex(e), 1983, págs. 1-65.
+Agradecemos esta referencia a Zelia Gregoriou.
+15
+   Deleuze y Guattari: “Rhizome”, págs. 11, 47-49.
+16
+   De hecho, el origen de la Internet como una red de comunicaciones y ordenadores subvencionada con fondos
+militares fue precisamente rizomático, de ¡nodo tal que si alguna porción de la red era destruida, el resto seguiría
+funcionando. La Web no tiene un “centro”.
+                                                               7
+           generativo. Es extraño a toda idea de eje genético o estructura profunda. ( ... ). Un rizoma es algo
+           absolutamente distinto, un mapa y no un trayecto.17
+           Según mencionamos antes, esta estructura rizomática puede verse como un rasgo de la organización
+del hipertexto y, al mismo tiempo, como una manera de leer cualquier texto sin responder a secuencias ni
+jerarquías; la diferencia radica en la medida en que determinado hipertexto, mediante la representación
+explícita de dicha estructura carente de secuencias y jerarquías, incentiva tales lecturas. A pesar de lo
+explicado, un hipertexto puede organizarse de modo secuencial y jerárquico; sin embargo, ésta es sólo una de
+las formas de organización posibles, y sólo uno de los posibles órdenes de lectura. La relevancia de los
+sistemas hipertextuales informáticos, en comparación con otros hipertextos más sencillos, reside en la
+cantidad de asociaciones viables, y la facilidad y velocidad con que se las concreta. Sólo con una red de
+ordenadores es posible acceder en forma directa, prácticamente de inmediato, a todos los otros nodos
+conectados. (Y sólo con un ordenador pueden establecerse tales enlaces de manera conveniente con fuentes
+multimedia.). Cuando leemos un libro en el que se hace referencia a un fragmento de otro, según cuán
+interesados estemos, podemos levantarnos, ir a la biblioteca, hallar el libro, pedirlo, volver a la oficina,
+encontrar el fragmento en cuestión, leerlo y luego (quizá) regresar al texto original (tal vez el segundo libro
+nos resulte más interesante o útil). Podría ocurrir, por supuesto, que no consiguiéramos el libro, o que
+estuviera lloviendo, o que no hubiese una biblioteca cerca. En un sistema hipertextual, el elemento al que se
+hace referencia puede aparecer en la pantalla del ordenador con sólo presionar una tecla, en forma tan
+sencilla y automática como cuando pasamos a la hoja siguiente o buscamos alguna otra parte del mismo
+volumen. Como ya dijimos, esta referencia puede conducirnos a una tercera, o de regreso al material original.
+El pasaje instantáneo de un texto a otro es posible únicamente con una conexión on line. La frontera que
+separa los materiales primarios de los complementarios pierde intensidad, hasta desaparecer. De acuerdo con
+la descripción de Paul Delaney y George Landow:
+                    [En un hipertexto] el texto parece descomponerse, fragmentarse y atomizarse en sus elementos
+           constitutivos (lexia o bloques), y estas unidades de lectura adquieren vida propia al volverse más autónomas y
+           menos dependientes de los elementos previos o posteriores en una sucesión lineal.18
+           Por otra parte, el hipertexto flexibiliza los parámetros que establecen qué puede buscarse. En los
+modelos tradicionales de organización de datos, los parámetros de búsqueda son fijos. Por ejemplo, para
+acceder a información a partir del catálogo de tarjetas de una biblioteca, debemos servirnos de ciertas
+categorías de búsqueda fijas, tales como autor, título o descripciones y palabras clave codificadas por
+anticipado. El hipertexto, en cambio, funciona entre dos segmentos cualesquiera, permitiendo el acceso a
+ellos de maneras flexibles y personalizadas.19 Además, en algunas clases de hipertexto los enlaces no son
+exclusivamente pasivos (integrados al sistema), sino activos, es decir, permiten a los lectores crear nuevos
+enlaces, y nuevos tipos de enlaces, en función de cómo entiendan el material. Por ende, la inmediatez y
+flexibilidad del hipertexto on line exceden las meras cuestiones de gradación; surge algo distinto y casi sin
+precedentes.
+Hipertexto y pensamiento
+           Como advirtió Vannevar Bush, la estructura de los entornos hipertextuales es análoga a los modos en
+que aprendemos – en forma dinámica e interactiva, por medio de asociaciones y exploración –, y puede
+facilitarlos.20 El hipertexto proporciona al usuario la libertad de establecer el curso de navegación a través del
+material en función de su propio interés, curiosidad y experiencia, o de la naturaleza de la tarea que debe
+realizar, en lugar de seguir un camino predeterminado por el autor. El hipertexto concreta la idea de una
+lectura interactiva.
+           Este proceso de seleccionar y asimilar activamente información nueva a partir de estructuras
+cognitivas coherentes para cada persona, combina las posibilidades del hipertexto con las teorías
+constructivistas del aprendizaje, en especial con la de los esquemas. Este vínculo es particularmente fuerte si
+17
+   Ibíd., págs. 11-25.
+18
+   Delaney y Landow: “Hypertext, hypermedia, and literary studies”, pág. 10.
+19
+   C. Carr: “Hypertext: A new training tool?”, en Educational Technology, Vol. 28, No 8, 1988, págs. 7-11. Delaney, y,
+Landow, eds.: Hypermedia and Literary Studies, Cambridge, MA, MIT Press, 1991.
+20
+   Vannevar Bush: “As we may think”, en Atlantic Monthly, Vol. 176, No 1, 1945, págs. 101-108.
+                                                               8
+pensamos en campos complejos e indeterminados del conocimiento, que requieren un alto grado de
+“flexibilidad cognitiva” y tolerancia a la ambigüedad.21
+          El aprendizaje y la comprensión funcionan por medio de asociaciones. Logramos comprender algo
+cuando podemos asociarlo con otras cosas que ya sabemos. La mente y la memoria son en sí mismas
+hiperentornos: no aprendemos nada nuevo en forma aislada; y si lo hacemos, es poco probable que
+retengamos mucho tiempo lo aprendido. La información que incorporamos mejor es la que puede integrarse
+con conocimientos anteriores, a menudo mediante asociaciones múltiples y complejas. John Slatin enuncia
+muy bien este concepto cuando aborda la necesidad de escribir de modo tal de “sorprender” al lector:
+                    El valor informativo de un documento no depende simplemente de la cantidad de información que
+          registra o de los hechos que contiene. En cierto nivel de abstracción, lo que denominamos información tal vez
+          consista en números, fechas y otros datos, otros hechos.[...] En un nivel algo más elevado [...], ninguno de
+          estos datos puede considerarse información hasta que se los contextualiza, hasta que se los ordena de modo tal
+          que tanto las diferencias como las relaciones significativas entre ellos se vuelven evidentes para el lector. [ ... ]
+          Sólo entonces la información se transforma en conocimiento.22
+          Como ya expresamos, en este proceso de establecer patrones de asociación activos, novedosos e
+idiosincrásicos, los elementos recombinados entre sí se ven también de manera diferente.
+          En un hipertexto, las piezas informativas no deben considerarse como meros hechos aislados o
+puntos de referencia inconexos, sino como nodos de líneas múltiples de asociación que se van cruzando.
+Existen frases provenientes de la literatura y otros campos –“Twas brillig”23 o “Fourscore and seven years
+ago”24 – o incluso escenas de películas – Cary Grant colgado de Mount Rushmore, Humphrey Bogart
+despidiéndose en Casablanca, etc.– que evocan una vasta gama de reacciones, imágenes y asociaciones, las
+cuales, a su vez, se apartan en gran medida de la narración en la que aparecieron originariamente. Se
+interponen entre ese texto y los nodos de asociación que evocan. Solemos toparnos con estos nodos
+familiares, o con referencias a ellos, en contextos completamente nuevos o inesperados, por lo cual los
+percibimos de modo distinto.
+          El año 1492 no indica sólo que “Colón descubrió América también remite a “la expulsión de los
+judíos de España “, “la culminación por parte de Miguel Ángel de una de sus primeras esculturas, “El
+combate de los centauros’”, y por supuesto, muchos otros acontecimientos, desde los memorables hasta los
+triviales. Esto resulta emocionante, por un lado, y desconcertante, por el otro. ¿Por qué la llegada de Colón
+a América es “más central” en cuanto a la importancia del año 1492 que la suerte corrida por los judíos en
+España o el logro artístico de Miguel Ángel? ¿Para quién es “más central”? ¿Según qué criterios? ¿Qué
+representa ese mismo año para los pueblos originarios de América del Norte, que se encontraban allí antes
+de la llegada de Colón (aunque para ellos, se sobrentiende, el año no era “1492”) ? ¿En qué forma cambia
+nuestra comprensión de “1492” en ese contexto? ¿Por qué 1492 y no 1493?
+          En las representaciones hipertextuales del conocimiento, los nodos se “nivelan”; a priori ninguno es
+más importante o “central” que otro. Éste es el estado del sueño posestructuralista: un bricolaje ilimitado de
+fragmentos y piezas que pueden reunirse entre sí formando asociaciones nuevas e impredecibles:25
+21
+    Ver Thomas M. Duffy David H. Jonassen, eds.: Constructivism and the Technology of Instruction, Hillsdale, NJ,
+Lawrence Erlbaum, 1992. Ver también el útil debate de David Jonassen sobre el hipertexto y la teoría de los esquemas,
+en Hypertext/Hypermedia, pág. 23; David Chen: “An epistemic analysis of the interaction between knowledge,
+education, and technology”, en Barrett: Sociomedia: Multimedia, Hypermedia, and the Social Construction of
+Knowledge, págs. 161-173; M. C. Linn: “Hypermedia as a personalized tool for knowledge organization”, presentado
+en las reuniones de la Asociación Norteamericana de Investigación Educativa (abril de 1991), realizadas en Chicago,
+Illinois; y Rand J. Spiro, Richard L. Coulson, Paul Feltovicli y Daniel K. Anderson: “Cognitive flexibility Theory:
+Advanced knowledge acquisition in ill-structured domains”, en Tenth Annual Conference of the Cognitive Science
+Society, Hillsdale, NJ, Erlbaum, 1988, págs. 375-384; Rand J. Spiro y J. Jehng: “Cognitive flexibility and hypertext:
+Theory and technology for the linear and multidimensional traversal of complex subject matter”, en Spiro, R. J. y Nix,
+D., eds.: Cognition, Education, and Multimedia: Exploring Ideas in High Technology; (Hillsdale, NJ, Erlbaum, 1990,
+págs. 164-205; y Rand J. Spiro, Paul Feltovich, Michael J. Jacobson y Richard L. Coulson: “Cognitive flexibility,
+constructivism, and hypertext”, en Educational Technology, mayo de 1991, págs. 24-33.
+22
+   Slatin, “Reading hypertext”, pág. 873.
+23
+   Fragmento muy conocido de un poema de Lewis Carroll. [N. del T.]
+24
+   Principio de un discurso famoso de Abraham Lincoln. [N. del T.]
+25
+   Acerca del “bricolaje” ver Claude Lévi-Strauss: The Strange Mind, Chicago: University of Chicago Press, 1966, págs.
+16-37. La mejor fuente sobre la relación entre el hipertexto y la teoría postestructuralista es Landow: Hypertext; ver
+también Delaney y Landow, “Hypertext, hypermedia, and literary studies”. Aparecen referencias adicionales a la
+relación entre el hipertexto y el posmodernismo en Norman N. Holland: “Eliza meets the postmodern”, En Ejournal,
+                                                             9
+                   El hipertexto no tiene centro (...) [lo que] significa que quienquiera que use el hipertexto convierte a
+          sus propios intereses en el principio organizador (o eje) de la investigación que está llevando a cabo. El
+          hipertexto se percibe como un sistema que se descentra y vuelve a centrarse infinitamente.26
+          Las posibilidades de innovación y creatividad inherentes a esta visión de la lectura deberían quedar
+claras, al igual que su posibilidad de generar caos, arbitrariedad e innumerables permutaciones y
+yuxtaposiciones sin propósito alguno.27
+          En este punto comenzamos a advertir un dilema (el primero de varios que plantearemos en esta
+sección): por un lado, es verdad que los hipertextos posibilitan la generación de enlaces múltiples entre los
+nodos y puntos diversos de asociación; pero, por el otro, producen el efecto de fragmentar y
+descontextualizar cada nodo, al liberarlo de su posición en alguna narración o línea argumentativa originaria.
+En determinados contextos las asociaciones laterales pueden resultar más útiles que las lineales; sin embargo,
+la nivelación de todas ellas hace que parezcan arbitrarias. Y aun así, no parece arbitrario, por ejemplo, que
+prevalezca la idea de una secuencia histórica, o de un relato literario, o de una explicación lógica, como
+formas específicas de relacionar núcleos de información (incluso si reconocemos que existen otras maneras
+de organizar la misma información). Si no hay ningún punto de partida, aunque sólo sea provisional, la
+exploración de un sistema rizomático podría ser anárquica; una imagen interesante para interpretar la
+literatura vanguardista, tal vez, pero no necesariamente para alumnos principiantes. Cuestionar determinadas
+narrativas es una cosa; proponer lecturas alternativas, otra; pero la propia teoría constructivista que fomenta
+estas posibilidades, también explica por qué leer sin ningún tipo de centro no es leer.
+Escritura y lectura de hipertexto
+          La producción de textos tradicionales tiende a ser más excluyente que inclusiva. Los autores dedican
+muchas horas a decidir qué dejar de lado. Dadas sus limitaciones de espacio, y a menudo de tiempo,
+necesitan aplicar una autodisciplina bastante estricta al elaborar un texto, pues éste puede ocuparse sólo de
+determinados temas, y no de muchos otros que tal vez fueran interesantes, pertinentes e importantes, pero
+para los cuales no hay cabida. Los hipertextos eliminan algunas de estas restricciones. Casi todo lo que se
+considere interesante, pertinente e importante – cualquiera sea el punto de vista – puede incluirse y ponerse
+al alcance del lector. Cuando se trabaja con hipertextos, se destaca la posibilidad de incorporar más y más
+fuentes, multiplicar la cantidad de datos y diversificar los rumbos de las asociaciones significativas... hasta
+un grado potencialmente infinito (y quizás, en cierto sentido, contraproducente).28 Umberto Eco denomina
+proceso de “semiosis ilimitada” a este fenómeno.29
+          En su libro Is There a Text in This Class?, Stanley Fish incluye una anécdota muy adecuada para
+este lema. Un día, al entrar en el aula donde dicta clases de poesía religiosa inglesa del siglo XVII, Fish
+advierte una lista de nombres escritos en la pizarra, que ha quedado de la clase anterior: “Jacobs-
+Rosenbaum, Levin, Thorne, Hayes, Ohman”. Agrega “pág. 43”, les dice a los alumnos que es un poema
+religioso, y les pide que lo interpreten. Ellos cumplen la consigna con entusiasmo. La lección que Fish
+extrae del episodio es que “La interpretación no es el arte de analizar, sino el arte de construir. Los
+intérpretes no decodifican poemas; los crean”.30 Según parece, casi cualquier conjunto finito de nodos
+puede ser objeto de alguna clase de interpretación coherente. ¿ Quién es e1 “autor” del poema: el profesor
+de la clase anterior que dejó la lista en la pizarra? ¿Fish? ¿Sus alumnos? ¿Acaso es realmente un
+“poema”?
+          Para elaborar su material, los autores de hipertextos necesitan tener en cuenta cuál será su grado de
+adaptación a este sistema transformado de lectura. Pueden seguir escribiendo oraciones o creando páginas en
+prosa. No obstante, en el texto terminado, las cuestiones tradicionales relativas al principio y el final, el
+Vol. 4, No1, 1994, y Bolter: Writing Space, ver asimismo el debate protagonizado por Joe Amato y Doug Brent sobre el
+libro de Bolter en Ejournal, Vol. 1, No2, 1991 y Vol. 1, No 2-1, 1991. Por último, ver Micael Peters y Colin Lankshear:
+“Critical literacy and digital textism”, en Educational Theory, Vol. 46, No1, 1996, págs. 51-70.
+26
+   Delaney y Landow, “Hypertext, hypermedia, and literary studies”, pág. 18.
+27
+   Para un debate. sobre este problema y sus consecuencias, ver Bernard Williams: “The Riddle of Umberto Eco”, en
+New York Review of Books, 2 de febrero de 1995, págs. 33-35.
+28
+   Slatin, “Reading hypertext”.
+29
+   Umberto Eco, A Theory of Semiotics, Bloomington, IN, Indiana University Press, 1976, págs. 69 y sgs
+30
+   Stanley Fish: Is There a Text in This Class? The Authority of Interpretive Comunities, Cambridge, MA, Harvard
+University Press, 198), págs. 322-327.
+                                                              10
+orden y la secuencia se complican en extremo, pues deben contemplarse asimismo las referentes a la
+posibilidad de navegación a través de múltiples puntos de entrada y salida.31 El proceso de escritura se
+convierte además en uno de diseño:
+                   El desafío del autor consiste en diseñar la estructura de la base de datos hipertextual a fin de que se
+          adecue a las formas en que el usuario podría pensar acerca de los temas planteados. ( ... ) El conocimiento debe
+          estructurarse de modo tal que respalde los modelos mentales que quizá produzcan los lectores al visar el
+          sistema hipertextual.32
+          La capacidad del autor para imponer unilateralmente una estructura y secuencia necesarias se debilita
+a medida que la red de enlaces se vuelve más y más compleja.
+           La relación entre autor y lector es recíproca: el “acceso” a la información textual influye en su
+“producción”, y no sólo a la inversa. Los lectores se convierten en escritores, y éstos deben considerar sus
+propias producciones corno si fueran lectores.
+          Un ejemplo excelente de este proceso de lectura como forma de autoría, a menudo citado como
+precursor de la actividad hipertextual, es la obra de Roland Barthes, S/Z, un análisis y comentario
+exhaustivo de la nouvelle Sarrasine de Balzar.33 A pesar de que la narración consta de sólo unas decenas de
+páginas, Barthes la descompone en más de 500 unidades textuales independientes, o lexias, cada una de las
+cuales trata en detalle; luego establece entre ellas referencias cruzadas de manera sorprendentemente
+intrincada, generando en el proceso un texto paralelo que eclipsa al original. De hecho, el libro de Barthes
+se lee sin dificultad de manera autónoma, aunque no se sepa nada de Balzac o su obra; y es obvio que la
+novelita puede leerse sin la asistencia de Barthes. ¿Cuál es el texto primario en este caso? ¿ Cuál sirve para
+ampliar e ilustrar el otro? Habiendo leído Sarrasine mediante la red interpretativa de lectura/escritura
+creada por Barthes, ¿sería posible limitarse a leerla en forma aislada?
+          En Small World, novela de David Lodge, aparece un extraño fragmento sobre un crítico literario
+que estudia “la influencia de T. S. Eliot en Shakespeare”.34 En un entorno hipertextual, esto podría tener
+sentido, pues la verdadera secuencia histórica de la creación de textos no es la única limitación respecto de
+la lectura. No se trata de que Eliot (la persona) haya influido en Shakespeare (la persona), por supuesto,
+sino de que nuestra comprensión de Eliot influye en nuestra comprensión de Shakespeare. No podemos leer a
+Shakespeare sin que los ecos de Eliot coloreen esa lectura (comparemos, en este sentido, con la “influencia
+de Barthes en Balzac”). Algo parecido señala el escritor más hipertextual de todos los tiempos, Jorge Luis
+Borges. En su ensayo breve “Kafka y sus precursores”, sugiere que releer autores previos con la
+comprensión actual que se posee de su influencia en Kafka no sólo da lugar a una nueva lectura de este
+último, sino a una nueva lectura de cada uno de dichos textos respecto de los otros:
+                   Si no me equivoco, las heterogéneas piezas que he enumerado se parecen a Kafka; si no me equivoco,
+          no todas se parecen entre sí. Este último hecho es el más significativo. En cada uno de esos textos está la
+          idiosincrasia de Kafka, en grado mayor o menor, pero si Kafka no hubiera escrito, no la percibiríamos; vale
+          decir, no existiría [ ... ]. El hecho es que cada escritor crea a sus precursores.35
+          Estos ejemplos ilustran con mayor claridad que hipertexto es en realidad un término híbrido, que
+abarca tanto los desarrollos tecnológicos que hicieron posible y conveniente fragmentar escritos y establecer
+remisiones internas complejas, como una visión teórica del texto (cualquier texto) como ente descentrado,
+con final abierto, y dependiente de otros textos, que se encuentra entre nosotros desde hace mucho tiempo
+(algunos autores opinan que el Talmud fue uno de los primeros hipertextos). Cuando hablamos de
+31
+   Jay David Bolter: “Topographic writing: Hypertext and electronic writing”, en Delaney y Landow, eds.: Hypermedia
+and Literary Studies, Cambridge, MA: MIT Press, 1991, págs. 105-118; ver también Bolter: Writing Space, Cliff
+McKnight, John Richardson y Andrew Dillon: “The authoring of hypertext documents”, en Ray McAleese, ed.:
+Hypertext: Theory into Practice, Norwood, NJ, Ablex, 1989, págs. 138-147.
+32
+   Shneiderman y Kearsley: Hypertext Hands-on! citado en Henrietta Shirk: “Cognitive architecture in hypermedia
+instruction”, en Barren, ed.: Sociomedia: Multimedia, Hypermedia, and the Social Construction of Knowledge, pág. 81.
+33
+   Roland Barthes: S/Z: An Essay, NY, Hill and Wang, 1974. Para otro examen de este ejemplo, ver George P. Landow:
+Hypertext: The Convergence of Contemporary Cristal Theory and Technology, Baltimore, Johns Hopkins University,
+1992.
+34
+   David Lodge: Small WorId, Nueva York, Warner Books, 1984.
+35
+   Jorge- Luis Borges: “Kafka and his precursors”, en Labyrinths, Nueva York, New Direction, 1964, pág. 201. (En
+español, “Kafka y, sus precursores”, en Obras completas, Emecé, Buenos Aires, 1974, pág. 710.) Deseamos agradecer a
+Punya. Mishra por esta referencia.
+                                                               11
+hiperlectura nos referimos al mismo tiempo a la lectura que los hipertextos tienden a incentivar y a una
+concepción más genérica de la lectura como tarea activa y constructiva, que puede aplicarse, hasta cierto
+punto, a cualquier clase de texto. La hiperlectura se basa en la idea de que nunca existe una manera única de
+leer, de que el lector crea una versión mientras lee, de que todo escrito mantiene siempre una relación con
+muchos otros a los que se refiere (ya sea implícita o explícitamente), y de que, en este sentido, leer es un
+proceso que siempre funciona con cierto grado de hipertextualidad en relación con otros. El proceso al que
+Eco denomina “semiosis ilimitada”, aquel en el cual se juega con interpretaciones múltiples, aquel en el que
+se cuestionan las interpretaciones acreditadas (incluso las del propio autor), todos ellos delegan en el lector la
+responsabilidad y el poder de ser más crítico en su lectura y de aplicar la noción de constructivismo en forma
+activa. Pero como ya expresamos, aun cuando contemplemos este modelo de hiperlectura como la marca del
+lector completamente maduro, nos queda por resolver el problema del lector que se inicia en el aprendizaje
+de la lectura según este esquema, siguiendo un camino que podría conducirlo a este punto. No es claro en
+absoluto si este modelo tan descentrado es congruente con la idea de enseñar a leer a alumnos principiantes
+(un proceso en el que afirmaciones tales como “Esta oración tiene este significado” tienen un rigor y una
+contundencia indiscutibles, aunque sólo sean provisionales).
+Autoría y diseño
+         Esta visión amplía los significados de “texto” y “escritura” en otra dirección: más productos,
+textuales y otros, tienen una apariencia hipertextual. Los bibliotecarios, archivistas, catalogadores,
+elaboradores de índices, revisores, traductores, compiladores, etc., no se limitan a reunir la información,
+organizarla o proporcionar acceso a ella, sino que elaboran textos propios – hipertextos – al asociar
+informaciones. Obviamente, ninguna de estas actividades es nueva, pero su papel cobra relevancia con el
+aumento exponencial de la información a nuestro alcance y a medida que los medios técnicos de acceso y
+organización, en especial a través de la Internet, son cada vez más potentes y complejos.
+         En un sistema de información impulsado por la tecnología, estas actividades dejan de ser
+simplemente facilitadoras (como han sido) para volverse indispensables. En las áreas de la investigación,
+formación, producción literaria, periodismo y crónica, el volumen de material con el que se cuenta ha
+explotado; semejante estallido ha reducido – y acorta cada vez más – los plazos para la producción, consumo
+y vigencia de los datos (problema muy evidente en determinados campos científicos y técnicos, donde a
+mentido sucede que cuando un nuevo artículo de investigación llega a la imprenta, la información contenida
+en él ya resulta anticuada).36 Nadie puede leer todo, y es posible que hacerlo no valga la pena. Con el
+inmenso aumento en el caudal de textos, aumenta la necesidad de seleccionar, decidir qué texto leer, suponer
+cuál será mejor. Estos cambios implican que la selección, evaluación y organización de información nueva,
+con un formato que resulte accesible y conveniente para el usuario, es cada vez más responsabilidad de los
+intermediarios entre autores y lectores. Dichos intermediarios (como vimos en relación con Barthes, por
+ejemplo) suelen hacer su trabajo mediante la elaboración de hipertextos donde recopilan, relacionan y
+entremezclan elementos de textos diversos una versión coherente y útil.
+         En semejante entorno, los inventos que surjan a partir del conocimiento consistirán en métodos
+heurísticos: modos coordinados y ventajosos para asociar cosas ante un cúmulo abrumador de información,
+La “secuencia cronológica”, las “relaciones causales” o la “similitud analógica”, podrían ser métodos
+heurísticos. Éste es el tipo de herramientas interpretativas que el lector de hipertextos necesitará para acceder
+a información significativa relacionada con el texto que está leyendo. Además, el diseño de la interfaz de un
+hipertexto influirá en su grado de utilidad y posibilidades de acceso; numerosos lectores necesitarán contar
+con referencias que les muestren de manera explícita las estructuras encubiertas del sistema. Los índices,
+cuadros, mapas, glosarlos, conexiones, motores de búsqueda, etc., pasan a ser algo más que meras guías para
+desplazarse: representan elementos textuales clave en sí mismos, dotados de sus propias premisas
+interpretativas, énfasis y omisiones.
+36
+   Como resultado, son cada vez más los investigadores que recurren a medios electrónicos para publicar resultados de
+investigaciones y, otros datos. Para un examen de ternas relacionados con la publicación electrónica, ver Nicholas C.
+Burbules y Bertrani C. Bruce: “This is Not a Paper, , en Educational Researcher, Vol. 24, No 8, 1995, págs. 12-18;
+Nicholas C. Burbules: “Digital texts and the future of scholarly writing and ration al Researcher, Vol. 24, No 8, 199,55,
+págs, 12-18; Nicholas G. Burbules: 'Digital texts and the future of scholarly writing and publication”, en Journal of
+Curriculum Studies, Vol. 30, No 1, 1997, págs. 105-124.
+                                                           12
+          Diversos autores han tratado estos y otros temas relacionados con la necesidad de una “gramática
+hipertextual”.37 Los modos de conexión y argumentación en el hipertexto no se agotan en los métodos
+corrientes de la lógica y en la justificación de un argumento a partir de las pruebas. En los hipertextos, es
+más probable que los argumentos se valgan de enlaces y combinaciones de elementos, o de yuxtaposiciones
+que sugieran una conexión o inviten a probarla, pero sin abogar por ninguna en especial. Ellos permiten,
+como veremos más adelante, recurrir a medios diversos para exponer un asunto, sin limitarse a un
+razonamiento verbal explícito (por ejemplo, ejecutar determinada pieza musical como fondo para el
+recitado de un texto o intercalar en un video imágenes tomadas de otra fuente). Estos procedimientos
+pueden conducir a la creatividad o al desconcierto (y en algunos casos, tal vez sea esta última la intención
+principal). Dado que el hipertexto es tanto una forma de conectar ideas (por medio de links) como una ruta
+de navegación a través de un espacio informativo, podemos asociar el hecho de sentirse desorientado en
+términos conceptuales con el de encontrarse perdido en términos náuticos.38
+          Por lo expuesto, Delaney y Landow identifican la necesidad de crear “instrumentos estilísticos y
+retóricos” que orienten a los lectores respecto de su ubicación en el hipertexto, los ayuden a leer y navegar
+con eficiencia, les indiquen el destino de cada link y procuren que los recién llegados al documento se
+sientan cómodos en su interior.39 Uno de los mejores ejemplos que hallamos en los sistemas hipertextuales
+de hoy suele denominarse “señalador”: permite al lector marcar algún elemento importante (es decir,
+importante para él) de modo tal que pueda regresar a él directamente, sin tener que recordar ni volver a
+recorrer la ruta exacta que lo llevó a ese elemento. Esta es una manera sencilla en la que el lector puede
+personalizar un entorno hipertextual. David Jonassen también plantea interrogantes relativas a la
+navegación: ¿Cómo nos desplazamos por el documento? ¿Dónde están los puntos de entrada y salida? ¿
+Cómo influye la vía de acceso en la forma en que el lector comprende el material? ¿ Cuán estructurados
+debieran estar los hipertextos ? ¿ Qué riesgo existe de que el usuario sufra una “sobrecarga cognitiva” a
+causa de la riqueza potencial de los hiperentornos ? ¿De qué manera los autores podrían prever y atenuar
+dicho resultado?40
+Lectura activa
+          Creemos que para ocuparnos de asuntos tales como la organización y diseño de los hipertextos es
+necesario establecer diferencias entre las clases de lectores que estarán en contacto con ellos, ya sea en
+medios educativos o de otra naturaleza: los llamaremos navegadores, usuarios e hiperlectores.41 No se trata
+de grupos de personas distintas, sino de enfoques diferentes de la forma de abordar los sistemas
+hipertextuales, en especial respecto de la necesidad y grado de utilización por parte del lector de los
+materiales de guía explícitos para llevar a cabo asociaciones específicas entre elementos textuales, así como
+de sus habilidades para identificar y establecer asociaciones novedosas durante su propio proceso activo de
+lectura. En función de su objetivo, el usuario podrá adoptar alguno de estos enfoques, o todos ellos, incluso
+en una misma sesión; asimismo, quienes en ciertos contextos actúan como hiperlectores, con relación a
+materiales sobre los que saben bastante o que les despiertan un alto grado de interés, pueden tomar la actitud
+de navegadores en otros, y así sucesivamente.
+          Los navegadores son superficiales y curiosos. Los signos o ayudas que se ofrecen tal vez carezcan de
+sentido para ellos, pues lo único que les interesa es navegar. Según señala Slatin, debido a que las rutas de
+ciertos hipertextos se organizan jerárquicamente, quizá sea menos importante prever qué rumbo tomarán
+estos lectores, que proporcionarles un camino de regreso cuando se sientan extraviados.42 Así, un rasgo que
+adquiere especial relevancia en el universo textual de los navegadores es la lista de sus selecciones previas,
+37
+   Delaney y Landow:       Hypermedia and Literary Studies; Slatin: “Reading hypertext”; T. Byles: “A context for
+hypertext: Some suggested elements of style”, en Wilson Library Journal, Vol. 63, No3, 1988, págs. 60-62.
+38
+   Nicholas C. Burbules: “Aporias, webs, and passages: Doubt as an opportunity to learn”, en Curriculum Inquiry (en
+preparación).
+39
+   Delaney y Landow: Hypermedia and Literary Studies, pág. 19.
+40
+   David, Jonassen: “Designing structured hypertext and structuring access to hypertext”, en Educational Technology,
+Vol. 28, No11, 1988, págs. 13-16.
+41
+   Ver Slatin: “Reading hypertext”,, pág. 875, y Ray McAleese: “Navigation and browsing in hypertext”. en Ray
+McAleese, ed.: “Navigation and browsing in hypertext”, en Ray McAleese, ed.: Hypertext: Theory into Practice,
+Norwood, NJ, 1989, págs. 6-44. ver también Punyashloke Mishra y Kim Nguyen: “Readers reading hypertext fiction:
+An open-ended inquiry into the process of meaning making”, manuscrito inédito, Universidad de Illinois, mayo de
+1995.
+42
+   Slatin: “Reading hypertext”, pág. 875.
+                                                         13
+que muestre el orden en que se hicieron (la mayoría de las aplicaciones Web brindan esta clase de registro),
+lo cual le permite volver a cualquiera de las estaciones anteriores. Es posible que los navegadores vean
+muchos elementos textuales, pero no pretenden establecer asociaciones o patrones entre ellos de modo
+activo, ni necesitan saber cómo incorporar cambios o agregados a la información hallada.
+          Los usuarios, en cambio, tienen ideas bastante claras sobre lo que desean encontrar. Como a menudo
+buscan en el hipertexto información específica, requieren datos orientadores que exhiban cierto grado de
+precisión, signos que indiquen adónde los llevará tal o cual link y qué hallarán en ese lugar. Una vez que
+encuentran lo que quieren, su tarea ha terminado. Esta rutina plantea asuntos referentes al diseño y
+organización de los hipertextos y a la manera de crear rutas de enlace que al mismo tiempo proporcionen
+indicaciones adecuadas, un modelo heurístico útil y cierta capacidad de predicción, y sean lo suficientemente
+flexibles para que lectores más experimentados y diestros se desplacen con libertad entre las diversas
+fuentes.
+          Los hiperlectores exigen mucho más, ya que no sólo necesitan los recursos y guías para movilizarse
+dentro del sistema, sino los medios que les permitan modificarlo e intervenir activa – y tal vez
+permanentemente – en él, en función de sus propias lecturas. Como ya hemos mencionado, muchos
+universitarios recurren a esta práctica cuando resaltan o subrayan un libro, escriben notas en los márgenes,
+etc. Todas estas alteraciones y contribuciones pueden incorporarse al hipertexto si el entorno se encuentra
+estructurado de manera “dialógica”, es decir, si permite la respuesta del usuario (en contraposición con el
+modo “sólo lectura”, que no admite modificaciones ni adaptaciones).43
+          En nuestra opinión, es importante que los hipertextos, además de permitir a los autores establecer el
+contexto en el que la información adquiere sentido, habiliten a los lectores activos y experimentados para
+construir y registrar sus propios links significativos.
+Rutas, huellas y aprendizaje
+          Según señalamos, durante la creación de hipertextos los diseñadores hacen elecciones
+fundamentales. Hemos distinguido los textos más estáticos o pasivos de los más dialógicos o interactivos.44
+En los primeros, los links y rutas están preestablecidos; no pueden modificarse ni posibilitan a los lectores
+crear los propios. Es posible que los enlaces incorporados para acceder a otros materiales sean bastante
+complejos, y permitan su exploración a lo largo de innumerables rutas alternativas (como ocurre dentro de la
+World Wide Web), pero se restringen a los previstos y construidos por sus creadores. Es claro que esta forma
+de hipertexto es la más adecuada para los lectores relativamente inexpertos o menos diestros: los
+“navegadores” y los “usuarios”.
+          El modo de organización de los “usuarios” se asemeja a la huella que dejan los caminantes en un
+bosque: la dinámica de uso establece patrones y conexiones, que se refuerzan gradualmente con cada uso
+hasta que pasan a integrar los rasgos comunes del entorno. Existe un registro de la manera de explorar y
+evaluar el entorno por parte de personas diversas; este registro deja una huella que otros pueden seguir (o, a
+su vez, adaptar y enriquecer). Es poco habitual que los hipertextos ofrezcan al lector (hiperlector, según
+nuestra denominación) la posibilidad de introducir esta clase de modificaciones, aunque algunas aplicaciones
+Web ya brindan opciones para personalizar páginas y agregarles notas.45
+          No obstante, esto pone de manifiesto un nuevo dilema para autores y diseñadores (y educadores): el
+esquema y organización que podrían ser de mayor utilidad para los usuarios con menos experiencia, o que
+les resultaría más posible seguir con la intuición, quizá no concuerde en todos los aspectos con el esquema y
+organización que tal vez reflejarían la comprensión del tema desde un punto de vista “experto”.
+Probablemente, los “navegadores” y “usuarios” (y todo lector se desenvuelve como unos u otros en
+ocasiones) no deseen ni necesiten tener demasiado control sobre el texto. De hecho, la excesiva libertad de
+personalización e interacción puede interferir con los objetivos de estos lectores. Una vez más, advertimos
+que lo que en opinión de los diseñadores es más beneficioso, tal vez no sea lo más productivo o importante a
+los ojos del lector. Es evidente que este conflicto plantea cuestiones pedagógicas de mayor magnitud:
+                    La estructura organizativa del hipertexto puede reflejar la estructura organizativa del tema tratado o de
+          la red semántica de un experto. (...) Si partimos de que el aprendizaje es el proceso por el cual se reproduce la
+43
+   James Levin, de la Universidad de Illinois, Urbana/Champaign, elaboró un formato de “escrito interactivo” que
+facilita esta clase de interacción entre lector y escritor: http://lrsdb.edu:591/ipp/.
+44
+   Ver también Horn: Mapping Hypertext, págs, 11, 26-27.
+45
+   Es probable que Ted Nelson haya sido el primero en defender esta posibilidad; ver Jonassen: Hypertext/Hypermedia,
+pág. 22. Ver también Nielsen Hypertext and Hypermedia, pág. 13.
+                                                                14
+          estructura de conocimientos del experto en la estructura de conocimiento del alumno, debería facilitarse el
+          aprendizaje mediante un hipertexto que reprodujera los conocimientos del experto.46
+          No nos ocuparemos en el marco de nuestro proyecto de mediar en esta polémica; y según se
+expresara en algunas oportunidades, ciertos autores parecen sostener ambas posturas al mismo tiempo.47
+Como se habrá advertido, cada uno de estos enfoques se presta a abusos peligrosos. Aquí nuestra intención
+es sólo destacar la tensión fundamental que existe entre ellos, así como el hecho de que reflejan
+concepciones del aprendizaje que difieren en aspectos clave. Si optamos por un sistema hipertextual
+“pasivo”, nuestra elección habla de una predilección por determinadas posibilidades de aprendizaje
+inherentes al tipo de sistema desarrollado.
+          El asunto subyacente en este debate es que lo que denominamos hipertexto activo, dialógico, guarda
+una relación multifacética con el aprendizaje: 1) puede facilitarlo, al permitirle al lector establecer
+conexiones nuevas que estimulen su razonamiento; 2) puede funcionar como manifestación externa del
+aprendizaje, al ofrecerle al lector la posibilidad de incorporar en el hipertexto un registro de las conexiones
+que genera a su paso; y 3) puede impulsar la metacognición al igual que un nuevo aprendizaje, pues las
+modificaciones y agregados al sistema hipertextual – que ofrecen al lector la posibilidad de regresar a las
+conexiones que él mismo creó – lo ayudan a reflexionar sobre tales cambios e introducir otros.
+          Lamentablemente, este deseo de estructurar un hipertexto según un modelo abierto y dialógico, por
+valioso que sea, se topa con un inconveniente si analizamos las dificultades concretas de quien aprende y de
+los distintos tipos de lectores a cuyo alcance pueda estar el hipertexto. Por otra parte, una organización que
+sólo permita a los lectores novatos emprender búsquedas a partir de conexiones directas y explícitas quizá no
+facilite el desarrollo de la independencia y autonomía necesarias para modificar o agregar contenidos. A la
+inversa, un sistema hipertextual flexible, de gran utilidad para quienes pretenden ser hiperlectores, podría ser
+demasiado libre para el principiante o el usuario que sólo desea extraer información específica y organizada
+de la fuente. La elección entre flexibilidad y posibilidad de acceso refleja decisiones implícitas en torno de
+los estilos de aprendizaje y los públicos que aprovecharán en la práctica los materiales hipertextuales. Estas
+son decisiones de índole educativa, aunque también de naturaleza social y moral, pues tácitamente se
+relacionan con premisas sobre el acceso y la equidad que suelen autoconfirmarse: elaborar un texto pensando
+en ciertos lectores tiende a volverlo inaccesible, inhóspito o carente de interés para otros.
+          Por ejemplo, una de las preocupaciones principales expresadas en la bibliografía sobre hipertextos
+consiste en el riesgo de que los neófitos “se pierdan en el hiperespacio”: tras seguir una ruta laberíntica de
+asociaciones, es posible que, como Hansel y Gretel, no encuentren el camino de regreso. En algunos casos, el
+mero caudal de información y la variedad y flexibilidad de las sendas resultan abrumadores. Un considerable
+volumen de estudios sugieren que esta experiencia, descrita a menudo, da origen a la confusión y frustración,
+y termina por disuadir a los novatos de seguir experimentando.48 Si bien, como se explicó, pueden agregarse
+algunas características a un sistema hipertextual de modo tal de limitar la gama de elecciones y proporcionar
+un registro exacto de la huella dejada para llegar a un nodo determinado, esta ayuda no siempre alcanza para
+que el lector sepa cuál debe ser su próximo paso. Como resultado, muchos acaban por elegir el equivalente
+del zapping televisivo: un recorrido o repaso veloz de la información a la que se accede por azar, en
+fragmentos muy breves, sin que el proceso posea un patrón de coherencia o sentido global.
+          Todo esto tiene gran importancia en la educación. Más allá de permitir a los alumnos avanzar en el
+documento por rutas estipuladas, en una secuencia específica, a un ritmo deliberado, el hipertexto puede
+ofrecerles la libertar de elegir el eje de sus investigaciones en función de intereses y experiencias propios.
+Progresan en el estudio y organización de los materiales mediante la elaboración de métodos heurísticos
+personales, de modo tal que éstos adquieren sentido para ellos. Este grado de flexibilidad tiene muchas
+ventajas; la capacidad de ajustarse a estilos de aprendizaje individual o culturalmente diversos es una de las
+principales. No obstante, para llegar a esta etapa, quienes aprenden deben familiarizarse con programas de
+46
+   Jonassen: Hypertext/Hypermedia, citado en Shirk: “Cognitive architecture in hypermedia instruction”, págs. 82, 85-
+86.
+47
+   Shirk: “Cognitive architecture”, pág. 86.
+48
+   Ver Deborah Edwards y Lynda Hardman: “Lost in hyperspace’: Cognitive mapping and navigation in a hypertext
+environment”, en McAleese, ed.: Hypertext: Theory into Practice, págs. 105-125; N. Hammond y L. Allinson,
+“Extending hypertext for learning: An investigation of access and guidance tools”, en A. Sutcliffe y L. Macaulay, eds.:
+People and Computers V, Cambridge, Cambridge University Press, 1989; y P. Brown: “Do we need maps to navigate
+around hypertext?”, en Electronic Publishing, Vol. 2, No 2, 1989, págs. 91-100. Ver también Horn: Mapping Hypertext,
+págs. 50-59, 150-159; Jonassen, Hypertext/Hypermedia, págs. 41-45; y Nielsen, Hypertext and Hypermedia, págs. 127,
+143-162.
+                                                           15
+instrucción, guías e índices explícitos, que les brindarán modelos o métodos heurísticos de los que pueden
+aprender y que les es posible adaptar, sin volverse dependientes de ellos. Entonces, debemos preguntarnos:
+¿puede un hipertexto satisfacer las necesidades de navegadores, usuarios e hiperlectores al mismo tiempo? Y
+¿puede un hipertexto diseñado para navegadores y usuarios ayudarlos a desarrollar la autonomía que los
+convertiría en hiperlectores?
+         En un sentido, este dilema es una versión actualizada de la “paradoja de Menón”. En la versión
+original, Platón se pregunta si es posible que quien aprende adquiera conocimientos completamente nuevos,
+dado que si éstos no guardan ninguna relación con lo que sabe de antemano, no tendrán ningún sentido
+para él; y si existe, o puede deducirse, un vínculo estrecho entre los conocimientos nuevos y lo que ya
+comprende, en cierta medida ya los “sabe”, y no hace más que reconocerlos. La versión hipertextual de esta
+paradoja es: ¿cómo buscar algo sin saber por adelantado de que se trata o dónde hallarlo? No puede
+esperarse que el lector inexperto que se enfrenta con un sistema hipertextual complejo por primera vez,
+conozca la información que el sistema contiene, a menos que la descubra tras una búsqueda o por mero
+azar. No obstante, si el sistema cuenta con guías explícitas que conduzcan a dicho lector hacia puntos de
+información específicos, existe el peligro de que éste se vuelva dependiente de tal organización, y no
+desarrolle la suya, con lo cual jamás llegará a ser un hiperlector.
+         Una estructura demasiado rígida y preceptiva no es el único riesgo del hipertexto. También lo es la
+falta de estructura, que le impide responder a las necesidades de los alumnos:
+                  Es una manera de presentar documentos en la pantalla sin imponer un orden lineal del principio al fin.
+         Los párrafos independientes están enlazados por temas; luego de leer uno sobre la Primera Guerra Mundial,
+         por ejemplo, podría seleccionarse otro sobre la tecnología empleada en los acorazados, o sobre la vida de
+         Woodrow Wilson, o sobre las faldas que se usaban en los años 20. Ésta es otra de las buenas ideas que
+         producen pocos beneficios y muchos perjuicios. Enseñarles a los niños a comprender el desarrollo ordenado
+         de una trama o argumento lógico es parte esencial de la educación. La tarea de los autores no se traduce en una
+         simple aglomeración de párrafos; ellos trabajan arduamente para que sus narraciones se lean de cierta forma o
+         corroboren un punto de vista específico. Convertir un libro o documento en un hipertexto significa invitar a los
+         lectores a ignorar lo más importante: el relato.49
+         Es verdad que el aprendizaje de determinadas convenciones respecto de la narración y
+argumentación lineales debería representar una fase importante de la formación del alumno. Sin embargo, no
+constituye la única manera eficaz de interpretar y organizar información, y en muchos casos puede resultar
+contraproducente.
+         Los hipertextos son valiosos para la educación, porque ponen de manifiesto las posibilidades que
+brindan los procesos de lectura y pensamiento: permiten al lector interpretar materiales textuales de una
+manera única, útil y significativa para él y, al mismo tiempo, advertir que no existe un solo criterio para
+organizar la información. Aun así, los lectores deben aprender que no toda organización es adecuada: existen
+convenciones y modelos heurísticos que fomentan la elaboración de interpretaciones coherentes y útiles.
+Asociar las causas de la guerra con los movimientos en defensa de faldas cortas o largas, tal vez parezca
+frívolo y no sea más que el resultado de una combinación azarosa; pero también podría conducir a una
+comprensión nueva y reveladora de las relaciones entre, por ejemplo, el militarismo y los cambios de papeles
+de hombres y mujeres. Es parte del proceso de aprendizaje establecer la diferencia entre los modelos
+heurísticos o asociaciones que ayudan a respaldar interpretaciones útiles y coherentes, y los que no, en cuyo
+caso el verdadero trabajo educativo debe continuar. Los hipertextos, que incorporan a la vez cierto grado de
+estructura y la opción de diseño personalizado, pueden actuar como puentes o andamios eficaces que lleven a
+los lectores hasta el punto en que cuenten con las herramientas para generar modos más personales y
+característicos de organizar los materiales textuales a su alcance. El inconveniente radica en que no siempre
+coexisten con facilidad los imperativos del diseño según los cuales deben ofrecerse modelos heurísticos con
+un alto nivel de estructuración y andamiaje, con aquellos otros que permiten o incentivan la exploración
+idiosincrásica y sin estructuras en busca de modelos heurísticos nuevos. Las dos metas educativas no son
+intrínsecamente incompatibles, pero implican maneras muy distintas de construir el hipertexto, así como
+grados muy diversos de sensibilidad a las necesidades, intereses y enfoques de los públicos potenciales.
+         Los hipertextos pueden ser utilizados para fines que difieren de los jamás imaginados por sus
+creadores; y esto no sólo es significativo porque posibilita la lectura “a contrapelo”, sino porque la
+flexibilidad para leer textos de formas múltiples es una de las vías para invitar a los lectores que, de otro
+modo, quizá nunca habrían accedido o pensado en acceder a ellos. La elección entre estructura y libertad en
+49
+   David Gelernter: “Unplugged”, en The New Republic, 19 y 26 de setiembre de 1994, págs. 14-15.
+                                                            16
+la autoría y diseño de hipertextos no supone necesariamente alternativas excluyentes: cada uno puede ofrecer
+al mismo tiempo una lectura con estructura predeterminada y una personalizada (esto es así, precisamente,
+porque son hipertextos, capaces de abarcar versiones paralelas diferentes y numerosas ramificaciones y
+nexos entre ellas). Sin perjuicio de lo antedicho, desarrollar esta tarea de modo eficiente y justo exigirá
+pensar en el diseño considerando organizaciones de la información que reflejen el conocimiento del
+“experto” y, al mismo tiempo, un enfoque basado en el acceso y la equidad que contemple cuestiones
+relativas al aprendizaje, la diversidad y la relación no neutral entre los sistemas para organizar el
+conocimiento y los patrones de inclusión o exclusión que éstos generan en públicos variados.
+         Los aspectos multimedia y estratificado que presenta el hipertexto incrementan aún más las
+posibilidades y riesgos descritos. Los hipertextos enlazan entre sí numerosos materiales, incluyendo
+gráficos, sonido, video y otras fuentes. Esto complica el tipo de instrucción requerida: leer una imagen, por
+ejemplo, no es lo mismo que leer un párrafo; cada una de las actividades supone destrezas muy distintas, y
+tendrá más éxito en comunicar ideas o sentimientos a unos lectores que a otros.50 No se trata simplemente
+de la posibilidad de emplear herramientas multimedia para fines educativos (no hay nada novedoso en ello),
+sino de la facilidad con que puede ofrecerse acceso simultáneo a fuentes variadas, y enlazarlas generando
+contrastes y yuxtaposiciones o sugiriendo conexiones entre distintos tipos de información y modos de
+exponerla. Por ejemplo, a los ojos del lector, quizás algunos medios parezcan más inmediatos, más
+“auténticos “ que otros, y en ese sentido más “reales” o probablemente más “verosímiles “. Tal vez exista
+la tendencia a clasificar los distintos medios en función de su grado de verosimilitud. ¿En qué momento
+deben cuestionarse tales expectativas, en parte recurriendo al contraste de versiones diferentes del mismo
+acontecimiento o experiencia, y en parte dirigiendo la atención a las formas en las que cada medio es capaz
+de distorsionar o modificar la información que expone, o excluir la información que otros medios muestran
+de modo más evidente?
+         En la actualidad, importantes volúmenes de información se presentan en formas gráficas (además
+de los cuadros y figuras, se recurre a modelos, simulaciones y entornos exploratorios virtuales). ¿Qué
+prácticas y objetivos educativos son viables cuando los alumnos pueden oír un discurso (y leerlo), observar
+cómo se abre una flor, trazar la ruta en un, mapa, reproducir las etapas del desarrollo del pichón dentro del
+huevo y mucho más? ¿ Cuáles son los problemas nuevos que plantean los hipertextos que conectan medios
+visuales, verbales y de otra índole a partir de enlaces múltiples, o incluyen exposiciones paralelas de la
+misma información con formatos y medios distintos? ¿Cómo aprenden los alumnos a avanzar y retroceder
+entre tales medios a fin de llegar a una expresión más multifacética de las cosas? Por un lado, contar con
+medios variados puede dar cabida a una mayor diversidad de estilos de aprendizaje; por el otro, agrega
+gran complejidad y numerosas dimensiones a los entornos de aprendizaje. ¿Esto atenúa o exacerba los
+problemas relativos al acceso? ¿O acaso los atenúa respecto de determinadas personas y grupos, pero los
+exacerba respecto de otros?
+Dilemas relativos a la educación
+         Podríamos soñar con crear sistemas hipertextuales accesibles para cualquiera, pero su complejidad
+sugiere que sería difícil concretar nuestro sueño. Si todo se relaciona con todo, y todas las relaciones tienen
+el mismo valor e importancia, incluso el lector experimentado (y más aún el principiante) corre el riesgo de
+perderse en un laberinto de información indiferenciada. Podríamos soñar con que todos los hipertextos
+fueran completamente interactivos y dialógicos, aunque este deseo se topa con los límites realistas del
+conocimiento, la capacidad y el tiempo de la mayoría de los lectores potenciales.
+         Según parece, el dilema radica en que como principio organizador y recurso educativo e informativo
+potencial, el hipertexto es capaz de proporcionar un caudal excesivo de información con una estructura
+demasiado flexible, o de proveer un cuerpo informativo excesivamente selectivo con una estructura
+demasiado rígida, llena de juicios implícitos y preconceptos. Lo que para unos resulta conveniente y útil,
+para otros implica restricción y falta de flexibilidad. La mayoría de los lectores, en especial los que apenas
+comienzan, requieren métodos heurísticos, y a fin de hacer ciertas elecciones necesitan una cantidad limitada
+de opciones en otros casos. No obstante, todo modelo heurístico hará prevalecer algunas estructuras de
+conocimiento, y esto incrementa los riesgos que supone decidir quién desarrollará tales modelos para los
+lectores: modelos que seleccionen y organicen la información, definan los criterios de pertinencia e
+importancia relativa de los datos e integren al sistema los links más significativos. Es imprescindible que los
+50
+   Douglas Kellner: 'Multiple literacies and critical pedagogy in a multicultural society”, en Educational Theory, Vol.
+48, No 1, 1998, págs. 103-122.
+                                                           17
+educadores conscientes de las formas de aprender de los diferentes alumnos intervengan en el diseño de los
+materiales hipertextuales, pues en la actualidad se los desarrolla (y comercializa) sin preocuparse por que
+exista dicha conciencia. Aun así, se requerirá un cambio significativo en la percepción que los maestros
+tienen de su función para que lleguen a considerarse diseñadores de sistemas de información, aunque, en
+cierto sentido, siempre lo fueron. Del mismo modo en que todo escrito puede concebirse como un proceso de
+diseño hipertextual (más allá de que el producto parezca un hipertexto o no), la enseñanza es un proceso por
+el cual se expone un conjunto de relaciones entre la información que, por un lado, procura transmitir un
+conjunto dado de conexiones, y, por el otro, facilita que los alumnos aprendan a establecer sus propias
+conexiones.
+         Una situación posestructural descentralizada es aquella en la que, a primera vista, todo puede tener
+la misma importancia. Tal cosa encarna libertad, pero al mismo tiempo, un cierto peligro. ¿Estamos seguros
+de querer un entorno de conocimiento en el que los sujetos puedan generar modos completamente
+personales e idiosincrásicos de organizar la información, dejando de lado los criterios con que las
+comunidades de la cultura y la tradición han tendido a conectar los elementos y establecer prioridades entre
+ellos? ¿Acaso equiparar los nodos de información y descentrar los principios organizadores conducirá a
+una mayor libertad, o todo lo contrario?
+         Por otra parte, crear dentro de un hipertexto jerarquías y organizaciones del conocimiento
+explícitas ¿no da lugar acaso a la posibilidad de abusos? Los hipertextos “integrados” en los que no se
+permite eliminar determinadas estructuras, o se limita la cantidad y tipo de enlaces asociados que se hallan
+al alcance del lector, o se restringe el acceso a ciertas fuentes de información, constituyen ejemplos
+concretos de una especie de autoritarismo: “No puedes formular esa pregunta. No se te permite acceder a
+esa información. Si deseas avanzar, debes definir las cosas de este modo. No puedes desplazarte entre estos
+dos puntos”. Es poco probable que los hipertextos contengan esta clase de prescripciones en forma
+explícita, pero inevitablemente están incluidas en las elecciones subyacentes a cada uno en particular
+Conclusiones
+         En este capítulo hemos esbozado algunos dilemas interrelacionados (enlazados) de carácter
+educativo. Primero, si pretendemos aprovechar al máximo el potencial de los hipertextos, éstos deben ser
+ricos, complejos, abiertos y flexibles; sin embargo, estas características pueden acotar la utilidad del material
+para los usuarios que no pertenezcan al grupo de los más hábiles y experimentados, que suelen ser la
+mayoría. A fin de que los hipertextos se encuentren al alcance del grueso de los lectores y de que éstos se
+acerquen a la tecnología en cuestión, será necesario que dicho acceso sea sencillo e intuitivo. Pero la
+facilidad de uso se logra a costa de la capacidad de abarcar contenidos y exige dotar al hipertexto de un alto
+grado de estructura implícita y selectividad.
+         Segundo, es necesario que los hipertextos se elaboren contemplando las necesidades de lectores muy
+diversos, a los que hemos denominado navegadores, usuarios e hiperlectores. Todo lector actúa de alguna de
+estas formas en momentos diferentes; pero cada uno tiene exigencias distintas. Así, las maneras de
+organización que podrían incluirse para ayudar, guiar o interesar a unos, serán inútiles, engañosas o aburridas
+para otros.
+         Tercero, y de modo similar, un hipertexto podría contemplar unas u otras de las distintas relaciones
+que establecen diversos lectores respecto de una base de conocimiento. Las interrogantes que surgen de lo
+expuesto son si el hipertexto debería organizar la información a fin de que: a) tenga sentido para el autor, b)
+refleje las interpretaciones del material por parte del experto, c) prevea las posibles interpretaciones de los
+lectores y las tome como punto de partida (de ser así, ¿a qué lectores debería apuntarse?), d) responda a
+algún modelo o patrón de desarrollo inferido teóricamente, o e) permita un alto grado de personalización y
+desarrollo de la estructura por el lector (hiperlectura). Es claro que los hipertextos basados en contenidos,
+categorías, patrones de enlace y guías explícitas para la navegación que sirven para algunos de estos fines,
+dejan el resto de lado.
+         Cuarto, se plantea el asunto de los distintos estilos de aprendizaje y formas de lectura, y de la
+idoneidad de los medios y contenidos diversos para grupos de determinada cultura, origen étnico o género.
+Como ya expresamos, las posibilidades que ofrecen los multimedia, como la de enlazar formas alternativas
+de representación en un hipertexto, permiten apuntar a una gama de lectores mucho más amplia y
+heterogénea. No obstante, también vuelve los hipertextos más complejos y (en los casos en que este factor
+pudiera tener influencia) mucho más costosos y difíciles de mantener actualizados. ¿Cuán probable es que se
+aproveche al máximo la capacidad de proveer versiones diferentes, con medios diferentes?
+         Asimismo, desarrollar el potencial de la tecnología carece de sentido si quienes aprenden no cuentan
+con la capacidad ni con las oportunidades para explotarla. El más importante de los cambios necesarios
+                                                       18
+consta de dos partes: pasar del enfoque de consumidor de la lectura a otro más crítico, y modificar nuestro
+modo de concebir la obtención de conocimientos, de una recepción pasiva de hechos, a una construcción
+activa de la comprensión por medio de la búsqueda, la selección y la resolución de problemas.
+         En este sentido, los diseñadores de hipertextos para fines educativos podrían aprender mucho de los
+creadores de ciertos juegos de vídeo, en especial los que contienen laberintos, rompecabezas y problemas
+que requieren solución en contextos de información limitada (Por ejemplo, Myst o su continuación, Riven).
+Cualquiera que esté familiarizado con estos juegos conoce los desafíos que se presentan al tratar de avanzar
+en un entorno de información donde se revelan algunos caminos y deben hallarse los otros, donde tal vez no
+se advierta de inmediato la pertinencia y valor de la información nueva, donde es necesario explorar las
+alternativas mediante ensayo y error, donde quizás haya más de una solución u objetivo correctos. A nuestro
+entender, este tipo de juegos con entornos hipertextuales pone de manifiesto la inmensa atracción que
+sienten los aprendices por los procesos de exploración, descubrimiento y establecimiento de conexiones,
+siempre y cuando los educadores sean lo bastante creativos e inteligentes para emplearlos confines
+educacionales relevantes.
+         En síntesis, en estos procesos educativos será esencial considerar dónde se ubican los distintos
+lectores respecto de entornos informativos con distintas clases de estructuras y cómo responden a ellos, qué
+tipos de obstáculos encuentran y cuáles son sus frustraciones, y qué modos de interacción podrían contribuir
+a su aprendizaje. No hay motivos para esperar que alguna forma específica de hipertexto sea adecuada para
+todos ellos ni que, en términos generales, el entorno tecnológico de aprendizaje resulte igualmente familiar y
+accesible para todos. Existen pruebas de que el uso de estas nuevas tecnologías para el aprendizaje sólo
+beneficia aún más a quienes son capaces de explotarlas plenamente, mientras que quienes por alguna razón
+no se sienten demasiado cómodos con ellas, o no tienen los medios para hacerlo, quedan todavía más
+rezagados.
+         Sería ideal que todos tuviesen la experiencia y dominio necesarios para ser hiperlectores en el
+sentido cabal del término; pero esto es tan poco factible como que todos los hipertextos sean completamente
+abiertos y dialógicos. La mayoría de quienes lean hipertextos serán “navegadores” o “usuarios”; aunque tal
+vez exista una categoría intermedia, la de los usuarios críticos: aquellos que saben lo suficiente para utilizar
+el sistema a fin de hallar lo que buscan, pero que también tienen la conciencia necesaria para advertir que lo
+encontrado quizá no sea todo lo que haya por saber. Éstos pueden trabajar con el hipertexto como un recurso
+importante y, al mismo tiempo, ser algo escépticos sobre su confiabilidad. Los usuarios críticos deberán
+comprender que la alternativa, interpretación u organización elegida por otra persona para ellos puede
+ofrecerles una visión parcial y distorsionada de las cosas. Es posible que no tengan la capacidad de realizar
+un diagnóstico y detectar el elemento faltante, o de inventar por completo una versión alternativa propia,
+pero por lo menos cuentan con una mirada analítica respecto de la información hallada, y están abiertos a la
+posibilidad de que puede haber algo más. Con el tiempo, quizás algunos de ellos desarrollen el grado de
+conocimientos e iniciativa que les permitan convertirse en hiperlectores, es decir, personas capaces de
+desplazarse dentro del hipertexto y de abrirse paso en él, generar un nuevo conocimiento, construir sistemas
+personalizados, etc. Sería bueno que todos aprendieran a manejarse de esta forma, pero – para ser francos –
+no parece probable. El nivel de “usuario crítico” posiblemente defina el grado de sofisticación que puede
+esperarse que alcance la mayoría; no obstante, éste es en sí mismo un importante objetivo educacional, y
+requiere que los maestros ejerciten nuevas destrezas y modos de comprensión, y estén dispuestos a someter
+al escrutinio algunas fuentes “autorizadas”, tales como las enciclopedias.
+         En el polo opuesto al del usuario crítico se encuentra el “surfista”, el navegador que salta de nodo
+en nodo, de experiencia en experiencia sin la intención de generar entre ellos conexiones significativas.
+Existen motivos para temer que este enfoque fenomenológico adquiera nuevos adeptos en la sociedad actual,
+y no sólo en contextos informáticos; dicha tendencia se advierte también en quienes cambian de canal
+televisivo una y otra vez, pasan de una canción a otra sin terminar de oír ninguna, recorren sin leer las
+páginas de las revistas, comienzan nuevas conversaciones sin dar fin a las anteriores. En un principio, el
+mero volumen y variedad de información, así como de las opciones para acceder a ella, fuerzan al usuario a
+repasar las alternativas rápidamente para determinar que merece mayor atención – éste podría ser en sí
+mismo un rasgo valioso –; pero puede terminar por acotar los períodos de atención y fomentar la carencia
+de reflexión sobre las elecciones realizadas.
+         Podríamos prever situaciones en las que la propia tecnología ayudara a los estudiantes a ser más
+críticos como usuarios. El hipertexto puede utilizarse como herramienta para enseñarles estrategias para la
+resolución de problemas y obtención de datos. En este proceso, el papel de guía y, modelo que desempeñará
+el educador será clave: por ejemplo, los alumnos podrían seguir al profesor a través del hipertexto, mientras
+                                                       19
+observan y aprenden cómo busca, recopila y enlaza información un usuario experimentado.51 En las aulas
+futuras, el hipertexto posibilitará que maestros y discípulos se concentren más en los procesos importantes de
+aprendizaje – que consisten en la interpretación y organización de la información – que en la mera
+adquisición de datos. Los educadores podrían desempeñar de modo más activo el papel de facilitadores; para
+eso, deberán atraer a los principiantes con explicaciones y orientación específicas, conducirlos en su
+recorrido a través del hipertexto, y retirar estos puntos de apoyo gradualmente a medida que los alumnos
+sean más independientes y realicen sus propias exploraciones con mayor comodidad. A pesar de que no
+defendemos las visiones del futuro que prescinden de los maestros y las aulas, no cabe duda de que parte de
+esta formación (por ejemplo, las visitas guiadas para principiantes a través del hipertexto) pueden y deberían
+integrar el diseño de los propios hipertextos. Tampoco cabe cuestionar que algunos estudiantes ya son
+capaces de acceder a toda esa información hipertextual, o incluso a más, mediante enlaces electrónicos desde
+sus propias casas así como desde las escuelas, mientras que otros no cuentan con dicho recurso. Como
+dijimos en un capítulo previo, los riesgos que esta situación plantea en cuanto a una nueva forma de
+desigualdad educativa, tan grave y restrictiva para los aprendices como otras clases de analfabetismo,
+deberían preocupar a los educadores comprometidos con los valores de la igualdad de oportunidades y la
+justicia. Las habilidades y aptitudes del usuario crítico o hiperlector eficiente no deberían ser prerrogativa de
+ciertos grupos; de hecho, una parte de la capacidad para leer hipertextos con mirada crítica, advirtiendo las
+distorsiones, juicios parciales y lagunas, exigirá que tales textos sean estudiados por lectores cuya visión del
+mundo sea distinta de la de los diseñadores. En el próximo capítulo exploraremos en mayor detalle qué
+significa que los lectores se conviertan en usuarios críticos e hiperlectores.
+         Estamos en una encrucijada en la que la misma tecnología que ofrece los recursos para ampliar el
+acceso al conocimiento liberador es capaz de fomentar una concentración hegemónica de los “medios de
+producción” en manos de unos pocos para diseñar y organizar la información. El hipertexto brinda
+posibilidades completamente nuevas en el campo de la educación. Si los profesores desean intervenir en el
+modelado de estas posibilidades e influir en ellas de manera progresiva, deberán cultivar nuevas destrezas
+relacionadas con el diseño e interpretación de la información. Será necesario que tomen la delantera y
+ayuden a otros a adquirir tales habilidades. Y tendrán que formularse importantes reflexiones sobre las
+consecuencias sociales, morales y epistemológicas de la influencia tecnológica en la enseñanza y el
+aprendizaje. Esperamos que este capitulo haya servido para inducir a meditar sobre ello.
+51
+   Es evidente que en este caso recurrimos a la ironía, puesto que en la mayoría de los cursos actuales son los alumnos
+quienes explican y enseñan al maestro estas cuestiones. ¿Cuánto tiempo pasará hasta que s e conciba la comprensión y
+experiencia en el uso de las tecnologías de información como parte esencial de la formación docente?
+                                                             20
