@@ -1,9 +1,10 @@
-* Burbules, Nicholas y Callister, Thomas. “Hipertexto: el conocimiento en la encrucijada”
- - Se escribe con la intención de que la lectura se realice en un orden particular.
- - Ahora bien, el hecho de que las ideas se impriman según una determinada disposición no significa que necesariamente se conciban o lean de igual modo.
- - Aquí, el cambio *cuantitativo* puede impulsar un cambio *cualitativo* en los procesos de lectura y comprensión del conocimiento
- 
-** ¿Qué es un Hipertexto?
+* Textos
+** Burbules, Nicholas y Callister, Thomas. “Hipertexto: el conocimiento en la encrucijada”
+  - Se escribe con la intención de que la lectura se realice en un orden particular.
+  - Ahora bien, el hecho de que las ideas se impriman según una determinada disposición no significa que necesariamente se conciban o lean de igual modo.
+  - Aquí, el cambio *cuantitativo* puede impulsar un cambio *cualitativo* en los procesos de lectura y comprensión del conocimiento
+  
+*** ¿Qué es un Hipertexto?
 - Elementos de la estructura narrativa que "desvían la atención del lector hacia otras fuentes o puntos de vista" y configuran y describen una especie de entorno de información en el que el material textual y las ideas se entrelazan de maneras múltiples, además influye en la información que sistematiza.
 - la forma y el contenido se vuelven interdependientes.
 - implica cambios en las formas de conocimiento.
