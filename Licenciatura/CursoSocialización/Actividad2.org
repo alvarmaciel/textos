@@ -12,3 +12,18 @@
 - Los hipertextos en que estas posibilidades (de conexión con múltiples fuentes) están explícitas no hacen sino poner de relieve una estructura basada en articulaciones que es inherente, en cierto grado, a todos los textos; la diferencia es que los hipertextos invitan activamente a leer el mismo material de maneras múltiples y facilitan dicha tarea.
 - Entonces, un hipertexto es, al mismo tiempo, un modo de composición o diseño, y un proceso de escritura.
 
+* Actividad
+1) Tema: Educación y Nuevas TIC; Enlace: http://publicaciones.zemos98.org/entrevista-alex-galloway
+2) La búsqueda se realizó utilizando el buscador http://duckduckgo.com . Se utilizaron los términos Entrevista y "Alex Galloway" con el entrecomillado para restringir los resultados al nombre del autor en cuestión.
+3) Criterios:
+   - Autoridad: La página tiene una extensión de dominio.org, este tipo de extensiones ya indica que la procedencia de la página es de una organización reconocida como tal. En este caso Zemos98, organizadora de festivales culturales relacionados con las tecnologías. En la página se indica autores de la obra y se encuadra la misma en el marco del festival.
+   - Navegabilidad: Estructura clásica y sencilla, cuerpo central con barras laterales que aportan información relacionada ya a la entrevista como al sitio que la publica
+   - Selección de contenidos: Adecuados a ámbitos académicos y de divulgación
+   - Legibilidad: Alta
+4) Criterios predominantes (Criterios de Burbules y Callister):
+   - ¿A qué intereses responden esta información y el modo de presentarla? Es claro que la información presentada responde visones críticas de la sociedad actual. El marco de producción de la entrevista deja clara esta posición de los autores del sitio.
+   - ¿Cómo analizar la seguridad? Como se detalla en el punto anterior, la seguridad de la fuente se sustenta en el reconocimiento, por una parte del estado que otorgó la extensión del dominio .org a Zemos98 y por otro en la verificación a través de fuentes primarias de dicho festival.
+5) La pagina forma parte de la producción de un estival de cultura libre, esta entrevista en particular está enmarcada en la tópica del evento: Interruptores críticos para una sociedad vigilada. Esta entrevista es un recorrido teórico sobre conceptos cotidianos en los cuales sustentamos la práctica docente diaria. La criticidad de un hiperlector se construye no sólo cuestionando las paginas y los autores, sino también el medio por el cual se distribuye la información. Esta entrevista ahonda en las ideas e intereses  detrás de las infraestructuras de interconexión en Internet.
+
+
+
