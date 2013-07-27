@@ -17,10 +17,11 @@ Cabe de ejemplo mi caso, que al enterarme de la inciativa empecé a participar d
 
 De la definición de hilos que conduzcan a una experiencia completa en la vinculación de los sujetos con la Web, dichos hilos de trabajo están compuestos de competencias a alcanzar. estas competencias incluyen una serie de habilidades específicas, relacionadas a cada hilo de trabajo. El estándar como tal es este entramado de hilos, competencias y habilidades que nos permite pensar en un curriculum espiralado que conecte a los estudiantes con el aprendizaje y la creación.
 
-===Introducción===
+<h2>Introducción</h2>
+
 El Estándar de Alfabetización Web se compone de tres hilos: ExploraNDO, Construyendo y Conectando. A su vez, cada hilo se compone de varias competencias. Cada competencia se compone de una serie de habilidades.
 
-===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/ Explorando]===
+<h3><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/"> Explorando</a><h3>
 <em>Navegando por la web</em>
 <p>El hilo Explorar está compuesto de las siguientes competencias:</p>
 * <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/Navigation_Es Navegación]</strong> - usar herramientas de software para navegar la web
