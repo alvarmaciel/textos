@@ -1630,7 +1630,7 @@ Late deadlines first, then scheduled, then non-late deadlines"
      (twittering-icon-mode)))
      (setq twittering-timer-interval 120     ; I don't want auto-refresh
       twittering-tinyurl-service 'bit.ly
-      twittering-bitly-login "maciel"
+      twittering-bitly-login "tu_usuario"
       twittering-bitly-api-key ""      ; find it on bit.ly settings
       twittering-use-master-password t
       twittering-url-show-status nil)
