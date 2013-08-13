@@ -11,13 +11,13 @@
 (global-set-key "\C-ca" 'org-agenda)
 (global-set-key "\C-cb" 'org-iswitchb)
 ;;Agenda
-(setq org-agenda-files (quote ("~/Dropbox/en uso/2013/org"
-                               "~/Dropbox/en uso/2013/trabajo"
-                  			       "~/Dropbox/en uso/2013/trabajo/aequalis"
-                  			       "~/Dropbox/en uso/2013/trabajo/OpCode"
-                  			       "~/Dropbox/en uso/2013/personal"
-			                         "~/Dropbox/en uso/2013/personal/licenciatura"
-			                         "~/Dropbox/en uso/2013/personal/Militancia")))
+(setq org-agenda-files (quote ("~tu path/org"
+                               "~tu path"
+                  			       "~tu path"
+                  			       "~tu path"
+                  			       "~tu path"
+			                         "~tu path"
+			                         "~tu path")))
 ;; Custom key bindings
 ;; Custom Key Bindings
 (global-set-key (kbd "<f12>") 'org-agenda)
@@ -113,29 +113,29 @@
               ("DONE" ("WAITING") ("CANCELLED") ("HOLD")))))
               
 ;; Adding New Tasks Quickly with Org Capture
-(setq org-directory "~/Dropbox/en uso/2013/org")
-(setq org-default-notes-file "~/Dropbox/en uso/2013/orgrefile.org")
+(setq org-directory "~tu path/org")
+(setq org-default-notes-file "~tu path/orgrefile.org")
 
 ;; I use C-c c to start capture mode
 (global-set-key (kbd "C-c c") 'org-capture)
 
 ;; Capture templates for: TODO tasks, Notes, appointments, phone calls, meetings, and org-protocol
 (setq org-capture-templates
-      (quote (("t" "todo" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+      (quote (("t" "todo" entry (file "~tu path/org/refile.org")
                "* TODO %?\n%U\n%a\n" :clock-in t :clock-resume t)
-              ("r" "respond" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+              ("r" "respond" entry (file "~tu path/org/refile.org")
                "* NEXT Respond to %:from on %:subject\nSCHEDULED: %t\n%U\n%a\n" :clock-in t :clock-resume t :immediate-finish t)
-              ("n" "note" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+              ("n" "note" entry (file "~tu path/org/refile.org")
                "* %? :NOTE:\n%U\n%a\n" :clock-in t :clock-resume t)
-              ("j" "Journal" entry (file+datetree "~/Dropbox/en uso/2013/org/diary.org")
+              ("j" "Journal" entry (file+datetree "~tu path/org/diary.org")
                "* %?\n%U\n" :clock-in t :clock-resume t)
-              ("w" "org-protocol" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+              ("w" "org-protocol" entry (file "~tu path/org/refile.org")
                "* TODO Review %c\n%U\n" :immediate-finish t)
-              ("m" "Meeting" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+              ("m" "Meeting" entry (file "~tu path/org/refile.org")
                "* MEETING with %? :MEETING:\n%U" :clock-in t :clock-resume t)
-              ("p" "Phone call" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+              ("p" "Phone call" entry (file "~tu path/org/refile.org")
                "* PHONE %? :PHONE:\n%U" :clock-in t :clock-resume t)
-              ("h" "Habit" entry (file "~/Dropbox/en uso/2013/org/refile.org")
+              ("h" "Habit" entry (file "~tu path/org/refile.org")
                "* NEXT %?\n%U\n%a\nSCHEDULED: %(format-time-string \"<%Y-%m-%d %a .+1d/3d>\")\n:PROPERTIES:\n:STYLE: habit\n:REPEAT_TO_STATE: NEXT\n:END:\n"))))
 
 ;; Remove empty LOGBOOK drawers on clock out
@@ -1205,7 +1205,7 @@ so change the default 'F' binding in the agenda to allow both"
 
 ;; Use the Diary for Holidays and Appointments
 (setq org-agenda-include-diary nil)
-(setq org-agenda-diary-file "~/Dropbox/en uso/2013/diary.org")
+(setq org-agenda-diary-file "~tu path/diary.org")
 
 (setq org-agenda-insert-diary-extract-time t)
 
