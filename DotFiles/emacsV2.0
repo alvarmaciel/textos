@@ -18,6 +18,16 @@
                   			       "~tu path"
 			                         "~tu path"
 			                         "~tu path")))
+;;
+;; Mobile Org
+;; Set to the name of the file where new notes will be stored
+(setq org-mobile-inbox-for-pull "~tu path/org/flagged.org")
+;; Set to <your Dropbox root directory>/MobileOrg.
+(setq org-mobile-directory "~tu path/MobileOrg")
+;; moble sync
+(add-hook 'after-init-hook 'org-mobile-pull)
+(add-hook 'kill-emacs-hook 'org-mobile-push)
+
 ;; Custom key bindings
 ;; Custom Key Bindings
 (global-set-key (kbd "<f12>") 'org-agenda)
@@ -1630,8 +1640,8 @@ Late deadlines first, then scheduled, then non-late deadlines"
      (twittering-icon-mode)))
      (setq twittering-timer-interval 120     ; I don't want auto-refresh
       twittering-tinyurl-service 'bit.ly
-      twittering-bitly-login "alvarmaciel"
-      twittering-bitly-api-key "R_5c6b3b8321ab0231b6edcac84de1b334"      ; find it on bit.ly settings
+      twittering-bitly-login "tu_usuario"
+      twittering-bitly-api-key ""      ; find it on bit.ly settings
       twittering-use-master-password t
       twittering-url-show-status nil)
 
