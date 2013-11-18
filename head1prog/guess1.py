@@ -4,7 +4,7 @@ while ping == 1:
     g = input ("Adivine el numero: ")
     guess = int (g)
     if guess == 5:
-        ping=1
+        ping=0
     else:
         if guess > 5:
             print ("Demasiado alto")
