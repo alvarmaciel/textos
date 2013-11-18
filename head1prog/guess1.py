@@ -12,4 +12,5 @@ while guess != secret:
             print ("Demasiado alto")
         else:
             print ("demasiado bajo")
+print ("El número es:", secret)
 print ("¡GAME OVER!")
