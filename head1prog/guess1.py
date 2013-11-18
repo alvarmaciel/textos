@@ -1,6 +1,6 @@
 print ("¡Bienvenidos")
 ping=1
-while ping == 1
+while ping == 1:
     g = input ("Adivine el numero: ")
     guess = int (g)
     if guess == 5:
