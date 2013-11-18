@@ -8,5 +8,4 @@ else:
         print ("Demasiado alto")
     else:
         print ("demasiado bajo")
-    print ("¡Perdiste!")
 print ("¡GAME OVER!")
