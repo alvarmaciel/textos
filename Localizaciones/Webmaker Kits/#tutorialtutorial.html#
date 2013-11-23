@@ -25,7 +25,11 @@
       luego etiqueten el nuevo remix con el prefijo "tutorial-", seguido de la url de este remix
       
     -->
-
+    <section>
+      <h1>Veggies</h1>
+      <p>Line 4: Veggies sunt bona vobis, proinde vos postulo esse magis chickpea garbanzo onion rock melon scallion.</p>
+      <p>Onion silver beet radicchio salsify sweet pepper black-eyed pea summer purslane parsnip brussels sprout garbanzo collard greens. Corn garlic broccoli cauliflower plantain chard arugula napa cabbage garlic peanut black-eyed pea soko kombu coriander.</p>
+    </section>
     <section>
       <h1>CupcakesEmpanada argentina o criolla</h1>
       <h2>Preparación del relleno:</h2>
@@ -40,16 +44,16 @@
 	  <li>Añadimos el relleno a cada empanadilla, 1 cucharada de relleno en cada una. Es muy importante que el relleno este frío para que la masa aguante bien a la hora de freír.</li>
 	  <li>Pintamos el borde de la empanada con ayuda de una brocha de cocinar y huevo batido. Tapamos con la otra mitad bien estirada y la sellamos por los bordes trenzando la parte inferior sobre la superior con la ayuda de un tenedor.</li>
 	  <li>Freímos en abundante aceite de oliva. El aceite tiene que estar muy caliente. Otra opción es hornearlas hasta qe esten doradas</li>
-	  <li>
+	  <li>Sacamos las empanadillas cuando estén doradas, las ponemos en un plato con papel absorbente y listas para comer, cuidado, nos os queméis.<li>
       </ol>
     </section>
-
+    
     <section>
-      <h1>Veggies</h1>
-      <p>Line 4: Veggies sunt bona vobis, proinde vos postulo esse magis chickpea garbanzo onion rock melon scallion.</p>
-      <p>Onion silver beet radicchio salsify sweet pepper black-eyed pea summer purslane parsnip brussels sprout garbanzo collard greens. Corn garlic broccoli cauliflower plantain chard arugula napa cabbage garlic peanut black-eyed pea soko kombu coriander.</p>
+      <h1>Masa de la empanada</h1>
+      <ol>
+	<li>
     </section>
-
+    
     <section>
       <h1>Cheese</h1>
       <p>Croque monsieur pepper jack mascarpone. Croque monsieur cheddar paneer cheese on toast jarlsberg the big cheese hard cheese cheese and biscuits. Cauliflower cheese stilton cheeseburger the big cheese lancashire cheese and biscuits port-salut squirty cheese. Caerphilly paneer edam (line 8).</p>
