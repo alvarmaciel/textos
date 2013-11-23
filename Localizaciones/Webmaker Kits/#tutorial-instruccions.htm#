@@ -39,12 +39,12 @@
       <p> Creen tutoriales remixando esta documento. También pueden acceder a el <a href="https://thimble.webmaker.org/projects/tutorial">acá</a> pero está en inglés.</p>
       <p>Modifiquen cualquier cosas entre las etiquetas <code>section</code> tags (lines 37 - 43). Pueden incluir cualquier etiqueta HTML entre estas secciones.</p>
       <p>Agreguen más elementos <code>section</code> o <code>div</code> para sumar pasos en los tutoriales.</p>
-      <p>El documento se hará cargo del resto, clike pagination, linking line references, and styling the tutorial nav.</p>
+      <p>El documento se hará cargo del resto, como paginaciones, vínculosde referencias y el estilo de la navegación del tutorial.</p>
     </section>
 
     <section>
-      <h1>Advanced options</h1>
-      <p>You can set options in line 13 for increased control.</p>
+      <h1>Opciones avanzadas</h1>
+      <p>Pueden configurar opciones en la linea You can set options in line 13 for increased control.</p>
       <pre>
   $('body').tutorial({
     pagination: true,
