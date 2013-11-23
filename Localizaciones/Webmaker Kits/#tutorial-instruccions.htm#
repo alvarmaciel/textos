@@ -52,7 +52,7 @@
     target: "div"
   });
 	  </pre>
-      <p>Set pagination to false to show the tutorial as a single page with no nav.</p>
+      <p>Ajusten pagination a false para mostras to show the tutorial as a single page with no nav.</p>
       <p>Set smartlines to false to ignore line references.</p>
       <p>Change 'body' to a different target whose children you want to turn into tutorial steps.</p>
       <p>Set target to any css selector to filter which children you want to use.</p>
