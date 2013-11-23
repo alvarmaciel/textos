@@ -37,9 +37,9 @@
     <section>
       <h1>Creando un tutorial</h1>
       <p> Creen tutoriales remixando esta documento. También pueden acceder a el <a href="https://thimble.webmaker.org/projects/tutorial">acá</a> pero está en inglés.</p>
-      <p>Modifiquen cualquier cosas entre las etiquetas <code>section</code> tags (lines 37 - 43). Pueden incluir cualquier etiqueta HTML entre estos sec.</p>
-      <p>Agreguen más elementos  <code>section</code> o <code>div</code> elements for additional tutorial steps.</p>
-      <p>The make should take care of the rest, like pagination, linking line references, and styling the tutorial nav.</p>
+      <p>Modifiquen cualquier cosas entre las etiquetas <code>section</code> tags (lines 37 - 43). Pueden incluir cualquier etiqueta HTML entre estas secciones.</p>
+      <p>Agreguen más elementos <code>section</code> o <code>div</code> para sumar pasos en los tutoriales.</p>
+      <p>El documento se hará cargo del resto, clike pagination, linking line references, and styling the tutorial nav.</p>
     </section>
 
     <section>
