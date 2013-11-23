@@ -59,8 +59,8 @@
     </section>
 
     <section>
-      <h1>Adding the tutorial to a make</h1>
-      <p>Tag your make with <code>tutorial-[url]</code>, where <code>[url]</code> is the url to your published tutorial.</p>
+      <h1>Agregar el tutorial a una obra</h1>
+      <p>Etiquete su obra con <code>tutorial-[url]</code>, donde <code>[url]</code> es la url de su tutorial publi to your published tutorial.</p>
       <p>Nearly any webpage will work, including Thimble makes like this one.</p>
       <p>You can attach multiple tutorials.</p>
     </section>
