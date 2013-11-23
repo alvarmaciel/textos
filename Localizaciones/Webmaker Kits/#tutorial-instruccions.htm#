@@ -44,7 +44,7 @@
 
     <section>
       <h1>Opciones avanzadas</h1>
-      <p>Pueden configurar opciones en la linea You can set options in line 13 for increased control.</p>
+      <p>Pueden configurar opciones en la linea 13 para incrementar el control del tutorial.</p>
       <pre>
   $('body').tutorial({
     pagination: true,
