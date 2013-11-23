@@ -18,11 +18,11 @@
     <!--
       encerrar cada paso del tutorial en sus propias etiquetas de sección "section"
       pueden incluir cualquier tipo de marcado, incluyendo imágenes
-      también puede agregar más secciones
+      también se puede agregar más secciones
 
-      si desea adjuntar este tutorial para otra marca,
-      primera publicación de esta marca
-      luego etiquetar la otra marca con el prefijo "tutorial", seguido de la url para esta marca
+      si desean adjuntar este tutorial en otro remix,
+      primero publiquen este remix
+      luego etiqueten el tra marca con el prefijo "tutorial", seguido de la url para esta marca
       
       enclose each tutorial step in its own section tags
       you can include any sort of markup, including images
