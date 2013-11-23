@@ -54,8 +54,8 @@
 	  </pre>
       <p>Ajustar "pagination" a "false" para mostrar el tutorial en una sóla páginas y sin navegación.</p>
       <p>Ajustar "smartlines" a "false" para ignorar las referencias a las lineas.</p>
-      <p>cambiar 'body' a un objetivo diferente cuyos conthijos quiere convertir en pasos del tutorial.</p>
-      <p>Set target to any css selector to filter which children you want to use.</p>
+      <p>Cambiar 'body' a un objetivo diferente cuyos contenido 'hijo' quiere convertir en pasos del tutorial.</p>
+      <p>Ajustar 'target' a cualquier selector css para flitrar que contenido 'hijo' quiere usar.</p>
     </section>
 
     <section>
