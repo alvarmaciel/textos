@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Remix de Tutoriales</title>
+    <!-- Esta hoja de estilo provee los estilos por defecto de los tutorialesult styles for tutorials -->
+    <link href="//thimble.webmaker.org/learning_projects/tutorial/tutorial.css" rel="stylesheet">
+    <style>
+      blockquote {
+        margin-left: 2em;
+      }
+      
+      ul {
+        padding-left: 2em; 
+      }
+    </style>
+    <!-- these scripts turn your make into a tutorial -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//thimble.webmaker.org/learning_projects/tutorial/tutorial.js"></script>
+    <script>
+      jQuery(document).ready(function($){
+        $('body').tutorial();
+      });
+    </script>
+  </head>
+  <body>
+    <!--
+      enclose each tutorial step in its own section tags
+      you can include any sort of markup, including images
+      you can also add more sections
+
+      if you want to attach this tutorial to another make,
+      first publish this make
+      then tag the other make with prefix "tutorial-" followed by the url for this make
+    -->
+
+    <section>
+      <h1>Creating a tutorial</h1>
+      <p>Create a tutorial by remixing this make. You can also access it <a href="https://thimble.webmaker.org/projects/tutorial">here</a>.</p>
+      <p>Modify anything between the <code>section</code> tags (lines 29 - 32). You can include any HTML within these tags.</p>
+      <p>Add more <code>section</code> or <code>div</code> elements for additional tutorial steps.</p>
+      <p>The make should take care of the rest, like pagination, linking line references, and styling the tutorial nav.</p>
+    </section>
+
+    <section>
+      <h1>Advanced options</h1>
+      <p>You can set options in line 13 for increased control.</p>
+      <pre>
+  $('body').tutorial({
+    pagination: true,
+    smartlines: true,
+    target: "div"
+  });
+	  </pre>
+      <p>Set pagination to false to show the tutorial as a single page with no nav.</p>
+      <p>Set smartlines to false to ignore line references.</p>
+      <p>Change 'body' to a different target whose children you want to turn into tutorial steps.</p>
+      <p>Set target to any css selector to filter which children you want to use.</p>
+    </section>
+
+    <section>
+      <h1>Adding the tutorial to a make</h1>
+      <p>Tag your make with <code>tutorial-[url]</code>, where <code>[url]</code> is the url to your published tutorial.</p>
+      <p>Nearly any webpage will work, including Thimble makes like this one.</p>
+      <p>You can attach multiple tutorials.</p>
+    </section>
+
+    <section>
+      <h1>Tutorials in action</h1>
+      <p>Check out these examples.</p>
+      <ul>
+        <li><a href="https://artychan.makes.org/thimble/movie-poster/remix">Movie Poster</a> (<a href="https://artychan.makes.org/thimble/movie-poster-tutorial/remix">tutorial</a>)</li>
+        <li><a href="https://artychan.makes.org/thimble/keep-calm-and/remix">Keep Calm Poster</a> (<a href="https://artychan.makes.org/thimble/keep-calm-poster-tutorial/remix">tutorial</a>)</li>
+        <li><a href="https://thimble.webmaker.org/project/22957/remix">Rainy Day (<a href="https://artychan.makes.org/thimble/rainy-day-tutorial">tutorial</a>)</a></li>
+        <li><a href="https://thimble.webmaker.org/project/22915/remix">Maps and Geolocation</a> (<a href="https://thimble.webmaker.org/project/22915/remix">tutorial</a>)</li>
+        <li><a href="https://thimble.webmaker.org/project/23585/remix">To-Do List</a> (<a href="https://mopaxian.makes.org/thimble/todo-app-instruction">tutorial</a>)</li>
+        <li><a href="https://thimble.webmaker.org/project/21875/remix">Positioning Zombies</a> (<a href="https://thimble.webmaker.org/project/21881/remix">tutorial</a>)</li>
+      </ul>
+    </section>
+    
+    
+    
+  </body>
+</html>
