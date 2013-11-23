@@ -60,8 +60,8 @@
 
     <section>
       <h1>Agregar el tutorial a una obra</h1>
-      <p>Etiquete su obra con <code>tutorial-[url]</code>, donde <code>[url]</code> es la url de su tutorial publi to your published tutorial.</p>
-      <p>Nearly any webpage will work, including Thimble makes like this one.</p>
+      <p>Etiquete su obra con <code>tutorial-[url]</code>, donde <code>[url]</code> es la url de su tutorial publicado.</p>
+      <p>Casi cualquier pagina web funciona, incluidas las obras realizadas con Thimble, como esta ^_^.</p>
       <p>You can attach multiple tutorials.</p>
     </section>
 
