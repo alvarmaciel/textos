@@ -21,16 +21,9 @@
       también se puede agregar más secciones
 
       si desean adjuntar este tutorial en otro remix,
-      primero publiquen este remix
-      luego etiqueten el tra marca con el prefijo "tutorial", seguido de la url para esta marca
+      primero publiquen este remix, el que t
+      luego etiqueten el  remix con el prefijo "tutorial-", seguido de la url de este remix
       
-      enclose each tutorial step in its own section tags
-      you can include any sort of markup, including images
-      you can also add more sections
-
-      if you want to attach this tutorial to another make,
-      first publish this make
-      then tag the other make with prefix "tutorial-" followed by the url for this make
     -->
 
     <section>
