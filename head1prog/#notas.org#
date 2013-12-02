@@ -9,4 +9,6 @@
 - Los Strings son tipos de datos
 * Herramientas Python
 - s[4]: Accede al 5to carácter de la variable "s" que es un  String
-- S[b:12]: accede al sub-string dentro del string "
+- S[6:12]: accede al sub-string dentro del string "s"(desde el carácter 7 hasta el 12 sin incluirlo)
+- s.find(): método para buscar en un String
+- s.upper(): método para convertir el string en MAYUSCULA
