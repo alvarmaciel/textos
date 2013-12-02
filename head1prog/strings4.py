@@ -6,6 +6,4 @@ while price > 4.74:
 
     position = text.find(">$")
     price = text[position+2:position+6]
-pr
-
 print (price)
