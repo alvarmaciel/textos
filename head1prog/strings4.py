@@ -5,4 +5,4 @@ while price > 4.74 :
     text = page.read().decode("utf-8")
     position = text.find(">$")
     price = float (text[position+2:position+6])
-print (price)
+print ("¡Comprar!")
