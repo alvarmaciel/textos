@@ -5,4 +5,8 @@
 - Los métodos proveen variables funcionalidades incorporadas
 - Las librerías de programación proveen una colección de código y funciones pre incorporadas.
 - Siempre que haya un valor, la información en una variable tiene un "tipo de dato"
-- Los números 
+- Los números son tipos de datos
+- Los Strings son tipos de datos
+* Herramientas Python
+- s[4]: Accede al 5to carácter de la variable "s" que es un  String
+- S[b:12]: accede al sub-string dentro del string "
