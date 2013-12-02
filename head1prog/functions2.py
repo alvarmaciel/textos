@@ -14,7 +14,7 @@ while answer != "N":
     if answer != "N":
         price = get_price()
         print (price)
-        answer = "N"
+        answer = "Y"
     else:
         price= float (get_price())
         while price < 4.74:
