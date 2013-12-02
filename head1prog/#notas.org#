@@ -19,3 +19,5 @@
 - urllib.request: librería para comunicarse con la web
 - time: librería para trabajar con fechas y tiempo
 * Funciones
+Las funciones son fragmentos de código que
+utiliza según sea necesario desde el programa.
