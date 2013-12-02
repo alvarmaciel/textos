@@ -1,0 +1,21 @@
+* Strings
+** Herramientas de programación
+- Los Strings son secuencias de caracteres individuales
+- Los caracteres del String son referenciados por índices
+- Los valores de los índices son desplazamientos consecutivos que comienzan en 0
+- Los métodos proveen variables funcionalidades incorporadas
+- Las librerías de programación proveen una colección de código y funciones pre incorporadas.
+- Siempre que haya un valor, la información en una variable tiene un "tipo de dato"
+- Los números son tipos de datos
+- Los Strings son tipos de datos
+** Herramientas Python
+- s[4]: Accede al 5to carácter de la variable "s" que es un  String
+- S[6:12]: accede al sub-string dentro del string "s"(desde el carácter 7 hasta el 12 sin incluirlo)
+- s.find(): *método* para buscar en un String
+- s.upper(): *método* para convertir el String en MAYUSCULA
+- float(): convierte String en decimales "float"
+- + operador de suma
+- > operador mayor que
+- urllib.request: librería para comunicarse con la web
+- time: librería para trabajar con fechas y tiempo
+* Funciones
