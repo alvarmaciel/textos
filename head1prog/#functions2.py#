@@ -7,5 +7,9 @@ def get_price():
     return (price)
 
 answer = input ("Necesita comprar ahora Y/N: ")
-if answer != 
-get_price()
+if answer != N:
+    print (get_price())
+else:
+    while get_price() > 4.74 :
+    print ("¡Comprar!")
+ 
