@@ -3,3 +3,6 @@
 - Los caracteres del String son referenciados por índices
 - Los valores de los índices son desplazamientos consecutivos que comienzan en 0
 - Los métodos proveen variables funcionalidades incorporadas
+- Las librerías de programación proveen una colección de código y funciones pre incorporadas.
+- Siempre que haya un valor, la información en una variable tiene un "tipo de dato"
+- Los números 
