@@ -15,4 +15,4 @@ while answer != "N":
 else:
     time.sleep(20)
     price = get_price()
-    print ("¡Comprar!")
+    print (price)
