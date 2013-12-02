@@ -12,6 +12,7 @@ if precio_ahora == "Y":
     price = (get_price())
 else:
     price = 99.99
+    print ("Esperando que el precio sea menor a $ 4.74")
     while price > 4.74:
         time.sleep(20)
         price = get_price()
