@@ -10,9 +10,9 @@ def get_price():
 answer = input ("Necesita comprar ahora Y/N: )
 
 while answer != "N":
-    price = get_price
+    price = get_price()
     print (price)
 else:
-sleep (20)
-        print ("¡Comprar!")
- 
+    sleep (20)
+    price = get_price()
+    print ("¡Comprar!")
