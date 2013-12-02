@@ -16,4 +16,4 @@
 - + operador de suma
 - > operador mayor que
 - urllib.request: librería para comunicarse con la web
-- time: librería 
+- time: librería para trabajar con fechas y tiempo
