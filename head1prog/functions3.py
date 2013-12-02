@@ -8,7 +8,8 @@ def get_price():
 
 precio_ahora = input ("Necesita ver ahora el precio Y/N: ")
 if precio_ahora == "Y":
-    print (get_price())
+#    print (get_price())
+    price = (get_price())
 else:
     price = 99.99
     while price > 4.74:
