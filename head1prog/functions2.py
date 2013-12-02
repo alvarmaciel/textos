@@ -12,6 +12,7 @@ answer = input ("Necesita comprar ahora Y/N: ")
 while answer != "N":
     price = get_price()
     print (price)
+    answer = input ("Necesita comprar ahora Y/N: ")
 else:
     time.sleep(20)
     price = get_price()
