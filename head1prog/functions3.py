@@ -7,7 +7,7 @@ def get_price():
     return float (text[position+2:position+6])
 
 precio_ahora = input ("Necesita ver ahora el precio Y/N: ")
-    if answer == "Y":
+    if precio_ahora == "Y":
         print (get_price())
 else:
     price = 99.99
