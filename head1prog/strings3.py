@@ -5,5 +5,7 @@ text = page.read().decode("utf-8")
 
 position = text.find(">$")
 price = text[position+2:position+6]
+price = int (g)
+
 
 print (price)
