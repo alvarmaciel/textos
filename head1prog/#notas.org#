@@ -20,4 +20,4 @@
 - time: librería para trabajar con fechas y tiempo
 * Funciones
 Las funciones son fragmentos de código que
-utiliza según sea necesario desde el programa.
+se utiliza según sea necesario dentro el programa.
