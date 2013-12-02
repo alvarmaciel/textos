@@ -15,7 +15,7 @@ while answer != "N":
         price = get_price()
         print (price)
     else:
-        price= float get_price()
+        price= float (get_price())
         while price > 4.79:
             print (price)
     time.sleep(20)
