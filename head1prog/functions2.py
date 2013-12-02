@@ -7,13 +7,16 @@ def get_price():
     price = float (text[position+2:position+6])
     return (price)
 
-answer = input ("Necesita comprar ahora Y/N: ")
+answer = Y
 
 while answer != "N":
-    price = get_price()
-    print (price)
     answer = input ("Necesita comprar ahora Y/N: ")
-else:
+    if answer != "N":
+        price = get_price()
+        print (price)
+    else:
+        price= float get_price()
+        while price > 4.79:
+            print (price)
     time.sleep(20)
-    price = get_price()
-    print (price)
+    answer = input ("Quiere terminar el programa Y/N: ")
