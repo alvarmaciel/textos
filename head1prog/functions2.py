@@ -13,6 +13,6 @@ while answer != "N":
     price = get_price()
     print (price)
 else:
-    sleep (20)
+    sleep(20)
     price = get_price()
     print ("¡Comprar!")
