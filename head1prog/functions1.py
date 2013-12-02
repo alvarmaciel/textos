@@ -6,4 +6,4 @@ def get_price():
     price = float (text[position+2:position+6])
     print ("price")
 
-def get_price()
+get_price()
