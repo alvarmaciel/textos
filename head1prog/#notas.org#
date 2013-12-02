@@ -1,4 +1,5 @@
 * Herramientas de programación
 - Los Strings son secuencias de caracteres individuales
 - Los caracteres del String son referenciados por índices
-- Los valores de los índices son 
+- Los valores de los índices son desplazamientos consecutivos que comienzan en 0
+- Los métodos proveen variables funcionalidades incorporadas
