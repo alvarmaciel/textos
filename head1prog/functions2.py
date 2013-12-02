@@ -1,4 +1,5 @@
 import urllib.request
+import time
 def get_price():
     page = urllib.request.urlopen("http://beans-r-us.appspot.com/prices-loyalty.html")
     text = page.read().decode("utf-8")
@@ -6,4 +7,11 @@ def get_price():
     price = float (text[position+2:position+6])
     return (price)
 
-get_price()
+answer = input ("Necesita comprar ahora Y/N: ")
+if answer != N:
+    print (get_price())
+else:
+    while get_price() > 4.74 :
+        sleep (20)
+        print ("¡Comprar!")
+ 
