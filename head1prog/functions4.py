@@ -6,6 +6,21 @@ def get_price():
     position = text.find(">$")
     return float (text[position+2:position+6])
 
+def send_to_twitter(msg):
+    import sys
+    import tweepy
+    CONSUMER_KEY = '...'
+    CONSUMER_SECRET = '...'
+    ACCESS_KEY = '...'
+    ACCESS_SECRET = '...'
+    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+    auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+    api = tweepy.API(auth)
+    api.update_status(msg)
+
+
+
+
 precio_ahora = input ("Necesita ver ahora el precio Y/N: ")
 if precio_ahora == "Y":
 #    print (get_price())
