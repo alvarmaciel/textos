@@ -7,17 +7,14 @@ def get_price():
     return float (text[position+2:position+6])
 
 def send_to_twitter(msg):
-    import sys
-    import tweepy
-    CONSUMER_KEY = '...'
-    CONSUMER_SECRET = '...'
-    ACCESS_KEY = '...'
-    ACCESS_SECRET = '...'
-    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-    auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
-    api = tweepy.API(auth)
-    api.update_status(msg)
-
+    password_manager = urllib.request.HTTPPasswordMgr()
+    password_manager.add_password("Twitter API", "http://twitter.com/statuses", "...", "...")
+    http_handler = urllib.request.HTTPBasicAuthHandler(password_manager)
+    page_opener = urllib.request.build_opener(http_handler)
+    urllib.request.install_opener(page_opener)
+    params = urllib.parse.urlencode( {'status': msg} )
+    resp = urllib.request.urlopen("http://twitter.com/statuses/update.json", params)
+    resp.read()
 
 
 
