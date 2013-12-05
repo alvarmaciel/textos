@@ -9,7 +9,7 @@ def get_price():
 def send_to_twitter(msg):
     password_manager = urllib.request.HTTPPasswordMgr()
 	password_manager.add_password("Twitter API",
-	"http://twitter.com/statuses", "...", "...")
+                                  "http://twitter.com/statuses", "...", "...")
 	http_handler = urllib.request.HTTPBasicAuthHandler(password_manager)
 	page_opener = urllib.request.build_opener(http_handler)
 	urllib.request.install_opener(page_opener)
