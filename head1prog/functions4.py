@@ -25,10 +25,12 @@ precio_ahora = input ("Necesita ver ahora el precio Y/N: ")
 if precio_ahora == "Y":
 #    print (get_price())
     price = (get_price())
+    send_to_twitter(price)
 else:
     price = 99.99
     print ("Esperando que el precio sea menor a $ 4.74")
     while price > 4.74:
         time.sleep(20)
         price = get_price()
-print ("Comprar a : ", price)
+#print ("Comprar a : ", price)
+send_to_twitter(price)
