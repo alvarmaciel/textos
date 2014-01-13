@@ -60,8 +60,8 @@ Puede ser arroz integral con:
 + 4 y 1/2 tazas de agua
 + 1 pizca de sal marina por cada taza de cereal
 
-&rarr; Lavar muy bien los cerales en un colador para que no se escapen los granos. Agregar la medida de agua y dejar en remojo alrededor de 1 hora. en la misma olla en la que vamos a cocinarlos
+&rarr; Lavar muy bien los cerales en un colador para que no se escapen los granos. Agregar la medida de agua y dejar en remojo alrededor de 1 hora. en la misma olla en la que vamos a cocinarlos.
 
-&rarr;
+&rarr; En la olla a presión: agregar la sal, tapar la olla y cocinar a fuego fuerte hasta que la olla pite, luego, bajar el fuego al mínimo y dejar cocinar suavemente de 40 a 45 minutos más. Apagar y dejar reposar hasta que la olla haya perdido la presión
 
-&rarr;
+&rarr; En olla de acero inoxidable o barro: agregar la sal y 1/2 taza más de agua, poner a fuego a fuerte y, cuando los cereales hiervan, bajar el fuejo a mínimo. Cocinar suavemente alrededor de 50 minutos, hasta que no quede más líquido. No hay que revolver, sino dejar reposar 10 mínutos hasta que asiente.
