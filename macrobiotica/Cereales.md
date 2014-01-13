@@ -54,4 +54,12 @@ Puede ser arroz integral con:
 # RECETAS #
 
 ## Arroz con mijo ##
+
++ 2 tazas de arroz integral
++ 1/2 taza de mijo
++ 4 y 1/2 tazas de agua
++ 1 pizca de sal marina por cada taza de cereal
+
+&rarr; Lavar muy bien los cerales en un colador para que no se escapen los granos. Agregar la medida de agua y dejar en remojo alrededor de 1 hora. en la misma olla en la que vamos a cocinarlos
+&rarr;
 &rarr;
