@@ -50,3 +50,8 @@ Puede ser arroz integral con:
 - maiz
 - trigo candeal
 - arroz moti
+
+# RECETAS #
+
+## Arroz con mijo ##
+\&rarr;\ 
