@@ -33,4 +33,6 @@ cocido en olla a presión.
 + Bajar el fuego a mínimo y dejar cocinar suavemente durante 40 o 50
   minutos. No revolver el arroz.
 
-Hay q
+Hay que controlar que no quede nada de agua en el fondo de la
+cacerola. Apagar el fuego y dejar reposar de 10 a 15 minutos para que
+reabsorba todo el vapor que permanece dentro de la cacerola
