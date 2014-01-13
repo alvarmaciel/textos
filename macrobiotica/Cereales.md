@@ -1,4 +1,3 @@
-
 # Cereales... una introducción #
 
 ## Cocción de Trigo Sarraceno ##
