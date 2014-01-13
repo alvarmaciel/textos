@@ -23,7 +23,7 @@
   calor. Cocinar suavemente de 40 a 45 minutos. Apagar y dejar reposar
   10 minutos hasta que la presión afloje. Consumir.
 
-#### En cacerola de acero inoxidable ####
+### En cacerola de acero inoxidable ###
 
 Las proporciones son iguales que las utilizadas para preparar arroz
 cocido en olla a presión.
