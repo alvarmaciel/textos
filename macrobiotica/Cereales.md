@@ -54,4 +54,4 @@ Puede ser arroz integral con:
 # RECETAS #
 
 ## Arroz con mijo ##
-\&rarr;\ 
+&rarr;
