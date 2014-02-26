@@ -1,3 +1,12 @@
 * Mapa de alfabetización digital
-| 1 | 2 | 3 |
-|   |   |   |
+| Exploración               | Construcción                             | Conexión                          |
+|---------------------------+------------------------------------------+-----------------------------------|
+| Navegar la Web            | Componer para la web                     | Compartir y colaborar             |
+| Leer en la web            | Editar textos                            | Participar comunitariamente       |
+| Buscar Significativamente | Remixar                                  | Defender la privacidad            |
+| Validar la información    | Organizar gráficamente                   | Vincularse con prácticas abiertas |
+| Cuidarse en la web        | Diseñar e ilustrar                       |                                   |
+|                           | Programar                                |                                   |
+|                           | Usar eficientemente el sistema operativo |                                   |
+|                           | Hacer Matemática                         |                                   |
+|---------------------------+------------------------------------------+-----------------------------------|
