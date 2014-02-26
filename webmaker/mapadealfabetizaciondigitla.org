@@ -1,4 +1,10 @@
 * Mapa de alfabetización digital
+
+Ejes:
+Prácticas
+
+
+
 | Exploración               | Construcción                             | Conexión                          |
 |---------------------------+------------------------------------------+-----------------------------------|
 | Navegar la Web            | Componer para la web                     | Compartir y colaborar             |
@@ -10,3 +16,5 @@
 |                           | Usar eficientemente el sistema operativo |                                   |
 |                           | Hacer Matemática                         |                                   |
 |---------------------------+------------------------------------------+-----------------------------------|
+
+
