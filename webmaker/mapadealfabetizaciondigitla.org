@@ -1,9 +1,8 @@
 * Mapa de alfabetización digital
 
-Ejes:
-Prácticas
-
-
+Ejes:Los ejes, hilos, recoridos o tramas del mapa han de estar definidos por sustantivos o construcciones sustantivas.
+la idea es plasmar  de manera unívoca y con precisión el contenido que abarcará. 
+Prácticas: Las prácticas involucradas en cada uno de los ejes referncian a acciones o procedimientos, como tales hende ser expresados por verbos o formas verbales. 
 
 | Exploración               | Construcción                             | Conexión                          |
 |---------------------------+------------------------------------------+-----------------------------------|
@@ -17,4 +16,13 @@ Prácticas
 |                           | Hacer Matemática                         |                                   |
 |---------------------------+------------------------------------------+-----------------------------------|
 
-
+** Prácticas
+*** Exploración
+Navegando en la web
+**** Navegar
+Usar herramientas de software para navegar la web
+- Acceder a la web usando las características comunes de los navegadores
+- Usar hipervínculos para acceder a una serie de recursos en la web
+- Leer, evaluar y manipular URLs
+- Reconocer las indicaciones visuales en los servicios web cotidianos
+- Usar complementos del navegador y extensiones para proporcionar funcionalidades adicionales
