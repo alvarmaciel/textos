@@ -1,0 +1,107 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+TITLE: Planificaciones Tercer Grado
+#+DATE: <2014-05-04 dom>
+#+AUTHOR: Alvar Maciel
+#+EMAIL: alvarmaciel@gmail.com
+#+DESCRIPTION: Archivo con la planificación del grado
+#+KEYWORDS: Planificaciones Tercero
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.3.1 (Org mode 8.2.6)
+#+COLUMNS: %40ITEM %3Terminado(Terminado?){X} %15Área %7TODO(Estado) %14SCHEDULED(Agenda) %8DEADLINE %6TiempoEmpleado{:} %12TAGS
+
+* Proyectos y actividades habituales
+** TODO Prácticas del lenguaje
+:PROPERTIES:
+:COLUMNS:  %40ITEM %10Terminado(Terminado?){X} %15Área %5TODO(Estado) %14SCHEDULED(Agenda) %14DEADLINE %5TiempoEmpleado{:} %TAGS
+   :Área_ALL: "Prácticas del Lenguaje" "Matemática" "Conocimiento de Mundo" "F. Ética"
+   :TOD_ALL: TODO NEXT DONE CANCELLED
+   :Terminado_ALL: "[ ]" "[X]"
+   :TiempoEmpleado_ALL: 0:40 0:80 
+:Área:     Prácticas del Lenguaje
+:ID:       6074039c-51c1-44d6-989e-40d51fffd773
+   :END:
+*** TODO Proyecto Biblioteca del Aula                               :1B:2B:
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:Estado:   En progreso
+:ID:       5309a837-551b-470d-a729-28c63237b456
+:END:
+**** DONE Armado de Fichas                                            :1B:
+:PROPERTIES:
+:Terminado: [X]
+:TiempoEmpleado: 0:80
+:Área:     Prácticas del Lenguaje
+:END:
+
+**** NEXT Clasificación de Libros                                     :1B:
+SCHEDULED: <2014-05-06 mar> DEADLINE: <2014-05-09 vie>
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:Estado: 
+:Estado:   En progreso
+:Agenda:   <2014-05-05>--<2014-05-09>
+:Terminado: [ ]
+:TiempoEmpleado: 0:40
+:ID:       dda8e831-48e2-4bf2-bfd9-5a1da0738687
+:END:
+**** NEXT Armado de recomendaciones                                   :2B:
+:PROPERTIES:
+:Terminado: [ ]
+:Área:     Prácticas del Lenguaje
+:ID:       65331f07-9bb7-4064-bbd7-d8068971a8aa
+:END:
+
+*** TODO Cuento con Vos
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:ID:       d72af2f9-681e-4b0a-8163-22aca60214b2
+:END:
+**** NEXT Biblioteca
+:PROPERTIES:
+:Terminado: [ ]
+:Área:     Prácticas del Lenguaje
+:ID:       3a81f8a6-5ea1-448a-ad6b-d84fed7e8173
+:END:
+*** TODO Taller de Lectura
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:ID:       e52d7690-c7fc-4c9d-8c09-17c6970e3822
+:END:
+**** NEXT Lectura de : 
+:PROPERTIES:
+:Terminado: [ ]
+:Área:     Prácticas del Lenguaje
+:ID:       956c95a2-fd91-4257-8757-9bc4841fbfc7
+:END:
+*** NEXT Taller de Escritura
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:ID:       25c6c563-bccf-47a6-8252-e2eefe49c704
+:END:
+**** NEXT Actividad: 
+:PROPERTIES:
+:Terminado: [ ]
+:Área:     Prácticas del Lenguaje
+:ID:       4486d3a2-613b-4f78-bd90-50c9631fb949
+:END:
+*** TODO Evaluaciones
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:ID:       d74ca958-756d-4e94-855b-ff2604d01f02
+:END:
+**** NEXT cierre 1B                                                   :1B:
+:PROPERTIES:
+:Área:     Prácticas del Lenguaje
+:Terminado: [ ]
+:ID:       b3623521-e46e-495b-af17-85a59a03bf22
+:END:
+
+** TODO Matemáticas      
+:PROPERTIES:
+:ID:       8fa6f6f6-3a0d-416a-931d-dc1bd68fe5cf
+:END:
