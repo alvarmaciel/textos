@@ -1,5 +1,4 @@
-aeq-repo
-========
+## Recursos Pedagógicos
 
 Repositorio de estrategias e ideas
 
