@@ -2,6 +2,7 @@
 
 Repositorio de estrategias e ideas
 
+- [Búsqueda significativa](RecursosPedagogicos/BusquedaSignificativa/BusquedaSignificativa.md "Búsqueda significativa")
 - [Infografías](RecursosPedagogicos/Infografias "Infografías")
 - [Juegos](RecursosPedagogicos/juegos/ResolverMisterios.md "Juegos")
 - [Matemáticas](/RecursosPedagogicos/Matematicas/)
