@@ -12,20 +12,106 @@
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 24.3.1 (Org mode 8.2.6)
-#+COLUMNS: %40ITEM %3Terminado(Terminado?){X} %15Área %7TODO(Estado) %14SCHEDULED(Agenda) %8DEADLINE %6TiempoEmpleado{:} %12TAGS
+#+COLUMNS: %40ITEM  %3Terminado(Terminado?){X} %6TODO(Estado) %5SCHEDULED(Agenda) %8DEADLINE %5TiempoEmpleado{:} %9TAGS
+
+* Claves de el lectura:
+- TODO: Proyectos en marcha
+- NEXT: Actividades por hacer
+- DONE: Proyectos / Secuencias Terminadas
+- 1B; 2B, 3B; 4B: Primer, Segundo, Tercer y Cuarto Bimestre
+
+
+* Prácticas del Lenguaje
+** Prácticas de La Lectura
+:PROPERTIES:
+:COLUMNS: %40ITEM  %60TAGS
+:END:
+*** Quehaceres generales del lector
+**** Leer para divertirse, emocionarse, conocer otros mundos posibles y reflexionar sobre el propio.
+***** Participar en una comunidad de lectores de literatura. 
+***** Adecuar la modalidad de lectura al propósito y al texto.
+***** Emplear conocimientos acerca del autor y del género para precisar las anticipaciones y enriquecer las interpretaciones.
+***** Autocontrolar la interpretación del texto.
+***** Reconocer la relación entre los elementos lingüísticos y el universo referencial.
+***** Usar el contexto para desentrañar significados.
+***** Utilizar la información provista por otros textos para anticipar el contenido (a lo largo de todo el proceso lector) y para enriquecer las interpretaciones.
+**** Leer para buscar información
+***** Localizar la información buscada.
+***** Adecuar la modalidad de lectura al propósito y al texto.
+***** Autocontrolar, monitorear la interpretación del texto.
+***** Utilizar la información de otros textos para anticipar el contenido (a lo largo de todo el proceso lector) y enriquecer las interpretaciones.
+***** Emplear conocimientos acerca del autor y del género para precisar las anticipaciones y enriquecer las interpretaciones.
+**** Leer para hacer
+***** Adecuar la modalidad de lectura al propósito y al texto.
+***** Autocontrolar, monitorear la interpretación del texto.
+*** Quehaceres del lector y adquisición del sistema de escritura
+**** Usar los conocimientos sobre el género y el portador para circunscribir el lugar donde se lee. Ajustar las anticipaciones posibles –en función del contexto, del género y del tema– tomando en cuenta los índices provistos por el texto. 
+***** Considerar los índices provistos por el texto para anticipar el significado, para verificar o rectificar lo anticipado o para elegir una expresión entre varias posibles.
+***** Ajustar el interjuego anticipación-verificación.   
+*** Prácticas de la Escritura
+**** Quehaceres generales del escritor
+***** Recurrir a la escritura con un propósito determinado. 
+***** Tomar en cuenta el destinatario / los destinatarios. 
+***** Decidir cuál va a ser la posición del enunciador dentro del texto y sostenerla en todo su desarrollo.
+***** Consultar con otros mientras se escribe y/o leerles o pedirles que lean lo que se ha escrito. 
+***** Recurrir a diferentes materiales de lectura.       
+***** Revisar el propio texto mientras se está escribiendo. 
+***** Revisar las distintas versiones de lo que se está redactando hasta alcanzar un texto que se considere bien escrito.
+***** Asegurarse de que la espacialización del texto es adecuada.
+***** Editar los textos producidos.
+**** Quehaceres del escritor, estrategias discursivas y recursos lingüísticos
+***** Evitar ambigüedades y repeticiones innecesarias.
+***** Controlar si todas las informaciones que se han ido incorporando al texto guardan relación (y lo hacen de manera ordenada y coherente) con el tema seleccionado, evitando digresiones innecesarias o inadecuadas.
+***** Cuidar que las distintas partes del texto se vinculen entre sí de manera coherente.
+***** Asegurarse de que los textos que están escribiendo se "parezcan" a los textos del mismo género que circulan socialmente.
+***** Facilitar la comprensión y la interpretación de lo escrito por parte del lector, mediante el empleo de distintos signos de puntuación, en relación con lo que se quiere expresar y con el propósito que ha guiado la escritura.
+**** Quehaceres del escritor y adquisición del sistema de escritura
+***** Dictar                                             
+***** Escribir solo o con otros                          
+****** Usar escrituras conocidas para producir escrituras nuevas, adecuándolas a las necesidades de la nueva producción.
+****** Solicitar, proveer y evaluar conocimientos entre usuarios acerca de la escritura. 
+****** Debatir acerca de la cantidad necesaria de letras y sobre sus posibilidades de combinación para producir escrituras legibles.
+***** Alternar y coordinar roles de lector y de escritor. 
+****** Diferenciar entre lo dicho y lo dictado.
+****** Revisar el propio texto mientras se está escribiendo.
+****** Revisar las distintas versiones de lo que se está redactando hasta alcanzar un texto que se considere bien escrito.
+**** Quehaceres del escritor y adquisición del conocimiento ortográfico
+***** Quehaceres del escritor relativos a la ortografía.
+****** Cuidar la ortografía de la primera versión de un escrito utilizando los medios a disposición para resolver problemas sin descentrarse del proceso de escritura.
+****** Revisar la ortografía del escrito antes de ser presentado o publicado.
+****** Recurrir a distintos materiales de lectura, usando de manera cada vez más pertinente la información disponible para resolver dudas ortográficas.
+****** Decidir cómo usar las escrituras confiables para resolver dudas ortográficas respecto de palabras nuevas.
+****** Solicitar, proveer e intercambiar conocimientos acerca de la ortografía.
+***** Contenidos que serán objeto de reflexión sistemática.
+****** Las restricciones gráficas del sistema de escritura.
+****** Las regularidades contextuales.
+****** Las separaciones entre palabras.
+****** Los parentescos lexicales.
+****** Rasgos morfológicos que se representan ortográficamente.
+****** Ortografía y diferenciación de significados.
+****** Las mayúsculas.
+*** Hablar en la escuela
+**** Quehaceres del hablante y del oyente
+***** Exponer/escuchar activamente una exposición.
+***** Discutir.
+***** Entrevistar.
+***** Narrar/escuchar historias.
+***** Comentar/solicitar y evaluar comentarios.
+
+
+
 
 * Proyectos y actividades habituales
 ** TODO Prácticas del lenguaje
 :PROPERTIES:
-:COLUMNS:  %40ITEM %10Terminado(Terminado?){X} %15Área %5TODO(Estado) %14SCHEDULED(Agenda) %14DEADLINE %5TiempoEmpleado{:} %TAGS
-   :Área_ALL: "Prácticas del Lenguaje" "Matemática" "Conocimiento de Mundo" "F. Ética"
-   :TOD_ALL: TODO NEXT DONE CANCELLED
+   :TODO_ALL: TODO NEXT DONE CANCELLED
    :Terminado_ALL: "[ ]" "[X]"
    :TiempoEmpleado_ALL: 0:40 0:80 
 :Área:     Prácticas del Lenguaje
 :ID:       6074039c-51c1-44d6-989e-40d51fffd773
+:CONTENIDO: 
    :END:
-*** TODO Proyecto Biblioteca del Aula                               :1B:2B:
+*** TODO Proyecto Biblioteca del Aula             :BibliotecaDelAula:1B:2B:
 :PROPERTIES:
 :Área:     Prácticas del Lenguaje
 :Estado:   En progreso
@@ -56,7 +142,7 @@ SCHEDULED: <2014-05-06 mar> DEADLINE: <2014-05-09 vie>
 :ID:       65331f07-9bb7-4064-bbd7-d8068971a8aa
 :END:
 
-*** TODO Cuento con Vos
+*** TODO Cuento con Vos                                      :CuentoConVos:
 :PROPERTIES:
 :Área:     Prácticas del Lenguaje
 :ID:       d72af2f9-681e-4b0a-8163-22aca60214b2
@@ -94,7 +180,7 @@ SCHEDULED: <2014-05-06 mar> DEADLINE: <2014-05-09 vie>
 :Área:     Prácticas del Lenguaje
 :ID:       d74ca958-756d-4e94-855b-ff2604d01f02
 :END:
-**** NEXT cierre 1B                                                   :1B:
+**** NEXT cierre del 1B                                                  :1B:
 :PROPERTIES:
 :Área:     Prácticas del Lenguaje
 :Terminado: [ ]
