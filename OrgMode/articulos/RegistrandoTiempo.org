@@ -212,3 +212,10 @@ as the default task."
 
 (add-hook 'org-clock-out-hook 'bh/clock-out-maybe 'append)
 #+end_src
+
+Solía registrar el tiempo en las tareas por ID usando la siguiente función. Pero con el nuevo sistema de entrada y salida (punch-in y punch-out) ya no necesito esto. =F9-SPC= llama a =bh/clock-in-last-task= que cambia el reloj a la última tarea registrada.
+
+** Iniciando el registro (Clocking In)
+:PROPERTIES:
+:CUSTOM_ID: IniciandoRegistro
+:END:
