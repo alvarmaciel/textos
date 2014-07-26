@@ -1,0 +1,214 @@
+* Time Clocking
+:PROPERTIES:
+:CUSTOM_ID: Cloking
+:END:
+
+Ok, lo admito. Soy un fanático de la temporización.
+Registro y cronometro todo en el trabajo. Org-mode lo hace realmente fácil, prefiero cronometrar muchas cosas que no las suficientes, de esa forma me es más fácil habituarme a cronometrar y registrar todo.
+
+Esto hace posible mirar hacia atrás en el día y ver donde estoy gastando demasiado tiempo, o si no estoy dedicando el suficiente a determinados proyectos. Esto también ayuda mucho cuando se necesita estimar cuanto tiempo va a tomar hacer algo. Se puede usar el registro de tiempo de tareas similares como ayuda para sus estimaciones de manera que estas sean más precisas.
+
+Sin los datos de registro de tiempo es difícil decir cuanto tiempo tomó hacer algo a posteriori.
+
+Utilizo el concepto de =punching in= y =punching out= o =entrada= y =salida= al inicio y al final de la jornada laborar. Le doy entrada =punch in= cuando llego al trabajo, doy =punch out= cuando almuerzo, doy =punch in= al regreso y =punch out= al finalizar el día. Todos los minutos son registrados entre punch-in y punch-out.
+
+/Punching in/ define una tarea por defecto para registrar el tiempo en todo momento, incluso cuando el reloj normalmente se detendría. Con la configuración por defecto de org-mode se pierden minutos de registro durante el día, un minuto aquí, otro allá y al final todo suma. Esto es especialmente cierto cuando se escriben notas al mover una tarea al estado DONE - en estos casos el reloj normalmente se detiene antes de que se termine de escribir la nota - y las buenas notas toman unos minutos en ser escritas.
+
+La configuración del registro de tiempo básicamente funciona así:
+
+- Punch In (inicio del reloj de registro)
+  - Esto registra en una tarea predefinida por =org-id= que es la tarea por defecto para el registro del tiempo incluyendo el tiempo que normalmente no se registra
+- Registre el tiempo de las tareas normalmente y mueva la tarea al estado DONE para detener el registro
+  - La detención del registro mueve el reloj a la tarea relacionada siguiente o se mueve a la tarea relacionada anterior si no hay tareas relacionadas siguientes.
+- Continue registrando las tareas en las que trabaja
+- Punch Out (detiene el reloj)
+
+Puedo cambiar la tarea por defecto muchas veces durante el día pero con el movimiento automático del reloj a través del árbol del proyectos esto ya no es necesario. Sólo tengo una tarea sencilla que toma el registro cuando hago punch-in
+
+Si hago punch-in sobre el prefijo de una tarea del =proyecto x=, entonces la tarea se convierte en la tarea por defecto y todo el registro del tiempo va a ese proyecto hasta que hago punch-out o punch-in en otra tarea.
+
+el archivo org luce así:
+
+=todo.org=:
+#+begin_src org :exports src
+,#+FILETAGS: PERSONAL
+...
+,* Tasks
+,** Organization
+   :PROPERTIES:
+   :CLOCK_MODELINE_TOTAL: today
+   :ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
+   :END:
+   ...
+#+end_src
+
+
+Si estamos trabajando en una tarea, entonces simplemente registro el tiempo sobre esa tarea (clock in). Clocking out o salir del registro de la tarea mueve el reloj hacia una tarea relacionada con la palabra clave TODO (si es que hay alguna) y mantiene el reloj dentro del mismo árbol de tareas. Si no hay tareas relacionadas con palabras claves TODO, entonces el reloj se mueve hacia la tarea por default hasta que se hace punch-out o nos movemos hacia otra tarea. Cuando ocurre laguna interrupción creo una tarea de captura que mantiene el reloj en ella hasta que hago C-c C-c.
+
+Por ejemplo, considerando el siguiente archivo org:
+
+#+begin_src org :exports src
+,* TODO Proyecto A
+,** NEXT Tarea 1
+,** TODO Tarea 2
+,** TODO Tarea 3
+,* Tareas
+,** TODO tareas varias
+#+end_src
+
+Trabajaría en el archivo de la siguiente forma:
+
+1. Arranco el día haciendo la entrada o punch in con =F9-I=
+
+   Esto registra en la tarea =Organización= por ID en mi archivo =todo.org=.
+
+2. =F12-SPC= para ver mi agenda
+
+   selecciono 'TODO tareas varias' para trabajar en ellas y registro el tiempo con =I= el reloj está ahora en 'TODO tareas varias'
+
+3. Termino la tarea y la marco como DONE (terminada) con =C-c C-t d=
+
+   Esto termina el registro y mueve el reloj de nuevo a la tarea =organización=.
+
+4. Ahora  quiero trabajar en el =Proyecto A= así que llevo el registro a =Tarea 1=.
+
+   Trabajo en la Tarea 1 y la marco como DONE. Esto saca el reloj de registro de =Tarea 1= y o mueve a =Proyecto A=. Ahora me pongo a trabajar en la =Tarea 2= y llevo el registro a ella.
+
+Durante todo el tiempo  que estoy trabajando y registrando alguna subtarea del =Proyecto A= todo el tiempo en ese intervalo se aplica a algún lugar del árbol del =Proyecto A=. Cuando marque el proyecto como terminado (DONE) el reloj se moverá otra vez a la tarea por defecto =Organización=.
+
+** Configuración del reloj
+:PROPERTIES:
+:CUSTOM_ID: ConfiguracionReloj
+:END: 
+
+Para empezar necesitamos inicializar le reloj =punch-in= con lo cual se empieza a registrar el tiempo en la tarea por defecto y mantiene el reloj corriendo. Esto ahora es una cuestión de hacer =F9 I=. Se puede hacer esto en cualquier lugar.
+
+Mantener el reloj corriendo cuando mueven una tarea a estado =DONE= significa que se continua registrando el tiempo en la tarea del proyecto. Entonces pueden elegir la siguiente tarea del proyecto sin perder minutos mientras deciden en que van a trabajar.
+
+Mantengo las horas del reloj, cambios de estado y otras noteas en la propiedad =:LOGBOOK:= 
+
+Esta es la configuración de registro de tiempo:
+
+#+header: :tangle yes
+#+begin_src emacs-lisp
+;;
+;; Resume clocking task when emacs is restarted
+(org-clock-persistence-insinuate)
+;;
+;; Show lot of clocking history so it's easy to pick items off the C-F11 list
+(setq org-clock-history-length 23)
+;; Resume clocking task on clock-in if the clock is open
+(setq org-clock-in-resume t)
+;; Change tasks to NEXT when clocking in
+(setq org-clock-in-switch-to-state 'bh/clock-in-to-next)
+;; Separate drawers for clocking and logs
+(setq org-drawers (quote ("PROPERTIES" "LOGBOOK")))
+;; Save clock data and state changes and notes in the LOGBOOK drawer
+(setq org-clock-into-drawer t)
+;; Sometimes I change tasks I'm clocking quickly - this removes clocked tasks with 0:00 duration
+(setq org-clock-out-remove-zero-time-clocks t)
+;; Clock out when moving task to a done state
+(setq org-clock-out-when-done t)
+;; Save the running clock and all clock history when exiting Emacs, load it on startup
+(setq org-clock-persist t)
+;; Do not prompt to resume an active clock
+(setq org-clock-persist-query-resume nil)
+;; Enable auto clock resolution for finding open clocks
+(setq org-clock-auto-clock-resolution (quote when-no-clock-is-running))
+;; Include current clocking task in clock reports
+(setq org-clock-report-include-clocking-task t)
+
+(setq bh/keep-clock-running nil)
+
+(defun bh/clock-in-to-next (kw)
+  "Switch a task from TODO to NEXT when clocking in.
+Skips capture tasks, projects, and subprojects.
+Switch projects and subprojects from NEXT back to TODO"
+  (when (not (and (boundp 'org-capture-mode) org-capture-mode))
+    (cond
+     ((and (member (org-get-todo-state) (list "TODO"))
+           (bh/is-task-p))
+      "NEXT")
+     ((and (member (org-get-todo-state) (list "NEXT"))
+           (bh/is-project-p))
+      "TODO"))))
+
+(defun bh/find-project-task ()
+  "Move point to the parent (project) task if any"
+  (save-restriction
+    (widen)
+    (let ((parent-task (save-excursion (org-back-to-heading 'invisible-ok) (point))))
+      (while (org-up-heading-safe)
+        (when (member (nth 2 (org-heading-components)) org-todo-keywords-1)
+          (setq parent-task (point))))
+      (goto-char parent-task)
+      parent-task)))
+
+(defun bh/punch-in (arg)
+  "Start continuous clocking and set the default task to the
+selected task.  If no task is selected set the Organization task
+as the default task."
+  (interactive "p")
+  (setq bh/keep-clock-running t)
+  (if (equal major-mode 'org-agenda-mode)
+      ;;
+      ;; We're in the agenda
+      ;;
+      (let* ((marker (org-get-at-bol 'org-hd-marker))
+             (tags (org-with-point-at marker (org-get-tags-at))))
+        (if (and (eq arg 4) tags)
+            (org-agenda-clock-in '(16))
+          (bh/clock-in-organization-task-as-default)))
+    ;;
+    ;; We are not in the agenda
+    ;;
+    (save-restriction
+      (widen)
+      ; Find the tags on the current task
+      (if (and (equal major-mode 'org-mode) (not (org-before-first-heading-p)) (eq arg 4))
+          (org-clock-in '(16))
+        (bh/clock-in-organization-task-as-default)))))
+
+(defun bh/punch-out ()
+  (interactive)
+  (setq bh/keep-clock-running nil)
+  (when (org-clock-is-active)
+    (org-clock-out))
+  (org-agenda-remove-restriction-lock))
+
+(defun bh/clock-in-default-task ()
+  (save-excursion
+    (org-with-point-at org-clock-default-task
+      (org-clock-in))))
+
+(defun bh/clock-in-parent-task ()
+  "Move point to the parent (project) task if any and clock in"
+  (let ((parent-task))
+    (save-excursion
+      (save-restriction
+        (widen)
+        (while (and (not parent-task) (org-up-heading-safe))
+          (when (member (nth 2 (org-heading-components)) org-todo-keywords-1)
+            (setq parent-task (point))))
+        (if parent-task
+            (org-with-point-at parent-task
+              (org-clock-in))
+          (when bh/keep-clock-running
+            (bh/clock-in-default-task)))))))
+
+(defvar bh/organization-task-id "eb155a82-92b2-4f25-a3c6-0304591af2f9")
+
+(defun bh/clock-in-organization-task-as-default ()
+  (interactive)
+  (org-with-point-at (org-id-find bh/organization-task-id 'marker)
+    (org-clock-in '(16))))
+
+(defun bh/clock-out-maybe ()
+  (when (and bh/keep-clock-running
+             (not org-clock-clocking-in)
+             (marker-buffer org-clock-default-task)
+             (not org-clock-resolving-clocks-due-to-idleness))
+    (bh/clock-in-parent-task)))
+
+(add-hook 'org-clock-out-hook 'bh/clock-out-maybe 'append)
+#+end_src
