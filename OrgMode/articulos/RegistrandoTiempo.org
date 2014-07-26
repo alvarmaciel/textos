@@ -217,5 +217,7 @@ Solía registrar el tiempo en las tareas por ID usando la siguiente función. Pe
 
 ** Iniciando el registro (Clocking In)
 :PROPERTIES:
-:CUSTOM_ID: IniciandoRegistro
+:CUSTOM_ID: IniciandoReloj
 :END:
+
+Cuando
