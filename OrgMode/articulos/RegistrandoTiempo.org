@@ -220,4 +220,72 @@ Solía registrar el tiempo en las tareas por ID usando la siguiente función. Pe
 :CUSTOM_ID: IniciandoReloj
 :END:
 
-Cuando
+Cuando comienzo una tarea o continúo trabajando en una tarea la registro de cualquiera de estas formas:
+
+- =C-c C-x C-i= 
+- =I= en la agenda
+- =I= tecla rápida en el primer carácter de la línea de título
+- =f9 I= mientras estoy en la tarea dentro de la agenda
+- =f9 I= mientras estoy en la tarea dentro de una archivo org.
+
+*** Configuración de la tarea por defecto del reloj
+
+Tengo una tarea por defecto llamada =**Organización= dentro de mi archivo =todo.org= en el que tiendo a poner todos los registros de tiempo misceláneos. Esta es la tarea que registro cuando se inicia el registro (punch in) al comienzo del día laboral con =F9-I=. Mientras reorganizo mis archivos org, leo los mails, limpio mi bandeja de entrada y hago otros trabajos planeados pero que no están en un proyecto específico se registra el tiempo en esta tarea. haciendo punch-in en cualquier lugar inicia el reloj en esta tarea por defecto.
+
+Si quiero cambiar la tarea de registro por defecto, sólo tengo que visitar la nueva tarea en cualquier buffer y registrala con =C-u C-u C-c C-x C-i-=, Ahora esta tarea juntará los minutos de registro misceláneos cuando el reloj normalmente se pararía.
+
+Pueden registrar rápidamente el tiempo en la tarea por defecto con =C-u C-c C-x C-i d=. Otra forma es salir del registro de la tarea (clock out) repetidamente hasta que llegue a la primer tarea, cuando no hay más niveles el reloj se mueve a la tarea por default.
+
+*** Usar el registro histórico del reloj para cronometrar tareas antiguas.
+
+Pueden usar el historial del reloj para reiniciar el registro del tiempo en alguna vieja tarea que ya habían registrado o saltar directamente a una tarea que ya registrada. Suelo usar esto principalmente para iniciar el registro cuando fui interrumpido por algo.
+
+Consideren el siguiente escenario:
+
+- Están trabajando y registrando en la =Tarea A= (Organización)
+- Son interrumpidos y cambian a la =Tarea B= (Documentar el uso de org-mode)
+- Completan la =Tarea B= (Documentar el uso de org-mode)
+- Ahora quieren continuar a la =Tarea A= (Organización) de nuevo para continuar.
+
+Esto es fácil de hacer con.
+
+1. Iniciar el reloj en la =Tarea A=, trabajar en ella
+2. ir a la =Tarea B= (o crear una nueva tarea) y iniciar en ella el reloj
+3. Cuando terminan con la =Tarea B= hacer =C-u C-c C-x C-i i=
+
+Esto muestra una ventana de selección del historial del reloj como la siguiente y pueden seleccionar la tarea interrumpida =[i]=.
+
+*Clock history selection buffer for C-u C-c C-x C-i*
+#+begin_example
+Default Task
+[d] norang          Organization                          <-- Task B
+The task interrupted by starting the last one
+[i] norang          Organization                          <-- Task B
+Current Clocking Task
+[c] org             NEXT Document my use of org-mode      <-- Task A
+Recent Tasks
+[1] org             NEXT Document my use of org-mode      <-- Task A
+[2] norang          Organization                          <-- Task B
+...
+[Z] org             DONE Fix default section links        <-- 35 clock task entries ago
+#+end_example
+
+** Registrandolo todo - Crear nuevas tareas
+:PROPERTIES:
+:CUSTOM_ID: RegistrandoloTodoConNuevasTareas
+:END:
+
+En orden de registrar todo, necesitan una tarea para todo. Eso está bien para proyectos y planes, pero las interrupciones ocurren de manera inevitable y necesitan algún lugar para registrar el tiempo que dedican a esas interrupciones.
+
+Para lidiar con esto crearemos una nueva captura de tarea que registre lo que vamos a hacer. El flujo de trabajo sería algo así:
+
+- Están trabajando y registrando alguna tarea y ocurre una interrupción.
+- Creen una tarea rápida de tipo /diario/ =C-c c j=.
+- Tipeen el encabezado.
+- Hagan lo esa cosa (comer, hacer el mate, lo que sea).
+- Guardenla =C-c C-c=, esto restaura el reloj en la tarea en la que estaban trabajando.
+- Inicien otra tarea o continúen con lo que estaban haciendo.
+
+Esto significa que pueden ignorar el detalle como a dónde pertenece realmente la tarea en el esquema de sus archivos org y continuar con lo que estaban haciendo. Reorganizar (refilling) muchas tareas más adelante en grupo cuando sea conveniente hacer el refill ahora tiempo a largo plazo.
+
+Si se trata de una tarea solitaria y poco interesante (un café o hacer el mate) Creé una captura de /diario/  que va directo al árbol del archivo diary.org. Si es una tarea que necesita ser trackeada y marcada como hecha (DONE), y se aplica a algún proyecto. Entonces creo una captura de /tarea/ y luego la reorganizo. 
