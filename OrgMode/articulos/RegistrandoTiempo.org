@@ -288,4 +288,55 @@ Para lidiar con esto crearemos una nueva captura de tarea que registre lo que va
 
 Esto significa que pueden ignorar el detalle como a dónde pertenece realmente la tarea en el esquema de sus archivos org y continuar con lo que estaban haciendo. Reorganizar (refilling) muchas tareas más adelante en grupo cuando sea conveniente hacer el refill ahora tiempo a largo plazo.
 
-Si se trata de una tarea solitaria y poco interesante (un café o hacer el mate) Creé una captura de /diario/  que va directo al árbol del archivo diary.org. Si es una tarea que necesita ser trackeada y marcada como hecha (DONE), y se aplica a algún proyecto. Entonces creo una captura de /tarea/ y luego la reorganizo. 
+Si se trata de una tarea solitaria y poco interesante (un café o hacer el mate) Creé una captura de /diario/  que va directo al árbol del archivo diary.org. Si es una tarea que necesita ser trackeada y marcada como hecha (DONE), y se aplica a algún proyecto. Entonces creo una captura de /tarea/ y luego la reorganizo.
+
+** Encontrando tareas para cronometrar
+
+Para encontrar una tarea en la que trabajar uso uno de las siguientes opciones (Listadas en orden de uso frecuente)
+
+- Uso del historial del reloj =C-u C-c C-x C-i= para volver a algo que estaba registrando y que no se ha finalizado.
+- Elegir algo de bloque "today" de la agenda, algún ítem en estado =SCHEDULED= o =DEADLINE= que es necesario realizar.
+- Elegir algo de la vista =NEXT= de la agenda, trabajar el alguna tarea incompleta.
+- Elegir algo de otra lista de tareas
+- Usar una vista de agenda con algún filtro para elegir algo en lo que trabajar.
+
+Al iniciar el reloj en la tarea que eligieron restringirá la vista de la agenda a ese proyecto, de manera que se puedan enfocar sólo en esa cosa durante un período de tiempo.
+
+* Editando entradas del reloj
+:PROPERTIES:
+:CUSTOM_ID: EditandoEntradasDelReloj
+:END:
+Algunas veces es necesario editar alguna entrada del reloj para que refleje correctamente la realidad. Hago esto en tal vez 2 o 3 entradas en una semana.
+
+Algunas veces no puedo cronometrar una tarea porque estoy lejos de la computadora. En estos casos la tarea previa en la que estaba continua registrándose y registra el tiempo de ambas tareas creando un registro incorrecto.
+
+Creo una nota del tiempo que me toma la tarea y cuando vuelvo a mi computadora inicio el reloj en la tarea correcta y edito el inicio y el final del historial del registro de tiempo.
+
+Para ver rápidamente la línea del reloj de una entrada uso el modo de logueo de la agenda =F12 a l= muestra todas las líneas de registro del día. Uso esto para navegar rapidamente a la línea que tengo que editar. =F11= va nos lleva a la tarea que actualmente está siendo registrada, pero el modo de logueo de la agenda mejor para encontrar y visitar viejos registros del reloj.
+
+Usen =F12 a l= para abrir la agenda en modo logueo y mostrar sólo las entradas con registro de tiempo. Muevan el cursor hacia la línea que necesitan editar, aprieten =TAB= y ya estarán ahí.
+
+Para editar una entrada de reloj sólo pongan el cursos en la parte del dato que quieren editar (usen el teclado no el mouse, ya que el click en la marca de tiempo con el muose los llevará de nuevo a la agenda de ese día,  y presionen =S-<up arrow>= o =S-<down arrow>= para cambiar los registros de tiempo.
+
+La siguiente configuración hace que la edición del tiempo use incrementos discretos en los intervalos de los minutos (sin redondeo):
+#+header: :tangle yes
+#+begin_src emacs-lisp
+(setq org-time-stamp-rounding-minutes (quote (1 1)))
+#+end_src
+
+Editar el tiempo con la combinación de teclas shift y flecha arriba también actualiza la sumatoria de la cuenta del reloj, lo cual es muy conveniente.
+
+Siempre compruebo que no haya creado superposiciones de tareas cuando arreglo entradas del reloj viéndolas en el modo logueo de la agenda. Hay una nueva vista en la agenda para esto - sólo tecleen =v c= en la vista diaria de la agenda y se muestran gaps y superposiciones del reloj.
+
+Busco que mis registros de tiempo sean lo más acertados posibles.
+
+La siguiente configuración muestra los gaps de registro de hasta 1 minuto.
+
+#+header: :tangle yes
+#+begin_src emacs-lisp
+(setq org-agenda-clock-consistency-checks
+      (quote (:max-duration "4:00"
+              :min-duration 0
+              :max-gap 0
+              :gap-ok-around ("4:00"))))
+#+end_src
