@@ -1,6 +1,6 @@
-* Time Clocking
+* Registrando el Tiempo
 :PROPERTIES:
-:CUSTOM_ID: Cloking
+:CUSTOM_ID: RegistrandoElTiempo
 :END:
 
 Ok, lo admito. Soy un fanático de la temporización.
