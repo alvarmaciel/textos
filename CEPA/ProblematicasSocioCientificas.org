@@ -1,7 +1,19 @@
 * Problemáticas sociocientíficas: ciencia y sociedad en el aula
-Tutora lipkopaula@gmail.com
-** TODO Foro de Presentación
+
+** DONE Foro de Presentación
+CLOSED: [2014-09-15 lun 19:52]
 Nomenclatura de trabajos prácticos
-/ApellidoInicialNombre/-/IdentificadorModulo/
-maciela-MODULO
+/ApellidoInicialNombre-IdentificadorModulo/
 ** TODO Módulo 1
+- Preguntas que orientan el módulo:
+  - ¿Cuáles son los procesos de producción del conocimiento científico?
+  - ¿Cuál es la naturaleza del conocimiento científico y tecnológico? ¿Es posible reconocerlo como un saber universal, neutral y objetivo?
+  - ¿La ciencia es un camino que conduce a revelar la verdad de los fenómenos naturales?
+  - ¿Cómo se comunican y legitiman los resultados de las investigaciones científicas?
+  - ¿El conocimiento científico aporta certezas acerca del mundo natural o incluye necesariamente incertidumbres y controversias?
+  - Ciencia y progreso van siempre de la mano?
+
+*** Actividad 1.A 
+*** Glosario
+- ACT:: Alfabetización Científica Tecnológica
+- CTS:: Ciencia Tecnología y Sociedad
