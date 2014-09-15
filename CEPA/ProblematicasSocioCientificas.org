@@ -1,21 +1,7 @@
 * Problemáticas sociocientíficas: ciencia y sociedad en el aula
 Tutora lipkopaula@gmail.com
 ** TODO Foro de Presentación
-Hola todxs,
-Mi nombre es Alvar Maciel. Soy maestro de grado, una especie híbrida entre un maestro de grado y un técnico.
-Participo desde hace muchos años en el movimiento que engloba al software libre y a la cultura libre y de estas últimas ya ni se si la palabra militante se adecua. Es más bien un camino de vida en el medio de la tecnificación del consumo y la mistificación de la tecnología.
-Me interesa el curso ya que considero que hoy es mucho más visible la faceta problemática de la sociedad y su relación con la ciencia y la tecnociencia.
-Y considero necesario que los docentes formemos parte activa de estas problemáticas que nos atraviesan como ciudadanos y nos interpelan como profesionales de la enseñanza. 
-** Nomenclatura de trabajos prácticos
+Nomenclatura de trabajos prácticos
+/ApellidoInicialNombre/-/IdentificadorModulo/
 maciela-MODULO
 ** TODO Módulo 1
-
-| Concepción clasica | Nuevas miradas                      |
-| Universal          | contextualizado                     |
-| Neutral            | contiene valores                    |
-| Evolución lineal   | Resultado de consenso               |
-|                    | Construcción en marco de paradigmas |
-
-*** TODO Ver Método Científico
-*** Déficit Democrático
-- Qué Pasa Riachuelo http://quepasariachuelo.org.ar/  QuePasaRiachuelo es una plataforma de monitoreo basada en datos públicos y alertas ciudadanas. 
