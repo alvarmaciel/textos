@@ -15,5 +15,5 @@ Nomenclatura de trabajos prácticos
 
 *** Actividad 1.A 
 *** Glosario
-- ACT:: Alfabetización Científica Tecnológica
-- CTS:: Ciencia Tecnología y Sociedad
+- ACT :: Alfabetización Científica Tecnológica
+- CTS :: Ciencia Tecnología y Sociedad
