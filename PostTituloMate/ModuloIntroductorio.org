@@ -1,0 +1,8 @@
+* Módulo Introductorio
+** Clase 2. Actividad:
+La propuesta siguiente será poner en diálogo un Núcleo de Aprendizaje Prioritario (NAP) con un recurso digital. ¿Cómo hacer esto? Primero tienen que elegir un Núcleo de Aprendizaje Prioritario de 1º o 2º ciclo de la escuela primaria del área de matemática. Segundo, deben buscar y encontrar un recurso digital que consideren que pueda ser una oportunidad para trabajar el núcleo con sus alumnos. Por último, justifiquen la selección y vinculación realizada.
+*** Selección de Núleo:
+
+:El reconocimiento y uso de los números naturales, de su designación oral y representación escrita y de la organización del sistema decimal de numeración en situaciones problemáticas que requieran:
+: - usar números naturales de una, dos, tres, cuatro y más cifras a través de su designación oral y representación escrita al comparar cantidades y números;
+: XS- identificar regularidades en la serie numérica y analizar el valor posicional en contextos significativos al leer, escribir,comparar números de una, dos, tres, cuatro y más cifras y al operar con ellos.
