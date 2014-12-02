@@ -27,8 +27,24 @@
 <li><a href="#sec-1-3-3">1.3.3. Actividad 3:</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Notas</a></li>
-<li><a href="#sec-1-5">1.5. Bibliografía</a></li>
+<li><a href="#sec-1-4">1.4. Clase 4: La clase, los problemas y su gestión</a>
+<ul>
+<li><a href="#sec-1-4-1">1.4.1. Los problemas en la clase, las situaciones</a></li>
+<li><a href="#sec-1-4-2">1.4.2. El avance de la clase y su gestión</a></li>
+<li><a href="#sec-1-4-3">1.4.3. Actividad:</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-5">1.5. Clase 5.1: La escuela y las decisiones institucionales.</a>
+<ul>
+<li><a href="#sec-1-5-1">1.5.1. ¿Qué saberes enseñar?</a></li>
+<li><a href="#sec-1-5-2">1.5.2. ¿Qué efectos tienen las transformaciones de saberes en la enseñanza?</a></li>
+<li><a href="#sec-1-5-3">1.5.3. ¿Qué tipo de trabajo matemático en el aula?</a></li>
+<li><a href="#sec-1-5-4">1.5.4. ¿Qué prácticas en cada institución?</a></li>
+<li><a href="#sec-1-5-5">1.5.5. La actividad matemática como asunto de la enseñanza</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-6">1.6. Notas</a></li>
+<li><a href="#sec-1-7">1.7. Bibliografía</a></li>
 </ul>
 </li>
 </ul>
@@ -156,7 +172,7 @@ Muchos años después, en el profesorado, en las primeras clases de matemática 
 
 ### Discusiones en clase<a id="sec-1-3-2"></a>
 
--   Los momentosde discusión involucran mucho más que una simpleexplicitación frente a toda la clase de las producciones individuales. Su valor central reside en que son potencialmente fructíferos para la generación de confrontaciones, reflexiones y argumentaciones
+-   Los momentos de discusión involucran mucho más que una simple explicitación frente a toda la clase de las producciones individuales. Su valor central reside en que son potencialmente fructíferos para la generación de confrontaciones, reflexiones y argumentaciones
 -   la actividad debe proponer un verdadero problema por resolver, debe permitir utilizar los conocimientos anteriores y, al mismo tiempo, ofrecer una resistencia suficiente para llevar al alumno a hacer evolucionar esos conocimientos anteriores, a cuestionarlos, a conocer sus límites, a elaborar nuevos.
 -   El aprendizaje matemático, como ya mencionamos, se basa en la *resolución de problemas* y la *reflexión acerca de lo realizado*.
 -   limitaciones tales como que alguno de los alumnos del grupo asuma "la dirección de la solución" o o que algún participante, sin esgrimir argumentos del orden matemático, esté sistemáticamente en desacuerdo con las propuestas de los otros.
@@ -177,14 +193,84 @@ Muchos años después, en el profesorado, en las primeras clases de matemática 
 
 Intervenir en el foro de su grupo compartiendo el valor que Uds. otorgan al momento de debate de la clase y los desafíos que su gestión conlleva.
 
-Desde mi 
+Desde mi práctica docente, las instancias de debate y discusión son elementos cotidianos, en general luego de dar una momento para la resolución de los problemas abro una instancia de debate, estos debates varían en su forma y contenido de acuerdo a los objetivos específicos que tengo plateados. Así, suelo tener diferenciados tres instancias: dos tipos de debate general con toda la clase y una instancia de debate intergrupal. Los dos primeros suelen estar más vinculados a  momentos de *formulación* que den cuenta de las acciones que los estudiantes llevaron a cabo tanto para validar los resultados obtenidos como para que  *poder interpretar un procedimiento en términos de otro* y así *expliciten sus puntos de vista acerca del problema considerado, ofrezcan explicaciones de los procedimientos realizados, utilicen un lenguaje comprensible, esgriman argumentaciones de orden matemático y no simplemente opiniones*. En estos dos contextos, los desafíos más grandes los encuentro en la anticipación previa de las vertientes por donde pueden fluir los debates, dado que si no tengo una planificación sólida de los objetivos de los intercambios, suele suceder que derivan hacia lugares del tipo "lo que está bien y lo que está mal" por otro lado, los debates orientados a la búsqueda de procedimientos más económicos y su vinculación con la sistematización de procedimientos de resolución "oficiales" son otro desafío en mi práctica docentes. La última etapa del tercer caso es la que suele ser más desafiante para mi: cerrar "con una conclusión sobre los aspectos principales que fueron discutidos y que considera necesario que los alumnos reconozcan como conocimientos a los que se les otorga un status oficial y que podrán -y deberán- ser reutilizados en las situaciones donde sean pertinentes."
+La instancia de debate intergrupal es otra instancia en la que trato de poner énfasis y que también tiene sus desafíos en general por el número de alumnos y la tendencia a polarizarce en los dos tipos de debates mencionados en el texto, que "alguno de los alumnos del grupo asuma "la dirección de la solución"  o que algún participante, sin esgrimir argumentos del orden matemático, esté sistemáticamente en desacuerdo con las propuestas de los otros." Situaciones que son difíciles de desarticular o conducir hacia un intercambio fructífero.
 
-## Notas<a id="sec-1-4"></a>
+## Clase 4: La clase, los problemas y su gestión<a id="sec-1-4"></a>
+
+-   ¿Cómo elegir un problema que permita arribar a los conocimientos que queremos enseñar? ¿Qué procedimientos usarían nuestros alumnos para hacerlo? ¿Cómo seguir con la clase?
+
+### Los problemas en la clase, las situaciones<a id="sec-1-4-1"></a>
+
+-   ciertas regularidades implícitas en la relación de los alumnos y el profesor con los conocimientos. Estas reglas determinan un cierto contrato que regula las interacciones y las denomina **contrato didáctico**.
+-   Brousseau define una **situación didáctica** como una situación construida con el fin de que unos alumnos aprendan un saber determinado. Está constituida por todos los elementos que componen el medio con el que los alumnos van a interactuar, incluyendo el problema a resolver, los elementos materiales (si fuera el caso) y, según cómo se decida, un grupo de compañeros.
+    -   “Un conjunto de relaciones establecidas explícita o implícitamente entre un alumno y un grupo de alumnos, un cierto medio (que comprende eventualmente instrumentos u otros objetos) y un sistema educativo (representado por el profesor) con la finalidad de lograr que estos alumnos se apropien de un saber constituido o en vías de constitución.” (Brousseau, citado en Galvez, citado en Panizza, 1994)
+-   Brousseau denomina **situación a-didáctica**  al  momento en el que el alumno se encuentra solo frente a la resolución del problema sin que el maestro intervenga en cuestiones relativas al saber que se quiere que él produzca para arribar a una respuesta ante la situación planteada
+    -   “El término de situación adidáctica designa toda situación que, por una parte no puede ser dominada de manera conveniente sin la puesta en práctica de los conocimientos o del saber que se pretende y que, por la otra, sanciona las decisiones que toma el alumno (buenas o malas) sin la intervención del maestro en lo que concierne al saber que se pone en juego”. (Panizza, 1992).
+    -   tres aspectos de la noción de situación adidáctica que permiten profundizar su comprensión: el conocimiento a construir en la situación debe ser necesario para su resolución; el maestro no debe intervenir en relación con ese conocimiento; y el medio con el que el alumno interactúa debe marcarle de algún modo si las decisiones que tomó al resolver son o no adecuadas.
+    -   **variable didáctica.**
+        -   “Algunas de esas condiciones (de la situación) que pueden variar a voluntad del docente y que constituyen una variable didáctica cuando, según los valores que toman, modifican las estrategias de resolución y en consecuencia, el conocimiento necesario para resolver la situación.”
+-   Brousseau distingue tres tipos de situaciones, cuya descripción tomamos del texto de Panizza:
+    -   **Situaciones de acción**: el alumno debe actuar sobre un medio (material o simbólico), la situación requiere solamente la puesta en acto de conocimientos implícitos.
+    -   **Situaciones de formulación**: un alumno (o un grupo de alumnos) emisor debe formular explícitamente un mensaje destinado a otro alumno (o un grupo de alumnos) receptor, que debe actuar (sobre un medio material o simbólico), de acuerdo con el conocimiento contenido en el mensaje.
+    -   **Situaciones de validación**: dos alumnos (o grupos de alumnos) deben enunciar aserciones y ponerse de acuerdo sobre la verdad o falsedad de ellas. Las afirmaciones propuestas por cada grupo son sometidas a la consideración de otro grupo, que debe tener la capacidad de ´sancionarlas´, es decir, ser capaz de aceptarlas, rechazarlas, pedir pruebas, oponer otras aserciones."  (Panizza, págs. 66/7, 2003)
+
+### El avance de la clase y su gestión<a id="sec-1-4-2"></a>
+
+-   es necesario organizar la enseñanza de otro modo:
+    -   “La actividad principal en matemáticas, en el marco escolar, o en los centros de investigación profesional, consiste en resolver problemas, en plantear cuestiones. (…) El investigador (matemático) puede declarar resuelto un problema si puede justificar sus declaraciones según un sistema de validación propio de las matemáticas. En este camino, crea conceptos que juegan el papel de instrumentos para resolver problemas. Cuando pasa a la comunidad científica, el concepto es descontextualizado para que pueda servir nuevamente. Se convierte, así, en objeto de saber, (…) un objeto cultural que tiene su lugar en una construcción más amplia que es la del conocimiento inteligente en un momento dado, reconocido socialmente”.
+
+### Actividad:<a id="sec-1-4-3"></a>
+
+-   Notas al video:
+    -   ¿Explicanos?
+    -   ¿Qué harías entonces vos con tu novenos?
+    -   ¿Hasta ahí estaríamos en cuanto?(sobre 1/9 + 1/9 + 1/9) ¿estaríamos en un&#x2026;? (1/3)
+    -   ¿Llegaríamos  cuánto? (2/3), hay 1/6 en la mesa ¿Qué carta necesitaría para que llegue a un entero?
+    -   Acá quedaron algunas cuentas escritas, hay algunas cuentas que las podríamos clasificar ¿Cómo las clasificaríamos a estas cuentas? Fáciles, más o menos y un poquito menos fáciles ¿Pero nos sirve aprenderlas para qué? Si volvemos a jugar mañana ¿Sabiendo estas cosas, nos resultaría más fácil el juego?
+
+## Clase 5.1: La escuela y las decisiones institucionales.<a id="sec-1-5"></a>
+
+### ¿Qué saberes enseñar?<a id="sec-1-5-1"></a>
+
+-   El saber matemático asume recortes y formas diferentes “para entrar” en las distintas instituciones **Transposición Didáctica**
+    -   Chevallard señala que tanto los currículum como los textos escolares son portadores de “versiones” del saber que son legitimadas por las decisiones que se toman en los ámbitos académicos y políticos en torno al proyecto social de enseñanza.
+    -   Chevallard advierte que las transformaciones del saber ocurren también “dentro” del sistema didáctico de la clase cuando el docente elige qué “hacer vivir” en ella de los saberes matemáticos indicados en los documentos curriculares y cómo, qué tiempo dedicar a cada uno
+
+### ¿Qué efectos tienen las transformaciones de saberes en la enseñanza?<a id="sec-1-5-2"></a>
+
+-   **Pedagogía del éxito inmediato**. Esta autora denomina así a un conjunto de estrategias destinadas al éxito de los alumnos en las tareas que les proponen, para que tengan confianza en sí mismos, se valoricen, se tranquilicen, tranquilicen a sus familias y seguramente también al docente. Dichas estrategias consisten en privilegiar  actividades simples, aisladas y repetitivas por sobre propuestas que promuevan aprendizajes con sentido, lo que requeriría de un tratamiento en profundidad y a largo plazo.
+
+### ¿Qué tipo de trabajo matemático en el aula?<a id="sec-1-5-3"></a>
+
+-   TAD (Teoría Antropológica de lo Didáctico):
+    -   la TAD acude a la idea de modelización para describir una parte fundamental del trabajo que realizan los matemáticos
+    -   Las problemáticas que dan lugar a esta actividad pueden ser de la realidad o de la misma matemática, dando origen a lo que hemos denominado en la clase 1, problemas de contexto extramatemático o intramatemático.
+    -   En la TAD se explicitan también dos aspectos inseparables de la actividad matemática, la práctica matemática y el discurso razonado sobre dicha práctica.
+    -   “llamaremos “práctica”  a todo uso adaptado, por los alumnos, de instrumentos explícitos o implícitos, sea que esos instrumentos hayan sido objeto de institucionalización o no.”(1999:8)
+    -   Chevallard lo plantea en otros términos, utiliza la noción de praxeología, que incluye un tipo de tarea (por ejemplo calcular multiplicaciones, o compara áreas-), una técnica que permite resolver esta tarea, una tecnología (discurso que sirve para explicar y justificar esta técnica) y, finalmente, una teoría que, pudiendo permanecer implícita, fundamenta esta tecnología.
+
+### ¿Qué prácticas en cada institución?<a id="sec-1-5-4"></a>
+
+-   Los saberes no existen sino como emergentes de prácticas situadas institucionalmente. Esas instituciones, a través de las prácticas que reconocen y valoran, crean sistemas de valores y normas en relación a los saberes, y saber alguna cosa —las fracciones, el álgebra, las funciones— sólo puede tener un sentido relativo. Para una institución dada, saber es poder producir ciertos comportamientos, discursos acordes con las normas y valores institucionales.(Artigue, 2004:9)
+-   Los alumnos establecen en cada institución por la que transcurren su escolaridad, una **relación institucional con el saber**
+
+### La actividad matemática como asunto de la enseñanza<a id="sec-1-5-5"></a>
+
+-   “el asunto” de la clase es la actividad matemática –incluyendo los resultados de dicha actividad, por supuesto- no es una postura unánimemente compartida entre todas las personas involucradas en la educación matemática:
+    -   Ni unos ni otros necesitan pensar en una génesis escolar que convoque a los alumnos a un trabajo de reconstrucción de ideas.
+-   Diremos que un proceso de modelización supone en primer lugar recortar una cierta problemática frente a una realidad generalmente compleja en la que intervienen muchos más elementos de los que uno va a considerar
+-   No es lo mismo, por ejemplo, encarar un problema sabiendo que es un representante perteneciente a una clase de problemas, abarcados por una teoría (Gascón, 2000) y que se pueden tratar con una cierta técnica, que abordarlo como un caso único y aislado que tiene un fin en sí mismo.
+-   La reflexión sobre el trabajo matemático, “produce” más matemática, este es un asunto esencial sobre el que volveremos una y otra vez.
+-   Frente a la resolución de un problema matemático, muchas veces se hace evidente que para abordarlo hacen falta muchos más conocimientos que los que se pueden reconocer como pertenecientes al campo teórico en el que se inserta el problema.
+-   
+
+## Notas<a id="sec-1-6"></a>
 
 :: En Argentina, en la ciudad de San Carlos de Bariloche, funciona el Grupo Patagónico de Didáctica de la Matemática, con la coordinación de la Dra. Betina Zolkower y la Prof. Ana Bressan. Este grupo está constituido por profesionales de la educación dedicados a estudiar, investigar y difundir el enfoque de la Educación Matemática Realista. En su sitio se pueden encontrar experiencias de aula en ese marco, publicaciones específicas y numerosos links de interés. <http://www.gpdmatematica.org.ar/>
 :: Para conocer más sobre la Red Latinoamericana de Etnomatemática ver <http://www.etnomatematica.org>
 
-## Bibliografía<a id="sec-1-5"></a>
+## Bibliografía<a id="sec-1-7"></a>
 
 -   Agrasar, M; Crippa, A; Chara, S; y Chemello, G. Ciclo de formación en enseñanza de la Matemática en el Nivel Primario. Dirección de gestión educativa. Ministerio de Educación de la Nación, 2010
 -   Ávila, A. (2011), “En matemáticas&#x2026; ¿qué nos dejaron las reformas de fin del siglo XX?”, en Cuadernos de Investigación y Formación en Educación Matemática, Año 6, Nº 9, pp 39-50. Costa Rica.
@@ -205,6 +291,8 @@ Desde mi
 <div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> Acá está el conflicto entre el enfoque y el disciplinamiento del tiempo escolar. El tiempo de reflexión y de exploración no es homogéneo pero el tiempo de los resultados es estricto y se aplica a todos los casos. Eso sólo puede llevar a fracasar la aplicación de este enfoque, dado que si no se modifica el tiempo escolar, no se da lugar a que todxs puedan desarrollar el pensamiento conceptual tal como Vergnaud lo plantea. Es la crónica de otro fracaso anunciado por el enquistamiento del sistema educativo burocrático</div>
 
 <div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> no necesariamente, es importante tomar en cuenta otras variables para determinar si realmente hay un debate: ¿Cuántos alumnos son? ¿quiénes participan del debate? ¿cómo? ¿basta con abrir la instancia para que este ocurra? Pareciera que una condición sin equa non para que estas interacciones se lleven a cabo como describe la autora es que lo alumnos estén involucrados en su proceso de aprendizaje. Y este ivolucramiento no es dependiente del enfoque, o mejor dicho no es el enfoque lo que lo determina, sino una multitud de factores, de las cuales el enfoque se tan solo uno de ellos.</div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <p>DEFINITION NOT FOUND.</p></div>
 
 
 </div>
