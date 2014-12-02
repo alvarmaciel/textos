@@ -263,7 +263,6 @@ La instancia de debate intergrupal es otra instancia en la que trato de poner é
 -   No es lo mismo, por ejemplo, encarar un problema sabiendo que es un representante perteneciente a una clase de problemas, abarcados por una teoría (Gascón, 2000) y que se pueden tratar con una cierta técnica, que abordarlo como un caso único y aislado que tiene un fin en sí mismo.
 -   La reflexión sobre el trabajo matemático, “produce” más matemática, este es un asunto esencial sobre el que volveremos una y otra vez.
 -   Frente a la resolución de un problema matemático, muchas veces se hace evidente que para abordarlo hacen falta muchos más conocimientos que los que se pueden reconocer como pertenecientes al campo teórico en el que se inserta el problema.
--   
 
 ## Notas<a id="sec-1-6"></a>
 
