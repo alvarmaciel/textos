@@ -20,10 +20,15 @@
 <li><a href="#sec-1-2-7">1.2.7. Actividad: Para pensar, registrar y guardar&#x2026;</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Clase 3: Los alumnos y las formas de apropiación de los contenidos matemáticos</a></li>
-<li><a href="#sec-1-4">1.4. Gráficos</a></li>
-<li><a href="#sec-1-5">1.5. Notas</a></li>
-<li><a href="#sec-1-6">1.6. Bibliografía</a></li>
+<li><a href="#sec-1-3">1.3. Clase 3: Los alumnos y las formas de apropiación de los contenidos matemáticos</a>
+<ul>
+<li><a href="#sec-1-3-1">1.3.1. Gráficos</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Discusiones en clase</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Actividad 3:</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-4">1.4. Notas</a></li>
+<li><a href="#sec-1-5">1.5. Bibliografía</a></li>
 </ul>
 </li>
 </ul>
@@ -143,18 +148,43 @@ Muchos años después, en el profesorado, en las primeras clases de matemática 
     
     :: "Por un lado, la aprehensión de los objetos matemáticos no puede ser otra cosa que una aprehensión conceptual y por otro, solamente por medio de la producción de representaciones semióticas es posible realizar una actividad sobre los objetos matemáticos" (Raymond Duval, 1995)
 
-## Gráficos<a id="sec-1-4"></a>
+### Gráficos<a id="sec-1-3-1"></a>
 
 ![img](CamposConceptuales.png)
 
 ![img](CamposDeProblemas.png)
 
-## Notas<a id="sec-1-5"></a>
+### Discusiones en clase<a id="sec-1-3-2"></a>
+
+-   Los momentosde discusión involucran mucho más que una simpleexplicitación frente a toda la clase de las producciones individuales. Su valor central reside en que son potencialmente fructíferos para la generación de confrontaciones, reflexiones y argumentaciones
+-   la actividad debe proponer un verdadero problema por resolver, debe permitir utilizar los conocimientos anteriores y, al mismo tiempo, ofrecer una resistencia suficiente para llevar al alumno a hacer evolucionar esos conocimientos anteriores, a cuestionarlos, a conocer sus límites, a elaborar nuevos.
+-   El aprendizaje matemático, como ya mencionamos, se basa en la *resolución de problemas* y la *reflexión acerca de lo realizado*.
+-   limitaciones tales como que alguno de los alumnos del grupo asuma "la dirección de la solución" o o que algún participante, sin esgrimir argumentos del orden matemático, esté sistemáticamente en desacuerdo con las propuestas de los otros.
+-   teoría de las situaciones didácticas elaborada por Guy Brousseau (1986, 1994), que propone asociar los conocimientos matemáticos a distintos tipos de situaciones susceptibles de hacer funcionar diferentes dinámicas sociales.
+    -   se denominan situaciones a-didácticas: problemas a los cuales son confrontados los alumnos y la organización de estas situaciones permite la evolución de sus conocimientos matemáticos.
+    -   desaparece de ellas -momentánea y aparentemente- la intencionalidad didáctica. Es el alumno, y no el maestro, quien pone en escena al conocimiento en función de los requerimientos de la situación.
+    -   clases de situaciones a-didácticas ligadas a los diferentes niveles de sentido de los conocimientos:
+        -   de acción, de formulación y de validación,
+-   *son finalidades de tipo social las que permiten el pasaje de una fase de acción a una fase de formulación y de esta última a una fase de validación. La puesta en acción de una finalidad de tipo social es el instrumento utilizado aquí para modificar la significación de los conocimientos en los alumnos.*
+-   Para que los efectos de estas interacciones sean benéficos, las participaciones de los alumnos deben cumplir con ciertas características, tales como que comprometan sus propias convicciones, expliciten sus puntos de vista acerca del problema considerado, ofrezcan explicaciones de los procedimientos realizados, utilicen un lenguaje comprensible, esgriman argumentaciones de orden matemático y no simplemente opiniones.
+-   Caso de tercero: *Una panadería fabrica 180 tortas por día y las entrega a cada una de sus 15 sucursales de modo que todas reciban la misma cantidad de tortas. ¿Cuántas tortas llegan a cada sucursal?*
+    -   La comparación no se centró, en este caso, tanto en la economía y fiabilidad de los procedimientos sino en poder interpretar un procedimiento en términos del otro.
+    -   Otra intervención de la docente consiste en ofrecer la escritura aritmética de lo que dicen los alumnos, para ofrecer herramientas que colaboren en la objetivación de los conocimientos. Por último, cierra con una conclusión sobre los aspectos principales que fueron discutidos y que considera necesario que los alumnos reconozcan como conocimientos a los que se les otorga un status oficial y que podrán -y deberán- ser reutilizados en las situaciones donde sean pertinentes.
+-   Sobre los *debates matemáticos*:
+    -   Al respecto, Balacheff (1982) distingue entre explicaciones, pruebas y demostraciones. Una explicación es todo discurso que apunta a comunicar el carácter de verdad de un enunciado matemático. Una prueba es una explicación aceptada por otros en un momento dado. Por ello, una explicación puede constituir una prueba para un grupo mientras que no lo es para otro. Finalmente, las demostraciones son pruebas aceptadas por toda la comunidad de matemáticos, donde los enunciados se deducen siguiendo ciertas reglas a partir de unos pocos enunciados considerados verdaderos y, además, se refieren a objetos teóricos.
+
+### Actividad 3:<a id="sec-1-3-3"></a>
+
+Intervenir en el foro de su grupo compartiendo el valor que Uds. otorgan al momento de debate de la clase y los desafíos que su gestión conlleva.
+
+Desde mi 
+
+## Notas<a id="sec-1-4"></a>
 
 :: En Argentina, en la ciudad de San Carlos de Bariloche, funciona el Grupo Patagónico de Didáctica de la Matemática, con la coordinación de la Dra. Betina Zolkower y la Prof. Ana Bressan. Este grupo está constituido por profesionales de la educación dedicados a estudiar, investigar y difundir el enfoque de la Educación Matemática Realista. En su sitio se pueden encontrar experiencias de aula en ese marco, publicaciones específicas y numerosos links de interés. <http://www.gpdmatematica.org.ar/>
 :: Para conocer más sobre la Red Latinoamericana de Etnomatemática ver <http://www.etnomatematica.org>
 
-## Bibliografía<a id="sec-1-6"></a>
+## Bibliografía<a id="sec-1-5"></a>
 
 -   Agrasar, M; Crippa, A; Chara, S; y Chemello, G. Ciclo de formación en enseñanza de la Matemática en el Nivel Primario. Dirección de gestión educativa. Ministerio de Educación de la Nación, 2010
 -   Ávila, A. (2011), “En matemáticas&#x2026; ¿qué nos dejaron las reformas de fin del siglo XX?”, en Cuadernos de Investigación y Formación en Educación Matemática, Año 6, Nº 9, pp 39-50. Costa Rica.
