@@ -44,8 +44,15 @@
 <li><a href="#sec-1-5-6">1.5.6. Actividad Clase 5</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. Notas</a></li>
-<li><a href="#sec-1-7">1.7. Bibliografía</a></li>
+<li><a href="#sec-1-6">1.6. Clase 6: Los conocimientos teóricos y las decisiones en la práctica</a>
+<ul>
+<li><a href="#sec-1-6-1">1.6.1. Nociones didácticas y decisiones de enseñanza</a></li>
+<li><a href="#sec-1-6-2">1.6.2. Acerca de las representaciones de los objetos matemáticos</a></li>
+<li><a href="#sec-1-6-3">1.6.3. Proyecto de enseñanza y modelo didáctico</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-7">1.7. Notas</a></li>
+<li><a href="#sec-1-8">1.8. Bibliografía</a></li>
 </ul>
 </li>
 </ul>
@@ -298,12 +305,47 @@ La instancia de debate intergrupal es otra instancia en la que trato de poner é
         Qué variedad de problemas, qué se pone en juego en su resolución, cómo y cuando se van a abordar las demostraciones, anticipar las estrategias que los alumnos pondrán en juego, qué grado de formulación admiten dichas estrategias, cómo llevar adelante y porqué estas validaciones; son algunas de las cuestiones que vehiculizan las preguntas y que nos permiten a nosotros como docentes enmarcar las prácticas dentro del enfoque que venimos estudiando.
         Estas preguntas apuntan explicitar como se construye la enseñanza y desde que mirada se aborda el aprendizaje y ponen de manifiesto la vinculación del docente con su práctica específica.
 
-## Notas<a id="sec-1-6"></a>
+## Clase 6: Los conocimientos teóricos y las decisiones en la práctica<a id="sec-1-6"></a>
 
-:: En Argentina, en la ciudad de San Carlos de Bariloche, funciona el Grupo Patagónico de Didáctica de la Matemática, con la coordinación de la Dra. Betina Zolkower y la Prof. Ana Bressan. Este grupo está constituido por profesionales de la educación dedicados a estudiar, investigar y difundir el enfoque de la Educación Matemática Realista. En su sitio se pueden encontrar experiencias de aula en ese marco, publicaciones específicas y numerosos links de interés. <http://www.gpdmatematica.org.ar/>
-:: Para conocer más sobre la Red Latinoamericana de Etnomatemática ver <http://www.etnomatematica.org>
+-   Por otra parte, es necesario tener en cuenta, cuando pensamos propuestas para trabajar con nuestros alumnos,  la diferenciación entre los problemas de enseñanza y aquellos problemas propios de la investigación didáctica, dado que no es posible derivar propuestas de enseñanza directamente de los resultados, o incluso, de las estrategias usadas en las investigaciones.
+-   En este sentido, resulta importante tener presente que no cualquier resultado, teórico o derivado de una investigación realizada bajo condiciones particulares, puede transformarse en una recomendación para la enseñanza.
 
-## Bibliografía<a id="sec-1-7"></a>
+### Nociones didácticas y decisiones de enseñanza<a id="sec-1-6-1"></a>
+
+-   es posible identificar  diferentes concepciones de los sujetos que los produjeron y los significados con que  los utilizaron.
+-   se contrapone al modelo homogeneizador que marcó el nacimiento de nuestro sistema educativo y en el que muchos fuimos educados.
+-   Para incluir a todos los alumnos es necesario reconocer la variedad de concepciones y dar lugar a que cada uno pueda relacionar lo que sabe con lo que debe aprender
+-   errores pueden ser interpretados en términos de  concepciones de los alumnos
+-   gran variedad de problemas que pueden resolverse con la misma noción
+-   Es necesario estar atentos para evitar el deslizamiento de nociones que son útiles para el estudio de problemas de enseñanza como contenido de enseñanza para los niños.
+
+### Acerca de las representaciones de los objetos matemáticos<a id="sec-1-6-2"></a>
+
+-   habrá que considerar de qué modo alternar y graduar la variedad de representaciones, cómo abordar su tratamiento y las transformaciones entre diferentes registros
+-   si queremos determinar si los conocimientos involucrados corresponden a los contenidos que queremos enseñar, podemos preguntarnos:
+    ¿A qué conclusiones se podría arribar al analizar los procedimientos?
+    ¿Qué conocimientos se podrían institucionalizar?
+    ¿Con qué otros saberes se relacionan estos conocimientos?
+    ¿Qué nuevas preguntas se podrían plantear para profundizar? ¿Y para reutilizarlos como herramientas en un nuevo problema?
+-   si todas las actividades refieren a usos de los conocimientos matemáticos en contextos extramatemáticos, y no se incluyen problemas intramatemáticos donde esos conocimientos se estudien de manera explícita, se limita la posibilidad de identificarlos, relacionarlos con otros conocimientos
+
+### Proyecto de enseñanza y modelo didáctico<a id="sec-1-6-3"></a>
+
+-   Nos enfrentamos a una complejidad mayor para tomar decisiones, hemos ganado en poder ampliar nuestra mirada sobre las formas de trabajar en  matemática
+-   
+
+## Notas<a id="sec-1-7"></a>
+
+-   En Argentina, en la ciudad de San Carlos de Bariloche, funciona el Grupo Patagónico de Didáctica de la Matemática, con la coordinación de la Dra. Betina Zolkower y la Prof. Ana Bressan. Este grupo está constituido por profesionales de la educación dedicados a estudiar, investigar y difundir el enfoque de la Educación Matemática Realista. En su sitio se pueden encontrar experiencias de aula en ese marco, publicaciones específicas y numerosos links de interés. <http://www.gpdmatematica.org.ar/>
+-   Para conocer más sobre la Red Latinoamericana de Etnomatemática ver <http://www.etnomatematica.org>
+-   Segun los NAP para segundo y tercer grado, se espera 
+    
+    > EN RELACIÓN CON EL NÚMERO Y LAS OPERACIONES:
+    > El  reconocimiento y uso de las operaciones de adición, sustracción, multiplicación y división en situaciones problemáticas que requieran: usar las operaciones de adición, sustracción, multiplicación y división con distintos significados
+    
+    No sería bueno articular entre los grados la progresión y relación de los distintos significados de las operaciones
+
+## Bibliografía<a id="sec-1-8"></a>
 
 -   Agrasar, M; Crippa, A; Chara, S; y Chemello, G. Ciclo de formación en enseñanza de la Matemática en el Nivel Primario. Dirección de gestión educativa. Ministerio de Educación de la Nación, 2010
 -   Ávila, A. (2011), “En matemáticas&#x2026; ¿qué nos dejaron las reformas de fin del siglo XX?”, en Cuadernos de Investigación y Formación en Educación Matemática, Año 6, Nº 9, pp 39-50. Costa Rica.
