@@ -1,0 +1,82 @@
+#+TITLE: C. A. I Isauro Arancibia
+#+AUTHOR: Maestrxs Comunitarios Puentes, caminos y talleristas
+#+EMAIL: isauroarancibia@hotmail.com
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0
+
+* Organización
+:PROPERTIES:
+    :reveal_background: ./imagenes/bandera.png
+    :reveal_background_trans: slide
+    :END:
+** Grado de Nivelación
+#+ATTR_HTML: :height 50%, :width 50% 
+[[./imagenes/nivelacion.png]]	
+
+- Las maestras comunitarias trabajaron en el grado de nivelación junto a los docentes del multigrado
+- Llevaron a cabo Proyectos de Prácticas del Lenguaje, de Ciencias Sociales y también trabajaron en conjunto con el Equipo de Apoyo del Centro Educativo.
+
+** Tercer Ciclo
+#+ATTR_HTML: :height 30%, :width 30% 
+[[file:imagenes/poesia.jpg]]
+- El maestro puente articuló acciones con tercer ciclo colaborando en la planificación de actividades para armar algunos trabajos personalizados
+- Trabajo con estudiantes que egresaron y proyecto de vida para continuar los estudios secundarios.
+** Jardín Maternal
+#+ATTR_HTML: :height 50%, :width 50%
+[[file:imagenes/flor.png]] 
+- La maestra caminos abordó el trabajo con lxs chicxs de este nivel con sobre edad.
+** Talleres
+- Teatro
+- Artes Plásticas
+- Radio Infantil
+- Marroquinería
+- Narración y Expresión artística
+* Algunas imágenes
+** 
+:PROPERTIES:
+    :reveal_background: ./imagenes/talleres1.png
+    :reveal_background_trans: slide
+    :END:
+** 
+:PROPERTIES:
+    :reveal_background: ./imagenes/talleres2.png
+    :reveal_background_trans: slide
+    :END:
+
+** 
+:PROPERTIES:
+    :reveal_background: ./imagenes/talleres3.png
+    :reveal_background_trans: slide
+    :END:
+** 
+:PROPERTIES:
+    :reveal_background: ./imagenes/juegos.png
+    :reveal_background_trans: slide
+    :END:
+** 
+:PROPERTIES:
+    :reveal_background: ./imagenes/mesa1.png
+    :reveal_background_trans: slide
+    :END:
+** 
+:PROPERTIES:
+    :reveal_background: ./imagenes/salida1.png
+    :reveal_background_trans: slide
+    :END:
+* Logros
+:PROPERTIES:
+    :reveal_background: ./imagenes/arbol.png
+    :reveal_background_trans: slide
+    :END:
+** Reuniones de equipo | Construcción del colectivo
+- Todos los viernes el colectivo del Isauro Arancibia se reúne a tomar decisiones, evaluar y coordinar acciones con los diversos equipos que trabajan en el Isauro.
+- Los docentes del C. A. I. participan de las reuniones turnándose para asistir a ella
+- El C. A. I. es parte del isauro
+** Articulaciones con Equipo de Apoyo
+- El equipo contó con el apoyo de la trabajadora social del Isauro estableciendo una sólida relación.
+** Cuento "La ciudad en llamas"
+- En la segunda parte del año la Asociación Civil Incluir junto con los docentes del CAI realizamos un Taller de Narración y Expresión Artística
+- [[file:La-ciudad-en-llamas.pdf][La ciudad en llamas]]
+** Viaje a Córdoba
+- Viajaron 38 chicos acompañados por docentes del grado de nivelación, maestros y talleristas
+** Aumento de la matricula
+- Durante el año se aumento un 30% la matrícula alanzando 65 inscriptos
