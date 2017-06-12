@@ -13,3 +13,12 @@ Comandos y recordatorios para hacer algunas cosas más fácil desde la consola
    #+begin_src shell
    convert -delay 20 -loop 0 *.jpg myimage.gif
    #+end_src
+* Convertir Md file en un buen odt con Pandoc
+1. Convertir el archivo md a html
+   #+begin_src shell
+     pandoc -f markdown -o [archivo destino.html] [archivo origen.md]
+   #+end_src
+3. Convertir el archivo html a odt
+   #+begin_src shell
+     pandoc -f html -o [archivo destino.odt] [archivo origen.html]
+   #+end_src
