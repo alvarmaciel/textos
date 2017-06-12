@@ -1,0 +1,15 @@
+Comandos y recordatorios para hacer algunas cosas más fácil desde la consola
+* Gif Maker
+1. Instalar ImageMagick
+   #+begin_src shell
+   sudo apt-get install imagemagick
+   #+end_src
+2. Juntar todas las imágenes en una carpeta con nombres_números consecutivos
+3. Redimensionar las imágenes
+   #+begin_src shell
+   mogrify -resize 640x480 *.jpg
+   #+end_src
+4. Crear el GIF
+   #+begin_src shell
+   convert -delay 20 -loop 0 *.jpg myimage.gif
+   #+end_src
