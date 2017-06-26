@@ -1,0 +1,3 @@
+* Habitos
+- [[http://orgmode.org/manual/Tracking-your-habits.html]]
+- agregar ++1w/2d  se repite todas las semanas y puede tener 2 días de delay
