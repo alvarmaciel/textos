@@ -1,6 +1,6 @@
 * Proyecto: Sucedió en colores
 
-Se propone una secuencia de trabajo sobre la lectura del libro de cuentos "Sucedió en colores"[fn:1]. La particularidad de este proyecto es que se puede abordar un cuento cada dos sesiones de trabajo, de forma que a pesar de las ausencias salteadas de algunos estudiantes, estos, cada vez que asisten al grupo de trabajo, pueden incluirse sin perder el hilo del proyecto. Son dos encuentros autoconlusivos por cada cuento.
+Se propone una secuencia de trabajo sobre la lectura del libro de cuentos "Sucedió en colores"[^fn:1]. La particularidad de este proyecto es que se puede abordar un cuento cada dos sesiones de trabajo, de forma que a pesar de las ausencias salteadas de algunos estudiantes, estos, cada vez que asisten al grupo de trabajo, pueden incluirse sin perder el hilo del proyecto. Son dos encuentros autoconlusivos por cada cuento.
 
 Para el desarrollo de esta propuesta de enseñanza se espera que cada niño cuente con la posibilidad de contar con un ejemplar del libro o en su defecto, un ejemplar del cuento de forma impresa o digital. Sustenta la propuesta brindar la oportunidad de transitar por diversas situaciones de
 lectura y escritura:
@@ -127,4 +127,4 @@ Los loros pasaron junto a la ventana de Esmeralda y la despertaron.
 3. Al final de la historia Bruno se va a buscar a Melania ¿Habrán ido a pasear? ¿Dónde? ¿Qué le habrá contado Bruno? ¿Le habrá pedido ser la novia? Escribí un diálogo posible del paseo entre Melania y Bruno, no te olvides que el cuento se llama Negro.
 * Footnotes
 
-[fn:1] [[http://maestromasmaestro.com.ar/wp-content/uploads/2013/11/2%C2%B0-Autor-GM-Lectura-de-novelas1.pdf][secuencia en base a "Leer novelas de Graciela Montes y “Tengo un montruo en el bolsillo" del programa Maestros Más Maestros]] y en [[https://docs.google.com/file/d/0B4I3zmAwvYg_S1NUdExVRXdiWHc/edit][La niña que iluminó la noche del Programa de Aceleración]]
+[^fn:1] [[http://maestromasmaestro.com.ar/wp-content/uploads/2013/11/2%C2%B0-Autor-GM-Lectura-de-novelas1.pdf][secuencia en base a "Leer novelas de Graciela Montes y “Tengo un montruo en el bolsillo" del programa Maestros Más Maestros]] y en [[https://docs.google.com/file/d/0B4I3zmAwvYg_S1NUdExVRXdiWHc/edit][La niña que iluminó la noche del Programa de Aceleración]]
