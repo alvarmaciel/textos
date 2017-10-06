@@ -76,8 +76,10 @@ Los maestros presentan el cuento, leen mostrando el título y el nombre del auto
 
 **** Intercambio entre lectores
 Este es un buen cuanto para abordar la voz del texto, ya que empieza contando un narrador y el cuento en si mismo los cuenta un personaje. Además hay marcas textuales que indican este pasaje, por lo cual es una buena idea comenzar desde aquí el intercambio:
+
 > Toda la familia se sentó a su alrededor. El abuelo esquimal contó su cuento.
 >/Este suceceso transcurrió cuando ni los abuelos de mis abuelos habían nacido./
+
 - ¿Por que cambia la letra del texto?
 - ¿Quién cuenta la historia en la primer parte y quién en la segunda?
 - ¿Qué le pasó a la luna según el cuento del abuelo?
@@ -90,6 +92,7 @@ Este es un buen cuanto para abordar la voz del texto, ya que empieza contando un
 *** Lectura de fragmento con ejemplar en mano
 
 Vamos a leer un fragmento del cuento entre todos
+
 > "El oso clavó sus garras en la luna, justo cuando el lobo clavaba sus colmillos. Los dos animales tironearon con fuerza porque ninguno quería soltar lo que había casado. Entonces..."
 
 **** Dicatdo al maestro
@@ -117,6 +120,7 @@ Posibles preguntas para abrir el intercambio
 
 *** Escritura de posbles nuevos entramados para el cuento
 Los docentes recapitularán el cuento y a partir de un un diálogo con los niños y niñas propondrán leer el siguiente fragmento de "Amarillo" e inventar nuevos posibles problemas y resoluciónes para este cuento:
+
 > "Todo comenzó durante una calurosa siesta de verano, cuando el durmiente emperador..."
 
 Se espera poder hacer este trabajo en parejas que escriban solo un listado de ideas para un nuevo cuento.
