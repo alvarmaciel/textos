@@ -178,4 +178,4 @@ Los loros pasaron junto a la ventana de Esmeralda y la despertaron.
 3. Al final de la historia Bruno se va a buscar a Melania ¿Habrán ido a pasear? ¿Dónde? ¿Qué le habrá contado Bruno? ¿Le habrá pedido ser la novia? Escribí un diálogo posible del paseo entre Melania y Bruno, no te olvides que el cuento se llama Negro.
 
 * Notas
-[^1]: [[http://maestromasmaestro.com.ar/wp-content/uploads/2013/11/2%C2%B0-Autor-GM-Lectura-de-novelas1.pdf][secuencia en base a "Leer novelas de Graciela Montes y “Tengo un montruo en el bolsillo" del programa Maestros Más Maestros]] y en [[https://docs.google.com/file/d/0B4I3zmAwvYg_S1NUdExVRXdiWHc/edit][La niña que iluminó la noche del Programa de Aceleración]]
+[^1]: [secuencia en base a "Leer novelas de Graciela Montes y “Tengo un montruo en el bolsillo" del programa Maestros Más Maestros](http://maestromasmaestro.com.ar/wp-content/uploads/2013/11/2%C2%B0-Autor-GM-Lectura-de-novelas1.pdf) y en [La niña que iluminó la noche del Programa de Aceleración](https://docs.google.com/file/d/0B4I3zmAwvYg_S1NUdExVRXdiWHc/edit])
