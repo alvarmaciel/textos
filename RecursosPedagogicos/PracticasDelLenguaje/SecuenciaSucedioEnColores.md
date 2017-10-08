@@ -8,13 +8,16 @@ lectura y escritura:
 
 - lectura por parte del maestro;
 - sucesivos intercambios entre lectores;
-- lectura de la biografía del autor para saber más sobre su vida y obra con escrituras de toma de notas a través del dictado al maestro;
-- lectura de la biografía del ilustrador;
+- ~~lectura de la biografía del autor para saber más sobre su vida y obra con escrituras de toma de notas a través del dictado al maestro;~~
+- ~~lectura de la biografía del ilustrador;~~
 - lectura en pequeños grupos;
 - lectura por sí mismos;
 - escritura por sí mismos (individualmente, en parejas y en grupos pequeños) a partir de las lecturas realizadas.
 
 ## Rojo:
+
+
+
 ### Lectura por parte del maestro
 
 Los maestros presentan el cuento, leen mostrando el título y el nombre del autor. Escriben los datos del autor y del nombre del libro en un afiche para que queden disponibles como referencias seguras (que pueden utilizarse para otras escrituras). Esto puede ser el punta pie para comenzar a hacer un rincón en las paredes del aula de escrituras sobre el mismo. Este es un buen momento para preguntar a los chicos y chicas si se imagina por qué se llama así el cuento, a fin de anticipar los distintos tipos de imágenes que convoca el cuento para decir rojo... sin decirlo nunca
@@ -93,53 +96,71 @@ Este es un buen cuanto para abordar la voz del texto, ya que empieza contando un
 
 #### Escrituras intermedias
 
-1. Imaginá que nuevos personajes se prdrían sumar a la historia del cuento "Blanco" (tené en cuenta el título).
+1. Imaginá que nuevos personajes se podrían sumar a la historia del cuento "Blanco" (tené en cuenta el título).
 2. Buscá en el cuento una frase que utilice la autora para que podamos imaginarnos un mundo blanco. Escribila en la carpeta (no te olvides de  ponerlo entre comillas).
 
 ### Lectura de fragmento con ejemplar en mano
 
-Vamos a leer un fragmento del cuento entre todos
+Vamos a leer un fragmento a del cuento entre todos
 
 > "El oso clavó sus garras en la luna, justo cuando el lobo clavaba sus colmillos. Los dos animales tironearon con fuerza porque ninguno quería soltar lo que había casado. Entonces..."
 
-#### Dicatdo al maestro
+#### Marcar en el texto
 
-1. Ahora vamos a escribir entre todos, otro final para la historia.  Algunas ideas: 
+1. Ubica y marcá en el texto la escena en la que el oso y el lobo se disputan la luna. 
+2. Escribí en tu cuaderno lo que le pasó a la luna
+3. Ahora vamos a escribir entre todos, otro final para la historia.  Algunas ideas: 
 - puede aparecer un personaje nuevo, 
 - pueden llegar a un acuerdo el lobo y el oso, 
 - la luna puede empezar a hablar.
 
 ## Amarillo 
-#### Lectura por parte del maestro. 
+
+### Lectura por parte del maestro. ###
 
 Los maestros presentan el cuento, leen mostrando el título y el nombre del autor. Igual que la vez anterior, este es un buen momento para preguntar a los chicos y chicas si se imagina por qué se llama así el cuento, a esta altura, esta pregunta abrirá una suerte de juego de anticipación para verificar las hipótesis a partir del texto.
 
-#### Intercambio entre lectores
+#### Intercambio entre lectores ####
+Posibles preguntas para abrir el intercambio:
 
-Posibles preguntas para abrir el intercambio
-- ¿Cómo era su pesadilla, qué le decía?
-- ¿Qué consejos le dieron para dejar de tener pesadillas?
-- ¿en una parte dice que tenía en color de la envidia... qué color será ese?
-- ¿Qué le hace a sus enemigos?, ¿cómo?
-- ¿Qué le pasó al final al emperador?
-- ¿Quién era el verdadero enemigo del emperador?
+- ¿Cómo dice en el cuento que eran las siestas?
+- ¿Que le decía el sueño?
+- ¿Qué le aconsejó la esposa, y el consejero?
+- Hay una parte que dice el emperador tenía el *color de la envidia* ¿Cuál será ese color?
+- ¿Por qué terminaron temiendole todos los del reino?
+- ¿Cómo fue que se cumplió su pesadilla?
+- 
+##### Escrituras intermedias #####
 
-#### Escrituras intermedias
+1. ¿Qué otros remedios se les ocurre para espantar los sueños desagradables?
 
-1. En un momento de la historia, el emperador tomó su pluma, un trozo de pergamino y escribió una larga lista de posibles enemigos ¿Quiénes podrían aparecer en esa lista?
-2. ¿Qué otros remedios se les ocurre para espantar los sueños desagradables?
+### Escritura de posibles nuevos entramados para el cuento ###
 
-### Escritura de posbles nuevos entramados para el cuento
+Los docentes recapitularán el cuento y a partir de un un diálogo con los niños y niñas propondrán leer el siguiente fragmento de "Amarillo" 
 
-Los docentes recapitularán el cuento y a partir de un un diálogo con los niños y niñas propondrán leer el siguiente fragmento de "Amarillo" e inventar nuevos posibles problemas y resoluciónes para este cuento:
+> "Ye-low caminó y caminó. Atravesó los trigales dando gritos amenazadores..."
 
-> "Todo comenzó durante una calurosa siesta de verano, cuando el durmiente emperador..."
+1. Ubicar en el texto que leímos como estaba el emperador luego de caminar tanto bajo el sol con su armadura puesta
+2. Escribí un estado de facebook que cuente lo que le pasó a Ye-low.
+![](/RecursosPedagogicos/PracticasDelLenguaje/Imagenes/EstadoYelow.png)
 
-Se espera poder hacer este trabajo en parejas que escriban solo un listado de ideas para un nuevo cuento.
+## Verde: 
 
-## Verde: Lectura individual. Completar partes
+### Lectura por parte del maestro ###
 
-Con el "Cuento en mano", completá las oraciones que faltan para completar la red de acciones que sucedieron en el cuento
+Los maestros presentan el cuento, leen mostrando el título y el nombre del autor. Igual que la vez anterior, este es un buen momento para preguntar a los chicos y chicas si se imagina por qué se llama así el cuento, a esta altura, esta pregunta abrirá una suerte de juego de anticipación para verificar las hipótesis a partir del texto.
+
+### Intercambio entre lectores  ###
+
+Posibles preguntas para abrir el intercambio:
+
+### Propuesta de escritura ###
+
+Pensá y escribí unos carteles que la señora del campesino podría haber escrito para pegar en el pueblo y así advertir a los vecinos de que una desgracia se avecinaba.
+
+### Lectura individual. Completar partes ###
+
+Lectura por parte del maestro con ejemplar en mano. Con el "Cuento en mano", completr las oraciones que faltan para completar la red de acciones que sucedieron en el cuento
 
 El campesino escupió un carozo de aceituna.
 El carozo dio justo en la cabeza de una ran y la rana se murió, por eso...
@@ -164,14 +185,17 @@ Los loros pasaron junto a la ventana de Esmeralda y la despertaron.
 ¡Y adiós, mala tormenta!
 
 
-## Verde: Imaginación
+## Negro: 
 
-1. Teniendo en cuenta el título del cuento. ¿Qué otras desgracias se te ocurren que podrían haber llegado al campo de estos personajes?
-2. Pensá y escribí unos carteles que la señora del campesino podría haber escrito para pegar en el pueblo y así advertir a los vecinos de que una desgracia se avecinaba.
-3. Imaginá que el Guardián del Instituto Agronómico de Parques, Prados y Praderas, hubiera tenido que avisar a las patrullas de fumigación por teléfono. Escribí que te imaginás que hubiera dicho.
-¿Y si hubiera sido por mail? Escribilo.
+### Lectura por parte del  maestro ###
 
-## Negro: Lectura del maestro
+#### Intercambio entre lectores  ####
+
+### Porpuesta de escritura ###
+
+### Lectura con ejemplar en mano ###
+
+##### Propuesta de escritura #####
 
 1. Bruno pensaba que era el último día de su vida ¿Qué cosas hizo por ser su último día?
 2. ¿Quién era en verdad la señora que parecía ser la muerte?
