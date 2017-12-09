@@ -1,0 +1,8 @@
+* Como instalar Jasper usando Travis
+1. Forkear [[https://github.com/biomadeira/jasper][Jasper]]
+2. Clonar al Disco =git clone git@github.com:bocetos/jasper.git=
+3. crear la token marcando Repo, admin.org y user
+4. Editar =_config.yml_=
+   1. username= es el usuario que aparece en la dirección del repo, si es una orga, el nombre de la orga
+   2. repo= el nombre del repo
+5. Editar =.travis.yml=
